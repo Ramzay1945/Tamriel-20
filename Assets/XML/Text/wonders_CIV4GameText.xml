@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Piper (Firaxis Games) -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<!-- Customiser Text by Orion Veteran -->
+	<TEXT>
+		<Tag>TXT_KEY_ARBORETUM_PEDIA_TEXT</Tag>
+		<English>[H1]Arboretum[\H1][NEWLINE][SPACE]The Imperial City Arboretum is the southeast district of the Imperial City from which the Imperial City, Arena District, the Imperial City, Temple District, and the Imperial City Palace can be accessed. The Arboretum is the city's botanical gardens and is one of the only non-residential districts, the Arena being the other. Located in the center of the Aboretum are the statues of the Nine Divines. Scores of the city's citizens visit the Arboretum throughout the day. Trees, flowers mushrooms, and other flora enhance the serenity of the courtyard. During the Thieves Guild quest The Ultimate Heist, the player must access the Imperial City Sewers from the grate located in the northwest section of the district.</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WINTERHOLD_PEDIA_TEXT</Tag>
+		<English>[H1]The College of Winterhold[\H1][NEWLINE][SPACE]Winterhold was once a great, powerful and wealthy hold, and its relationship with the College of Winterhold was good. In 4E 122, an unprecedented, cataclysmic event struck Winterhold and most of the areas along the coastline. A massive storm came in from the Sea of Ghosts, which brought huge waves which crashed into Winterhold. Most of the city fell into the sea, leaving the city in ruins both physically in terms of the destruction of the city itself, and the emotional and psychological damage to Winterhold's people. This event would eventually be referred to as "The Great Collapse." The disaster left Winterhold in ruins, and some had said that things would never be the same again, including Winterhold's relationship with the College. The people of Winterhold would eventually begin to blame the College for causing the Great Collapse. Winterhold has yet to recover from the Great Collapse.</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WHITE_GOLD_PEDIA_TEXT</Tag>
+		<English>[H1]The White-Gold Tower[\H1][NEWLINE][SPACE]The White-Gold Tower (or White Gold Tower), also known as the Imperial City Palace or White-Gold, is an ancient Ayleid structure and one of the Towers of Nirn, located in the Green Emperor Way District of the Imperial City in the province of Cyrodiil. Originally called the Temple of the Ancestors, the tower was the center of the Ayleid religion and the original home of a set of ancient Ayleid statues known as the Ten Ancestors. Its existence predates the rise of man and the writing of history in the Imperial Province. Today, it is used mainly as the home of the Elder Council and the priceless Elder Scrolls.</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MINISTRY_PEDIA_TEXT</Tag>
+		<English>[H1]The Ministry of Truth[\H1][NEWLINE][SPACE]The Ministry of Truth, also known as Baar Dau, Lie Rock, or Vivec Ministry, was a large floating satellite above the Temple at Vivec suspended only by the power of the god Vivec, and later the Ingenium. The Ministry of Truth is used as an inescapable prison where prisoners that are dangerous to the Tribunal Temple are kept. Baar Dau was a large moonlet sent to destroy Vivec City by the Daedric Prince, Sheogorath. When Vivec saw Baar Dau falling from the sky, he merely lifted his hand and it froze above the city. Instead of destroying the meteor, Vivec decided to keep it above his city, the reason for this was so that if the people of Vivec ever stopped loving him, the meteor would descend on them and destroy them all. When Vivec disappeared during the Oblivion Crisis around the very end of the Third Era, the Ministry became unstable. Two Dunmer, Sul and Vuhon, made a pact with Clavicus Vile to create a device known as the Ingenium, which would keep it afloat. The device that used souls as power to keep the Ministry suspended in air. At first, only the captured souls of outlaws and prisoners were used, but eventually innocent people were as well. Sometime between 4E 4 and 4E 5, when Sul's lover Ilzheven was sacrificed by Vuhon, he attempted to save her from the Ingenium. This caused the device to be destroyed and subsequently nothing kept the Ministry afloat; resulting in it violently crashing into the city of Vivec and completely destroyed it, creating an area known as Scathing Bay. The vibrations from the crash caused Red Mountain to erupt, beginning the Red Year. Most of Vvardenfell was and covered with ash or burning in flames, forcing its few surviving residents to flee in a hurry off of the island.[4] This event is said to be the final contributor in officially ending the Tribunal Temple's worship in Morrowind.</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SILVENAR_PALACE_ROOMS_PEDIA_TEXT</Tag>
+		<English>[H1]Silvenar Palace Rooms[\H1][NEWLINE][SPACE]Location: Silvenar, Valenwood.</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MINISTRY_GWYLIM_TEXT</Tag>
+		<English>[H1]The University of Gwylim[\H1][NEWLINE][SPACE]The University of Gwylim (sometimes called the University of Gwilym) is a university based in Cyrodiil that serves as a school, but also publishes a great deal of lore about the history of Tamriel. One of its best Sages was Tjurhane Fyrre, who wrote about his people, the Ayleids. The book Ancient Tales of the Dwemer by Marobar Sul was only published after they encouraged the publisher to do so. The university also teaches a number of Spells, and it is known that Erer Darothil was a teacher of Illusion at the university at some point. The university translated the book Opusculus Lamae Bal in 3E 105. In 2E 455, "Homfrey" was an esteemed historian from this university.</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_ARCANE_TEXT</Tag>
+		<English>[H1]Arcane University[\H1][NEWLINE]
+[SPACE]The Arcane University is located on the City Isle, within one of the two small towers situated to the east of the main White-Gold Tower. The walls of the University form a circular area, outside the main city walls, of roughly the same area as the innermost circle of the Imperial City, Green Emperor Way.
+The layout is similar to the Imperial Prison, located in the northeastern tower, consisting of a single circular wall, surrounding an open grassy area with the main tower situated slightly off-center in the middle of the area. The university layout includes a second, much larger building immediately behind the tower, which houses the Imperial Orrery.
+The Arch-Mage's Tower is a smaller version of the massive White Gold Tower, approximately the same size and shape as the Imperial Guard towers found around the outside edge of the Imperial City proper. Its key distinguishing feature is the cone-shaped addition to the top of the tower, which houses the Arch-Mage's personal quarters. The tower also contains the Mages' Guild council chambers, and at the lowest level, a small lobby. The lobby is the only section of the tower open to the public.
+The majority of the University grounds are located behind a thick wall, and are off-limits to visitors. The main tower sits precisely in the center of this wall, atop a raised walkway. Large iron gates extend out from the tower along the walls, and will only open for Mages' Guild members of at least Apprentice rank. Non-members are permitted into the tower lobby, where a few guild members are usually found, but cannot exit into the university grounds or Orrery.
+As with the rest of the Ayleid city, the walls around the outside of the University house a number of buildings, most of which are two stories with no basement. There is a small Imperial watchtower near the back of the university, shorter than those in the city proper, which is home to the Imperial Battlemages patrolling the university grounds. The only gate through the walls leads to the northwest, to a short footbridge leading to a gate into the Arboretum.
+</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_SURILIE_TEXT</Tag>
+		<English>[H1]Surilie Brothers Vineyards[\H1][NEWLINE]
+[SPACE]The Vineyard is run by the Surilie brothers, Gaston and Davide Surilie. They are a competitor to Tamika's Vineyards, despite Davide admitting that he prefers Tamika's Wine over his own.
+Their fine wine consists of Surilie Brothers Vintage 415, Surilie Brothers Vintage 399, and lastly, Surilie Brothers Wine. The Surilie Brothers Wine is the most common of their wines while the Surilie Brothers Vintage 399 is the rarest and most expensive. This being said, Surilie Brothers Vintage 415 lies neutral in cost.
+The Surilie Brothers and their wine are much respected in the neighboring city of Skingrad, and many residents can be heard commenting on them in a positive fashion.
+</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_BARDS_COLLEGE_TEXT</Tag>
+		<English>[H1]The Bards College[\H1][NEWLINE]
+[SPACE]The Bards College is where almost all bards found in Skyrim were trained.
+The Bards College is a musical school in Solitude. The Bards College is where any aspiring bard starts his career in tale-telling or song. It is located next door to Proudspire Manor, near the Blue Palace inside the walls of Solitude. The College, though large, contains few notable items. Many of the bards around Skyrim were trained at the College.
+The Bards College has two known departments, in History and Lute (Music). The Bards College, many poets, and historians write poems and stories in the Poetic Edda, a collection of endless poems that depict Skyrim's extended history. The Ateia family is a recurring contributor to the Bards College, since their earliest members, Parteron Ateia, who donated his last flute to the Bards College, all the way to Pantea Ateia, who was a dean at the college during the Skyrim Civil War.
+The Bards College was founded when Skyrim was a part of the First Empire, roughly during the twilight years of Ysgramor's dynasty, and the years following. At one point, Solitude was sacked by Olaf One-Eye in the late years of the War of Succession, and sometime later, Solitude and the Bards College would make a yearly tradition based on Olaf's exploits. The College's students flood the markets to celebrate for a week and end it with the Burning of King Olaf, where everyone gathers at the college courtyard to burn an effigy that depicts King Olaf One-Eye. This tradition would continue for many centuries, to celebrate Olaf's victory over Numinex and his ascension to the throne. More and more famous bards and scholars would come from the Bards College, such as Callisos and Morachellis. The now famous, Flames of Callisos was named after the alumni.
+Many years later, during the Skyrim Civil War in 4E 201, the Bards College was administrated by Headmaster Viarmo, who choose to keep the politics of the civil war away from his institute.[7] At this time, Jarl Elisif the Fair had canceled the annual Burning of King Olaf, as she considered it poor taste after the assassination of her husband, High King Torygg. To persuade her to change her mind, Viarmo had sent a student of the college to find a lost verse of the Poetic Edda, King Olaf's Verse, written by the First Era skald, Svaknir. The student found themselves at Dead Man's Respite, the burial place of High King Olaf One-Eye. The student had brought back King Olaf's Verse and presented it to Jarl Elisif. The burning of the effigy would commence that year, and continue to do so.
+</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+
+
+
+
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TIBER_SEPTIM_PEDIA</Tag>
+		<English>[H1]Emperor Tiber Septim[\H1][NEWLINE][SPACE]Tiber Septim (also called Hjalti) was a Dragonborn and the first Emperor of the Septim Empire. He is regarded as one of Tamriel's most famous figures. Starting with his service under the Cyrodilic king Cuhlecain, Tiber Septim fought as general Talos to unify Cyrodiil and finally all of Tamriel, an effort that culminated in the birth of the Third Empire. Tiber Septim gave his name to the lineage of Cyrodiil Emperors, the Septims. Upon his death he, arguably, became the god Talos and took his place in the pantheon of the Nine Divines..</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MANE_PEDIA</Tag>
+		<English>[H1]Mane Rid-Thar-ri'Datta[\H1][NEWLINE][SPACE]Rid-Thar-ri'Datta was the first Mane. The Riddle'Thar was revealed to Elsweyr by the prophet Rid-Thar-ri'Datta, the Mane. The Riddle'Thar is more a set of guidelines by which to live than a single entity, but some of his avatars like to appear as humble messengers of the gods.</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_THASSAD_PEDIA</Tag>
+		<English>[H1]Cyrus the Restless[\H1][NEWLINE][SPACE]Cyrus the Restless, also known as Sura in Yoku, was a Redguard hero and rebel during 2E 864. The story of The Elder Scrolls Adventures: Redguard starts with Cyrus returning to Stros M'kai in search of his sister Iszara, who had gone missing.</English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<!-- End Customiser -->
+</Civ4GameText>

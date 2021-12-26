@@ -1,0 +1,189 @@
+<?xml version="1.0"  encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_SPACE_RACE</Tag>
+		<English>Numidium</English>
+		<French>Numidium</French>
+		<German>Numidium</German>
+		<Italian>Numidium</Italian>
+		<Spanish>Numidium</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_SPACE_RACE_READY</Tag>
+		<English></English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_BRASS_GOD</Tag>
+		<English>Brass God</English>
+		<French>Brass God</French>
+		<German>Brass God</German>
+		<Italian>Brass God</Italian>
+		<Spanish>Brass God</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_BRASS_GOD_PEDIA</Tag>
+		<English>Brass God</English>
+		<French>Brass God</French>
+		<German>Brass God</German>
+		<Italian>Brass God</Italian>
+		<Spanish>Brass God</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_NUMIDIUM_STRATEGY</Tag>
+		<English>Brass God</English>
+		<French>Brass God</French>
+		<German>Brass God</German>
+		<Italian>Brass God</Italian>
+		<Spanish>Brass God</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_BRASS_GOLEM</Tag>
+		<English>Brass Golem</English>
+		<French>Brass Golem</French>
+		<German>Brass Golem</German>
+		<Italian>Brass Golem</Italian>
+		<Spanish>Brass Golem</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_BRASS_GOLEM_PEDIA</Tag>
+		<English>Brass Golem</English>
+		<French>Brass Golem</French>
+		<German>Brass Golem</German>
+		<Italian>Brass Golem</Italian>
+		<Spanish>Brass Golem</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_NUMIDIUM_DIVINITY</Tag>
+		<English>Numidium Greater Divinity</English>
+		<French>Numidium Greater Divinity</French>
+		<German>Numidium Greater Divinity</German>
+		<Italian>Numidium Greater Divinity</Italian>
+		<Spanish>Numidium Greater Divinity</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_NUMIDIUM_DIVINITY_PEDIA</Tag>
+		<English>Numidium Greater Divinity</English>
+		<French>Numidium Greater Divinity</French>
+		<German>Numidium Greater Divinity</German>
+		<Italian>Numidium Greater Divinity</Italian>
+		<Spanish>Numidium Greater Divinity</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_NUMIDIUM_TONES</Tag>
+		<English>Numidium Golden Tones</English>
+		<French>Numidium Golden Tones</French>
+		<German>Numidium Golden Tones</German>
+		<Italian>Numidium Golden Tones</Italian>
+		<Spanish>Numidium Golden Tones</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_NUMIDIUM_TONES_PEDIA</Tag>
+		<English>Numidium Tones</English>
+		<French>Numidium Tones</French>
+		<German>Numidium Tones</German>
+		<Italian>Numidium Tones</Italian>
+		<Spanish>Numidium Tones</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_NUMIDIUM_ONE_TONE</Tag>
+		<English>Numidium One Tone</English>
+		<French>Numidium One Tone</French>
+		<German>Numidium One Tone</German>
+		<Italian>Numidium One Tone</Italian>
+		<Spanish>Numidium One Tone</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_NUMIDIUM_ONE_TONE_PEDIA</Tag>
+		<English>Numidium Tones</English>
+		<French>Numidium Tones</French>
+		<German>Numidium Tones</German>
+		<Italian>Numidium Tones</Italian>
+		<Spanish>Numidium Tones</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_NUMIDIUM_SKIN_LAYERS</Tag>
+		<English>Numidium Skin Layers</English>
+		<French>Numidium Skin Layers</French>
+		<German>Numidium Skin Layers</German>
+		<Italian>Numidium Skin Layers</Italian>
+		<Spanish>Numidium Skin Layers</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_NUMIDIUM_SKIN_LAYERS_PEDIA</Tag>
+		<English>Numidium Skin Layers</English>
+		<French>Numidium Skin Layers</French>
+		<German>Numidium Skin Layers</German>
+		<Italian>Numidium Skin Layers</Italian>
+		<Spanish>Numidium Skin Layers</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_KEENING</Tag>
+		<English>Keening</English>
+		<French>Keening</French>
+		<German>Keening</German>
+		<Italian>Keening</Italian>
+		<Spanish>Keening</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_KEENING_PEDIA</Tag>
+		<English>Keening</English>
+		<French>Keening</French>
+		<German>Keening</German>
+		<Italian>Keening</Italian>
+		<Spanish>Keening</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_SUNDER</Tag>
+		<English>Sunder</English>
+		<French>Sunder</French>
+		<German>Sunder</German>
+		<Italian>Sunder</Italian>
+		<Spanish>Sunder</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_SUNDER_PEDIA</Tag>
+		<English>Sunder</English>
+		<French>Sunder</French>
+		<German>Sunder</German>
+		<Italian>Sunder</Italian>
+		<Spanish>Sunder</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_WRAITHGUARD</Tag>
+		<English>Wraithguard</English>
+		<French>Wraithguard</French>
+		<German>Wraithguard</German>
+		<Italian>Wraithguard</Italian>
+		<Spanish>Wraithguard</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_WRAITHGUARD_PEDIA</Tag>
+		<English>Wraithguard</English>
+		<French>Wraithguard</French>
+		<German>Wraithguard</German>
+		<Italian>Wraithguard</Italian>
+		<Spanish>Wraithguard</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_NUMIDIUM_POWER</Tag>
+		<English>Numidium Power</English>
+		<French>Numidium Power</French>
+		<German>Numidium Power</German>
+		<Italian>Numidium Power</Italian>
+		<Spanish>Numidium Power</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROJECT_NUMIDIUM_POWER_PEDIA</Tag>
+		<English>Numidium Power</English>
+		<French>Numidium Power</French>
+		<German>Numidium Power</German>
+		<Italian>Numidium Power</Italian>
+		<Spanish>Numidium Power</Spanish>
+	</TEXT>
+</Civ4GameText>

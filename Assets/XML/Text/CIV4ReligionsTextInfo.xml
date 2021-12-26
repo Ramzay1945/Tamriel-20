@@ -1,0 +1,339 @@
+<?xml version="1.0"  encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_AEDRA</Tag>
+		<English>Aedra</English>
+		<French>Aedra</French>
+		<German>Aedra</German>
+		<Italian>Aedra</Italian>
+		<Spanish>Aedra</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_AEDRA_ADJECTIVE</Tag>
+		<English>Aedric</English>
+		<French>Aedric</French>
+		<German>Aedric</German>
+		<Italian>Aedric</Italian>
+		<Spanish>Aedric</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AEDRIC_MISSIONARY</Tag>
+		<English>Aedric Missionary</English>
+		<French>Aedric Missionary</French>
+		<German>Aedric Missionary</German>
+		<Italian>Aedric Missionary</Italian>
+		<Spanish>Aedric Missionary</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AEDRA_TEMPLE</Tag>
+		<English>Aedric Temple</English>
+		<French>Aedric Temple</French>
+		<German>Aedric Temple</German>
+		<Italian>Aedric Temple</Italian>
+		<Spanish>Aedric Temple</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AEDRA_CATHEDRAL</Tag>
+		<English>Auri-El Cult</English>
+		<French>Auri-El Cult</French>
+		<German>Auri-El Cult</German>
+		<Italian>Auri-El Cult</Italian>
+		<Spanish>Auri-El Cult</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AEDRA_MONASTERY</Tag>
+		<English>Aedric Church</English>
+		<French>Aedric Church</French>
+		<German>Aedric Church</German>
+		<Italian>Aedric Church</Italian>
+		<Spanish>Aedric Church</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AEDRA_SHRINE</Tag>
+		<English>Adalattasel</English>
+		<French>Adalattasel</French>
+		<German>Adalattasel</German>
+		<Italian>Adalattasel</Italian>
+		<Spanish>Adalattasel</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_EIGHT_DIVINES</Tag>
+		<English>Eight Divines</English>
+		<French>Divines</French>
+		<German>Divines</German>
+		<Italian>Divines</Italian>
+		<Spanish>Divines</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_EIGHT_DIVINES_ADJECTIVE</Tag>
+		<English>Divine</English>
+		<French>Divine</French>
+		<German>Divine</German>
+		<Italian>Divine</Italian>
+		<Spanish>Divine</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EIGHT_DIVINES_MISSIONARY</Tag>
+		<English>Divine Missionary</English>
+		<French>Divine Missionary</French>
+		<German>Divine Missionary</German>
+		<Italian>Divine Missionary</Italian>
+		<Spanish>Divine Missionary</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EIGHT_DIVINES_TEMPLE</Tag>
+		<English>Wayshrine of the Divines</English>
+		<French>Temple of the Divines</French>
+		<German>Temple of the Divines</German>
+		<Italian>Temple of the Divines</Italian>
+		<Spanish>Temple of the Divines</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EIGHT_DIVINES_CATHEDRAL</Tag>
+		<English>Cathedral of the Divines</English>
+		<French>Chapel of the Divines</French>
+		<German>Chapel of the Divines</German>
+		<Italian>Chapel of the Divines</Italian>
+		<Spanish>Chapel of the Divines</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EIGHT_DIVINES_MONASTERY</Tag>
+		<English>Priory of the Divines</English>
+		<French>Priory of the Divines</French>
+		<German>Priory of the Divines</German>
+		<Italian>Priory of the Divines</Italian>
+		<Spanish>Priory of the Divines</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EIGHT_DIVINES_SHRINE</Tag>
+		<English>Temple of the One</English>
+		<French>Akatosh Shrine</French>
+		<German>Akatosh Shrine</German>
+		<Italian>Akatosh Shrine</Italian>
+		<Spanish>Akatosh Shrine</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_DAEDRA</Tag>
+		<English>Daedra</English>
+		<French>Daedra</French>
+		<German>Daedra</German>
+		<Italian>Daedra</Italian>
+		<Spanish>Daedra</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_DAEDRA_ADJECTIVE</Tag>
+		<English>Daedric</English>
+		<French>Daedric</French>
+		<German>Daedric</German>
+		<Italian>Daedric</Italian>
+		<Spanish>Daedric</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DAEDRIC_MISSIONARY</Tag>
+		<English>Daedric Missionary</English>
+		<French>Daedric Missionary</French>
+		<German>Daedric Missionary</German>
+		<Italian>Daedric Missionary</Italian>
+		<Spanish>Daedric Missionary</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DAEDRA_TEMPLE</Tag>
+		<English>Daedric Temple</English>
+		<French>Daedric Temple</French>
+		<German>Daedric Temple</German>
+		<Italian>Daedric Temple</Italian>
+		<Spanish>Daedric Temple</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DAEDRA_CATHEDRAL</Tag>
+		<English>Daedric Shrine</English>
+		<French>Daedric Shrine</French>
+		<German>Daedric Shrine</German>
+		<Italian>Daedric Shrine</Italian>
+		<Spanish>Daedric Shrine</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DAEDRA_MONASTERY</Tag>
+		<English>Daedric Monastery</English>
+		<French>Daedric Monastery</French>
+		<German>Daedric Monastery</German>
+		<Italian>Daedric Monastery</Italian>
+		<Spanish>Daedric Monastery</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DAEDRA_SHRINE</Tag>
+		<English>Daedric Great Shrine</English>
+		<French>Daedric Great Shrine</French>
+		<German>Daedric Great Shrine</German>
+		<Italian>Daedric Great Shrine</Italian>
+		<Spanish>Daedric Great Shrine</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_ANCESTRAL</Tag>
+		<English>Ancestral Spirits</English>
+		<French>Ancestral Spirits</French>
+		<German>Ancestral Spirits</German>
+		<Italian>Ancestral Spirits</Italian>
+		<Spanish>Ancestral Spirits</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_ANCESTRAL_ADJECTIVE</Tag>
+		<English>Ancestral</English>
+		<French>Ancestral</French>
+		<German>Ancestral</German>
+		<Italian>Ancestral</Italian>
+		<Spanish>Ancestral</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ANCESTRAL_MISSIONARY</Tag>
+		<English>Ancestral Missionary</English>
+		<French>Ancestral Missionary</French>
+		<German>Ancestral Missionary</German>
+		<Italian>Ancestral Missionary</Italian>
+		<Spanish>Ancestral Missionary</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ANCESTRAL_TEMPLE</Tag>
+		<English>Ancestral Temple</English>
+		<French>Ancestral Temple</French>
+		<German>Ancestral Temple</German>
+		<Italian>Ancestral Temple</Italian>
+		<Spanish>Ancestral Temple</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ANCESTRAL_CATHEDRAL</Tag>
+		<English>Family Shrine</English>
+		<French>Family Shrine</French>
+		<German>Family Shrine</German>
+		<Italian>Family Shrine</Italian>
+		<Spanish>Family Shrine</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ANCESTRAL_MONASTERY</Tag>
+		<English>Monastery of Ancestral Worship</English>
+		<French>Monastery of Ancestral Worship</French>
+		<German>Monastery of Ancestral Worship</German>
+		<Italian>Monastery of Ancestral Worship</Italian>
+		<Spanish>Monastery of Ancestral Worship</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ANCESTRAL_SHRINE</Tag>
+		<English>City of the Dead</English>
+		<French>City of the Dead</French>
+		<German>City of the Dead</German>
+		<Italian>City of the Dead</Italian>
+		<Spanish>City of the Dead</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_MONOTHEISM</Tag>
+		<English>Monotheism</English>
+		<French>Monotheism</French>
+		<German>Monotheism</German>
+		<Italian>Monotheism</Italian>
+		<Spanish>Monotheism</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_MONOTHEISM_ADJECTIVE</Tag>
+		<English>Monotheistic</English>
+		<French>Monotheistic</French>
+		<German>Monotheistic</German>
+		<Italian>Monotheistic</Italian>
+		<Spanish>Monotheistic</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MONOTHEISTIC_MISSIONARY</Tag>
+		<English>Monotheistic Missionary</English>
+		<French>Monotheistic Missionary</French>
+		<German>Monotheistic Missionary</German>
+		<Italian>Monotheistic Missionary</Italian>
+		<Spanish>Monotheistic Missionary</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MONOTHEISTIC_TEMPLE</Tag>
+		<English>Temple of Marukh</English>
+		<French>Temple of Marukh</French>
+		<German>Temple of Marukh</German>
+		<Italian>Temple of Marukh</Italian>
+		<Spanish>Temple of Marukh</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MONOTHEISTIC_CATHEDRAL</Tag>
+		<English>Prayer House</English>
+		<French>Prayer House</French>
+		<German>Prayer House</German>
+		<Italian>Prayer House</Italian>
+		<Spanish>Prayer House</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MONOTHEISTIC_MONASTERY</Tag>
+		<English>Marukhati Monastery</English>
+		<French>Marukhati Monastery</French>
+		<German>Marukhati Monastery</German>
+		<Italian>Marukhati Monastery</Italian>
+		<Spanish>Marukhati Monastery</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MONOTHEISTIC_SHRINE</Tag>
+		<English>Temple of the One</English>
+		<French>Temple of the One</French>
+		<German>Temple of the One</German>
+		<Italian>Temple of the One</Italian>
+		<Spanish>Temple of the One</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_TRIBUNAL</Tag>
+		<English>Tribunal</English>
+		<French>Tribunal</French>
+		<German>Tribunal</German>
+		<Italian>Tribunal</Italian>
+		<Spanish>Tribunal</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_TRIBUNAL_ADJECTIVE</Tag>
+		<English>Tribunal</English>
+		<French>Tribunal</French>
+		<German>Tribunal</German>
+		<Italian>Tribunal</Italian>
+		<Spanish>Tribunal</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRIBUNAL_MISSIONARY</Tag>
+		<English>Tribunal Missionary</English>
+		<French>Tribunal Missionary</French>
+		<German>Tribunal Missionary</German>
+		<Italian>Tribunal Missionary</Italian>
+		<Spanish>Tribunal Missionary</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRIBUNAL_TEMPLE</Tag>
+		<English>Tribunal Temple</English>
+		<French>Tribunal Temple</French>
+		<German>Tribunal Temple</German>
+		<Italian>Tribunal Temple</Italian>
+		<Spanish>Tribunal Temple</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRIBUNAL_CATHEDRAL</Tag>
+		<English>Tribunal Cathedral</English>
+		<French>Tribunal Cathedral</French>
+		<German>Tribunal Cathedral</German>
+		<Italian>Tribunal Cathedral</Italian>
+		<Spanish>Tribunal Cathedral</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRIBUNAL_MONASTERY</Tag>
+		<English>ALMSIVI Monastery</English>
+		<French>ALMSIVI Monastery</French>
+		<German>ALMSIVI Monastery</German>
+		<Italian>ALMSIVI Monastery</Italian>
+		<Spanish>ALMSIVI Monastery</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRIBUNAL_SHRINE</Tag>
+		<English>High Fane</English>
+		<French>High Fane</French>
+		<German>High Fane</German>
+		<Italian>High Fane</Italian>
+		<Spanish>High Fane</Spanish>
+	</TEXT>
+</Civ4GameText>

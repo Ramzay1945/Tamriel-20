@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Civ4NewConceptInfos xmlns="x-schema:Artifacts_CIV4BasicInfoSchema.xml">
+	<NewConceptInfos>
+		<NewConceptInfo>
+			<Type>CONCEPT_ARTIFACTS</Type>
+			<Description>TXT_KEY_CONCEPT_ARTIFACTS</Description>
+			<Civilopedia>TXT_KEY_CONCEPT_ARTIFACTS_PEDIA</Civilopedia>
+		</NewConceptInfo>
+	</NewConceptInfos>
+</Civ4NewConceptInfos>

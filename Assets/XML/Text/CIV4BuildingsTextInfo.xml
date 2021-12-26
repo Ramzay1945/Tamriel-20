@@ -1,0 +1,595 @@
+<?xml version="1.0"  encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PENITUS_OCULATUS</Tag>
+		<English>Penitus Oculatus</English>
+		<French>Penitus Oculatus</French>
+		<German>Penitus Oculatus</German>
+		<Italian>Penitus Oculatus</Italian>
+		<Spanish>Penitus Oculatus</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ORC_PALACE</Tag>
+		<English>Palace</English>
+		<French>Palace</French>
+		<German>Palace</German>
+		<Italian>Palace</Italian>
+		<Spanish>Palace</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MONEY_CHANGER</Tag>
+		<English>Money Changer</English>
+		<French>Money Changer</French>
+		<German>Money Changer</German>
+		<Italian>Money Changer</Italian>
+		<Spanish>Money Changer</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BOSMER_CASTLE</Tag>
+		<English>Reinforcement</English>
+		<French>Reinforcement</French>
+		<German>Reinforcement</German>
+		<Italian>Reinforcement</Italian>
+		<Spanish>Reinforcement</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ALCHEMIST_SHOP</Tag>
+		<English>Alchemist Shop</English>
+		<French>Alchemist Shop</French>
+		<German>Alchemist Shop</German>
+		<Italian>Alchemist Shop</Italian>
+		<Spanish>Alchemist Shop</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SMITHY</Tag>
+		<English>Smelters Hall</English>
+		<French>Smelters Hall</French>
+		<German>Smelters Hall</German>
+		<Italian>Smelters Hall</Italian>
+		<Spanish>Smelters Hall</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BOSMER_ALCHEMIST_SHOP</Tag>
+		<English>Magister</English>
+		<French>Magister</French>
+		<German>Magister</German>
+		<Italian>Magister</Italian>
+		<Spanish>Magister</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HEALER</Tag>
+		<English>Healer</English>
+		<French>Healer</French>
+		<German>Healer</German>
+		<Italian>Healer</Italian>
+		<Spanish>Healer</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BRETON_HEALER</Tag>
+		<English>Restoration Priest</English>
+		<French>Restoration Priest</French>
+		<German>Restoration Priest</German>
+		<Italian>Restoration Priest</Italian>
+		<Spanish>Restoration Priest</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TAVERN</Tag>
+		<English>Tavern</English>
+		<French>Tavern</French>
+		<German>Tavern</German>
+		<Italian>Tavern</Italian>
+		<Spanish>Tavern</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NORD_TAVERN</Tag>
+		<English>Inn</English>
+		<French>Inn</French>
+		<German>Inn</German>
+		<Italian>Inn</Italian>
+		<Spanish>Inn</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARENA</Tag>
+		<English>Arena</English>
+		<French>Arena</French>
+		<German>Arena</German>
+		<Italian>Arena</Italian>
+		<Spanish>Arena</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GARDEN</Tag>
+		<English>Garden</English>
+		<French>Garden</French>
+		<German>Garden</German>
+		<Italian>Garden</Italian>
+		<Spanish>Garden</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BURIAL_TOMB</Tag>
+		<English>Burial Tomb</English>
+		<French>Burial Tomb</French>
+		<German>Burial Tomb</German>
+		<Italian>Burial Tomb</Italian>
+		<Spanish>Burial Tomb</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENCHANTING_ALTAR</Tag>
+		<English>Enchanting Altar</English>
+		<French>Enchanting Altar</French>
+		<German>Enchanting Altar</German>
+		<Italian>Enchanting Altar</Italian>
+		<Spanish>Enchanting Altar</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ALTMER_ENCHANTING_ALTAR</Tag>
+		<English>Enchanter</English>
+		<French>Enchanter</French>
+		<German>Enchanter</German>
+		<Italian>Enchanter</Italian>
+		<Spanish>Enchanter</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAGES_COLLEGE</Tag>
+		<English>Mages' College</English>
+		<French>Mages' College</French>
+		<German>Mages' College</German>
+		<Italian>Mages' College</Italian>
+		<Spanish>Mages' College</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCROLLS_SCRIBE</Tag>
+		<English>Scrolls Scribe</English>
+		<French>Scrolls Scribe</French>
+		<German>Scrolls Scribe</German>
+		<Italian>Scrolls Scribe</Italian>
+		<Spanish>Scrolls Scribe</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SCHOOL_OF_MAGIC</Tag>
+		<English>School of Magic</English>
+		<French>School of Magic</French>
+		<German>School of Magic</German>
+		<Italian>School of Magic</Italian>
+		<Spanish>School of Magic</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ALTMER_SCHOOL_OF_MAGIC</Tag>
+		<English>Ageasel</English>
+		<French>Ageasel</French>
+		<German>Ageasel</German>
+		<Italian>Ageasel</Italian>
+		<Spanish>Ageasel</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LABORATORY</Tag>
+		<English>Laboratory</English>
+		<French>Laboratory</French>
+		<German>Laboratory</German>
+		<Italian>Laboratory</Italian>
+		<Spanish>Laboratory</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INGENIUM</Tag>
+		<English>Ingenium</English>
+		<French>Ingenium</French>
+		<German>Ingenium</German>
+		<Italian>Ingenium</Italian>
+		<Spanish>Ingenium</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOTEL</Tag>
+		<English>Hotel</English>
+		<French>Hotel</French>
+		<German>Hotel</German>
+		<Italian>Hotel</Italian>
+		<Spanish>Hotel</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NEWSLETTER</Tag>
+		<English>Newsletter</English>
+		<French>Newsletter</French>
+		<German>Newsletter</German>
+		<Italian>Newsletter</Italian>
+		<Spanish>Newsletter</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_ARENA</Tag>
+		<English>Great Arena</English>
+		<French>Great Arena</French>
+		<German>Great Arena</German>
+		<Italian>Great Arena</Italian>
+		<Spanish>Great Arena</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_BAZAAR</Tag>
+		<English>Great Bazaar</English>
+		<French>Great Bazaar</French>
+		<German>Great Bazaar</German>
+		<Italian>Great Bazaar</Italian>
+		<Spanish>Great Bazaar</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NECROMANCERS_GUILD</Tag>
+		<English>Necromancers Guild</English>
+		<French>Necromancers Guild</French>
+		<German>Necromancers Guild</German>
+		<Italian>Necromancers Guild</Italian>
+		<Spanish>Necromancers Guild</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BATTLESPIRE</Tag>
+		<English>Battlespire</English>
+		<French>Battlespire</French>
+		<German>Battlespire</German>
+		<Italian>Battlespire</Italian>
+		<Spanish>Battlespire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TELVANNI_HEADQUARTERS</Tag>
+		<English>Telvanni Headquarters</English>
+		<French>Telvanni Headquarters</French>
+		<German>Telvanni Headquarters</German>
+		<Italian>Telvanni Headquarters</Italian>
+		<Spanish>Telvanni Headquarters</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_REDORAN_HEADQUARTERS</Tag>
+		<English>Redoran Headquarters</English>
+		<French>Redoran Headquarters</French>
+		<German>Redoran Headquarters</German>
+		<Italian>Redoran Headquarters</Italian>
+		<Spanish>Redoran Headquarters</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HLAALU_HEADQUARTERS</Tag>
+		<English>Hlaalu Headquarters</English>
+		<French>Hlaalu Headquarters</French>
+		<German>Hlaalu Headquarters</German>
+		<Italian>Hlaalu Headquarters</Italian>
+		<Spanish>Hlaalu Headquarters</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DRES_HEADQUARTERS</Tag>
+		<English>Dres Headquarters</English>
+		<French>Dres Headquarters</French>
+		<German>Dres Headquarters</German>
+		<Italian>Dres Headquarters</Italian>
+		<Spanish>Dres Headquarters</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INDORIL_HEADQUARTERS</Tag>
+		<English>Indoril Headquarters</English>
+		<French>Indoril Headquarters</French>
+		<German>Indoril Headquarters</German>
+		<Italian>Indoril Headquarters</Italian>
+		<Spanish>Indoril Headquarters</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MORAG_TONG_HEADQUARTERS</Tag>
+		<English>Morag Tong Headquarters</English>
+		<French>Morag Tong Headquarters</French>
+		<German>Morag Tong Headquarters</German>
+		<Italian>Morag Tong Headquarters</Italian>
+		<Spanish>Morag Tong Headquarters</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DWEMER_FORGE</Tag>
+		<English>Dwemer Forge</English>
+		<French>Dwemer Forge</French>
+		<German>Dwemer Forge</German>
+		<Italian>Dwemer Forge</Italian>
+		<Spanish>Dwemer Forge</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UNIVERSITY_OF_MAGIC</Tag>
+		<English>University of Magic</English>
+		<French>University of Magic</French>
+		<German>University of Magic</German>
+		<Italian>University of Magic</Italian>
+		<Spanish>University of Magic</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SEA_EXPLOITS</Tag>
+		<English>Sea Exploits</English>
+		<French>Sea Exploits</French>
+		<German>Sea Exploits</German>
+		<Italian>Sea Exploits</Italian>
+		<Spanish>Sea Exploits</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RIVER_TRADE_DEPOT</Tag>
+		<English>River Trade Depot</English>
+		<French>River Trade Depot</French>
+		<German>River Trade Depot</German>
+		<Italian>River Trade Depot</Italian>
+		<Spanish>River Trade Depot</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CLOUD_RULER_TEMPLE</Tag>
+		<English>Cloud Ruler Temple</English>
+		<French>Cloud Ruler Temple</French>
+		<German>Cloud Ruler Temple</German>
+		<Italian>Cloud Ruler Temple</Italian>
+		<Spanish>Cloud Ruler Temple</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_RIMMEN_PALACE</Tag>
+		<English>Rimmen Palace</English>
+		<French>Rimmen Palace</French>
+		<German>Rimmen Palace</German>
+		<Italian>Rimmen Palace</Italian>
+		<Spanish>Rimmen Palace</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_OBSERVATORY</Tag>
+		<English>Observatory</English>
+		<French>Observatory</French>
+		<German>Observatory</German>
+		<Italian>Observatory</Italian>
+		<Spanish>Observatory</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ORRERY</Tag>
+		<English>Orrery</English>
+		<French>Orrery</French>
+		<German>Orrery</German>
+		<Italian>Orrery</Italian>
+		<Spanish>Orrery</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WHITE_GOLD_TOWER</Tag>
+		<English>White Gold Tower</English>
+		<French>White Gold Tower</French>
+		<German>White Gold Tower</German>
+		<Italian>White Gold Tower</Italian>
+		<Spanish>White Gold Tower</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARCANE_UNIVERSITY</Tag>
+		<English>Arcane University</English>
+		<French>Arcane University</French>
+		<German>Arcane University</German>
+		<Italian>Arcane University</Italian>
+		<Spanish>Arcane University</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARANSEL</Tag>
+		<English>Aransel</English>
+		<French>Aransel</French>
+		<German>Aransel</German>
+		<Italian>Aransel</Italian>
+		<Spanish>Aransel</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAGES_TRAINER</Tag>
+		<English>Mages Trainer</English>
+		<French>Mages Trainer</French>
+		<German>Mages Trainer</German>
+		<Italian>Mages Trainer</Italian>
+		<Spanish>Mages Trainer</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CEPORAH_TOWER</Tag>
+		<English>Ceporah Tower</English>
+		<French>Ceporah Tower</French>
+		<German>Ceporah Tower</German>
+		<Italian>Ceporah Tower</Italian>
+		<Spanish>Ceporah Tower</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CRYSTAL_TOWER</Tag>
+		<English>Crystal Tower</English>
+		<French>Crystal Tower</French>
+		<German>Crystal Tower</German>
+		<Italian>Crystal Tower</Italian>
+		<Spanish>Crystal Tower</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CLOCKWORK_CITY</Tag>
+		<English>Clockwork City</English>
+		<French>Clockwork City</French>
+		<German>Clockwork City</German>
+		<Italian>Clockwork City</Italian>
+		<Spanish>Clockwork City</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOURNHOLD_TEMPLE</Tag>
+		<English>Mournhold Temple</English>
+		<French>Mournhold Temple</French>
+		<German>Mournhold Temple</German>
+		<Italian>Mournhold Temple</Italian>
+		<Spanish>Mournhold Temple</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SILVENAR_PALACE_ROOMS</Tag>
+		<English>Silvenar Palace Rooms</English>
+		<French>Silvenar Palace Rooms</French>
+		<German>Silvenar Palace Rooms</German>
+		<Italian>Silvenar Palace Rooms</Italian>
+		<Spanish>Silvenar Palace Rooms</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_VIVECS_PALACE</Tag>
+		<English>Vivec's Palace</English>
+		<French>Vivec's Palace</French>
+		<German>Vivec's Palace</German>
+		<Italian>Vivec's Palace</Italian>
+		<Spanish>Vivec's Palace</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ANTI_MAGE</Tag>
+		<English>Anti Mage</English>
+		<French>Anti Mage</French>
+		<German>Anti Mage</German>
+		<Italian>Anti Mage</Italian>
+		<Spanish>Anti Mage</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GHOST_FENCE</Tag>
+		<English>Ghost Fence</English>
+		<French>Ghost Fence</French>
+		<German>Ghost Fence</German>
+		<Italian>Ghost Fence</Italian>
+		<Spanish>Ghost Fence</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AKATOSH_STATUE</Tag>
+		<English>Akatosh Statue</English>
+		<French>Akatosh Statue</French>
+		<German>Akatosh Statue</German>
+		<Italian>Akatosh Statue</Italian>
+		<Spanish>Akatosh Statue</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UNIVERSITY_OF_GWILYM</Tag>
+		<English>University of Gwilym</English>
+		<French>University of Gwilym</French>
+		<German>University of Gwilym</German>
+		<Italian>University of Gwilym</Italian>
+		<Spanish>University of Gwilym</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CENTRAL_MARKET</Tag>
+		<English>Central Market</English>
+		<French>Central Market</French>
+		<German>Central Market</German>
+		<Italian>Central Market</Italian>
+		<Spanish>Central Market</Spanish>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_HARBOR</Tag>
+		<English>Great Harbor</English>
+		<French>Great Harbor</French>
+		<German>Great Harbor</German>
+		<Italian>Great Harbor</Italian>
+		<Spanish>Great Harbor</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DREAMING_CAVERN</Tag>
+		<English>Dreaming Cavern</English>
+		<French>Dreaming Cavern</French>
+		<German>Dreaming Cavern</German>
+		<Italian>Dreaming Cavern</Italian>
+		<Spanish>Dreaming Cavern</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_GREAT_ZIGGURAT</Tag>
+		<English>Great Ziggurat</English>
+		<French>Great Ziggurat</French>
+		<German>Great Ziggurat</German>
+		<Italian>Great Ziggurat</Italian>
+		<Spanish>Great Ziggurat</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SANCRE_TOR</Tag>
+		<English>Sancre Tor</English>
+		<French>Sancre Tor</French>
+		<German>Sancre Tor</German>
+		<Italian>Sancre Tor</Italian>
+		<Spanish>Sancre Tor</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARBORETUM</Tag>
+		<English>Arboretum</English>
+		<French>Arboretum</French>
+		<German>Arboretum</German>
+		<Italian>Arboretum</Italian>
+		<Spanish>Arboretum</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITY_OF_IRON</Tag>
+		<English>City of Iron</English>
+		<French>City of Iron</French>
+		<German>City of Iron</German>
+		<Italian>City of Iron</Italian>
+		<Spanish>City of Iron</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ELDER_SCROLLS</Tag>
+		<English>Elder Scrolls</English>
+		<French>Elder Scrolls</French>
+		<German>Elder Scrolls</German>
+		<Italian>Elder Scrolls</Italian>
+		<Spanish>Elder Scrolls</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BOSMER_BARRACKS</Tag>
+		<English>Archery Range</English>
+		<French>Archery Range</French>
+		<German>Archery Range</German>
+		<Italian>Archery Range</Italian>
+		<Spanish>Archery Range</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_IMPERIAL_BARRACKS</Tag>
+		<English>Legion Fort</English>
+		<French>Legion Fort</French>
+		<German>Legion Fort</German>
+		<Italian>Legion Fort</Italian>
+		<Spanish>Legion Fort</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_KHAJIIT_GRANARY</Tag>
+		<English>Khajiit Granary</English>
+		<French>Khajiit Granary</French>
+		<German>Khajiit Granary</German>
+		<Italian>Khajiit Granary</Italian>
+		<Spanish>Khajiit Granary</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_KHAJIIT_MARKET</Tag>
+		<English>Moon Sugar Trader</English>
+		<French>Moon Sugar Trader</French>
+		<German>Moon Sugar Trader</German>
+		<Italian>Moon Sugar Trader</Italian>
+		<Spanish>Moon Sugar Trader</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARGONIAN_ARENA</Tag>
+		<English>City Tree</English>
+		<French>City Tree</French>
+		<German>City Tree</German>
+		<Italian>City Tree</Italian>
+		<Spanish>City Tree</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_REDGUARD_LIGHTHOUSE</Tag>
+		<English>Yokudan Lighthouse</English>
+		<French>Yokudan Lighthouse</French>
+		<German>Yokudan Lighthouse</German>
+		<Italian>Yokudan Lighthouse</Italian>
+		<Spanish>Yokudan Lighthouse</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FIGHTERS_GUILD</Tag>
+		<English>Fighters Guild</English>
+		<French>Fighters Guild</French>
+		<German>Fighters Guild</German>
+		<Italian>Fighters Guild</Italian>
+		<Spanish>Fighters Guild</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAGES_GUILD</Tag>
+		<English>Mages Guild</English>
+		<French>Mages Guild</French>
+		<German>Mages Guild</German>
+		<Italian>Mages Guild</Italian>
+		<Spanish>Mages Guild</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_KNIGHTLY_ORDER</Tag>
+		<English>Knightly Order</English>
+		<French>Knightly Order</French>
+		<German>Knightly Order</German>
+		<Italian>Knightly Order</Italian>
+		<Spanish>Knightly Order</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ORC_CASTLE</Tag>
+		<English>Iron Walls</English>
+		<French>Iron Walls</French>
+		<German>Iron Walls</German>
+		<Italian>Iron Walls</Italian>
+		<Spanish>Iron Walls</Spanish>
+	</TEXT>
+</Civ4GameText>

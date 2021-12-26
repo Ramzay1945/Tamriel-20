@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- isenchine: 2 additional texts for the Religion Screen -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_SCREEN_LEFT_PANEL_TITLE</Tag>
+		<English>Cities with the selected religion:</English>
+		<French>Villes avec la religion s&#233;lectionn&#233;e:</French>
+		<German>St&#228;dte mit dem ausgew&#228;hlten Religion:</German>
+		<Italian>Citt&#224; con la religione selezionato:</Italian>
+		<Spanish>Ciudades con la religi&#243;n seleccionado:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_SCREEN_RIGHT_PANEL_TITLE</Tag>
+		<English>Cities without the selected religion:</English>
+		<French>Villes sans la religion s&#233;lectionn&#233;e:</French>
+		<German>St&#228;dte ohne dem ausgew&#228;hlten Religion:</German>
+		<Italian>Citt&#224; senza la religione selezionato:</Italian>
+		<Spanish>Ciudades sin la religi&#243;n seleccionado:</Spanish>
+	</TEXT>
+</Civ4GameText>

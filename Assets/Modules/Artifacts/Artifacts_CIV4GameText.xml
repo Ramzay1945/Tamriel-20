@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_ARTIFACTS</Tag>
+		<English>Artifacts</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_CONCEPT_ARTIFACTS_PEDIA</Tag>
+		<English>[H1]Artifacts[\H1][PARAGRAPH:1]Artifacts are randomly obtained during land combats. Veterans have higher chance of obtaining artifacts. There is only one of each kind. When a unit with an artifact is defeated in combat, the artifact is passed on to the victor. However, if the unit died due to other reasons such as nukes, the artifact is lost forever.</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_OBTAIN_ARTIFACT</Tag>
+		<English>[COLOR_YELLOW]%s1[COLOR_GREEN] has obtained [COLOR_UNIT_TEXT]%s2[COLOR_GREEN]![COLOR_REVERT]</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_MET_ARTIFACT</Tag>
+		<English>[COLOR_LIGHT_GREY]%s1 has obtained %s2![COLOR_REVERT]</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_NOT_MET_ARTIFACT</Tag>
+		<English>[COLOR_LIGHT_GREY]%s1 has been found in a far away land![COLOR_REVERT]</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GUNGNIR</Tag>
+		<English>Gungnir</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GUNGNIR_HELP</Tag>
+		<English>[NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Gungnir[COLOR_REVERT] is the Spear of Odin and is also referred to as the "Spear of Heaven". The three-pronged spear is of unknown origin, and predates the last three incarnations of Odin himself.</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_EXCALIBUR</Tag>
+		<English>Excalibur</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_EXCALIBUR_HELP</Tag>
+		<English>[NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Excalibur[COLOR_REVERT] is the legendary sword of King Arthur, sometimes attributed with magical powers or associated with the rightful sovereignty of Great Britain. Sometimes Excalibur and the Sword in the Stone are said to be the same weapon, but in most versions they are considered separate. In Welsh, the sword is called Caledfwlch.</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AEGIS</Tag>
+		<English>Aegis</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AEGIS_HELP</Tag>
+		<English>[NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]The Aegis[COLOR_REVERT] is the shield or buckler or breastplate, of Athena or Zeus, which, according to Homer was fashioned by Hephaestus.</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_BOOK_OF_THOTH</Tag>
+		<English>Book of Thoth</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_BOOK_OF_THOTH_HELP</Tag>
+		<English>[NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1]The [COLOR_HIGHLIGHT_TEXT]Book of Thoth[COLOR_REVERT] was a book of ancient magic used by the Egyptian god of wisdom and magic, Thoth. The Book of Thoth was said to contain two spells - one to understand animals and one to understand the mind of the gods. In an ancient Egyptian story, a prince of Egypt found the book after avoiding a series of traps. As punishment for finding the book, the prince¡¯s family was killed, and the prince committed suicide.</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CAP_OF_INVISIBILITY</Tag>
+		<English>Cap of Invisibility</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CAP_OF_INVISIBILITY_HELP</Tag>
+		<English>[NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Cap of Invisibility[COLOR_REVERT] is also known as the Cap of Hades, Helm of Hades, or Helm of Darkness. The Cap of Invisibility enables the user to become invisible to other supernatural entities, functioning much like the cloud of mist that the gods surround themselves in to become undetectable.</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ELIXIR</Tag>
+		<English>Elixir of Life</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ELIXIR_HELP</Tag>
+		<English>[NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]The Elixir of life[COLOR_REVERT] is a legendary potion that grants the drinker eternal life and/or eternal youth. The elixir of life was also said to be able to create life. It is related to the myths of Thoth, and Hermes Trismegistus, all of whom in various tales are said to have drunk "the white drops" and thus achieved immortality.</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GAN_JIANG</Tag>
+		<English>Gan Jiang and Mo Ye</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GAN_JIANG_HELP</Tag>
+		<English>[NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Gan Jiang and Mo Ye[COLOR_REVERT] were a swordsmith couple who lived during the Spring and Autumn Period of Chinese history. A pair of swords were forged by and named after them.</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_JINGU_BANG</Tag>
+		<English>Jingu Bang</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_JINGU_BANG_HELP</Tag>
+		<English>[NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Jingu Bang[COLOR_REVERT] is the magical weapon wielded by the Monkey King in the classic Chinese novel Journey to the West. It is an iron rod whose size changes "as-one-wishes," which Sun Wukong obtains from the undersea palace of Ao Guang, the Dragon King of the East Sea.</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_KUSANAGI</Tag>
+		<English>Kusanagi</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_KUSANAGI_HELP</Tag>
+		<English>[NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Kusanagi-no-Tsurugi[COLOR_REVERT] is a legendary Japanese sword and one of three Imperial Regalia of Japan. It was originally called Ame-no-Murakumo-no-Tsurugi ("Sword of the Gathering Clouds of Heaven") but its name was later changed to the more popular Kusanagi-no-Tsurugi ("Grass Cutting Sword").</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MJOLLNIR</Tag>
+		<English>Mjollnir</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MJOLLNIR_HELP</Tag>
+		<English>[NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Mjollnir[COLOR_REVERT] is the hammer of Thor, a major god associated with thunder. Distinctively shaped, Mjollnir is depicted in Norse mythology as one of the most fearsome weapons, capable of leveling mountains.</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_TALARIA</Tag>
+		<English>Talaria</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_TALARIA_HELP</Tag>
+		<English>[NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Talaria[COLOR_REVERT] are winged sandals, a symbol of the Greek messenger god Hermes. They were said to be made by the god Hephaestus of imperishable gold and they flew the god as swift as any bird.</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_HEAVEN_WILL</Tag>
+		<English>Heaven's Will</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_HEAVEN_WILL_HELP</Tag>
+		<English>[NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Heaven's Will[COLOR_REVERT] was the mythical sword of the Vietnamese King Le Loi, who liberated Vietnam from Ming occupation. According to legend, when he used the sword it gave him the strength of a thousand men, and the legend is often used to justify his rule over Vietnam.</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SKOFNUNG</Tag>
+		<English>Skofnung</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SKOFNUNG_HELP</Tag>
+		<English>[NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Skofnung[COLOR_REVERT] was the sword of legendary Danish king Hrolf Kraki. "The best of all swords that have been carried in northern lands", it was renowned for supernatural sharpness and hardness, as well as for being imbued with the spirits of the king's 12 faithful berserker bodyguards.</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CHAKRA</Tag>
+		<English>Sudarshana Chakra</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CHAKRA_HELP</Tag>
+		<English>[NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Sudarshana Chakra[COLOR_REVERT] is a spinning, disk-like super weapon with 108 serrated edges used by the Hindu god Vishnu. The Sudarshana Chakra is portrayed on the right rear hand of the four hands of Vishnu.</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CUP_OF_JAMSHID</Tag>
+		<English>Cup of Jamshid</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CUP_OF_JAMSHID_HELP</Tag>
+		<English>[NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1]The [COLOR_HIGHLIGHT_TEXT]Cup of Jamshid [COLOR_REVERT] is a cup of divination which was long possessed by the rulers of ancient Greater Iran. It was believed that one could observe all the seven heavens of the universe by looking into it. </English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CORNUCOPIA</Tag>
+		<English>Cornucopia</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CORNUCOPIA_HELP</Tag>
+		<English>[ICON_BULLET]2.5%% Chance to find Resources after Combat[NEWLINE][NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Cornucopia[COLOR_REVERT] or horn of plenty is a symbol of abundance and nourishment, commonly a large horn-shaped container overflowing with produce, flowers, nuts, other edibles, or wealth in some form.</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_CORNUCOPIA</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]Cornucopia[COLOR_SELECTED_TEXT] has generated a new [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_SELECTED_TEXT] and it has been transported back to [COLOR_HIGHLIGHT_TEXT]%s2[COLOR_SELECTED_TEXT]![COLOR_REVERT]</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CHINTAMANI</Tag>
+		<English>Chintamani Stone</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CHINTAMANI_HELP</Tag>
+		<English>[NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1]The [COLOR_HIGHLIGHT_TEXT]Chintamani Stone[COLOR_REVERT] is believed to be a piece of a meteorite which collided with the earth's surface many millions of years ago. Said to have originated from the constellation Orion, the Stone is supposedly highly magnetized, with many significant properties. It is additionally said to possess some striking qualities that are necessary for healing and stabilizing the planet itself.</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GANDIVA</Tag>
+		<English>Gandiva</English>
+		</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GANDIVA_HELP</Tag>
+		<English>[NEWLINE][BOLD]History:[\BOLD][PARAGRAPH:1]The [COLOR_HIGHLIGHT_TEXT]Gandiva [COLOR_REVERT]was created by Brahma, the Creator of universe, the supreme God in Hindu theology. The bow was decorated with hundreds of gold bosses, and had radiant ends. Arjuna used it in Kurukshetra war and he was invincible. It is said that beside Lord Krishna no mortal but Arjuna could wield the bow. When fired, the bow made the sound of thunder.</English>
+		</TEXT>
+</Civ4GameText>

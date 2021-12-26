@@ -1,0 +1,48 @@
+BeginSign
+	plotX=19
+	plotY=54
+	playerType=-1
+	caption=Wayrest
+EndSign
+BeginSign
+	plotX=12
+	plotY=48
+	playerType=-1
+	caption=Sentinel
+EndSign
+BeginSign
+	plotX=50
+	plotY=25
+	playerType=-1
+	caption=Dune
+EndSign
+BeginSign
+	plotX=61
+	plotY=62
+	playerType=-1
+	caption=Windhelm
+EndSign
+BeginSign
+	plotX=79
+	plotY=48
+	playerType=-1
+	caption=Vivec
+EndSign
+BeginSign
+	plotX=70
+	plotY=72
+	playerType=-1
+	caption=Skaal
+EndSign
+BeginSign
+	plotX=45
+	plotY=43
+	playerType=-1
+	caption=Coroll
+EndSign
+BeginSign
+	plotX=66
+	plotY=43
+	playerType=-1
+	caption=Cheydinhall
+EndSign

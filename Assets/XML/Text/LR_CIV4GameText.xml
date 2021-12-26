@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Piper (Firaxis Games) -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<!-- Customiser Text by Orion Veteran -->
+	<TEXT>
+		<Tag>TXT_KEY_OCC_TEXT</Tag>
+		<English>[H1]Orion's Limited Religions Mod[\H1][NEWLINE][SPACE]Welcome to Orion's Civ4 mod customiser! To turn components on or off, please edit the respective values in the GlobalDefinesAlt.xml file. Here is the current status for each component:</English>
+		<French>[H1]Orion's Limited Religions Mod[\H1][NEWLINE][SPACE]Welcome to Orion's Civ4 mod customiser! To turn components on or off, please edit the respective values in the GlobalDefinesAlt.xml file. Here is the current status for each component:</French>
+		<German>[H1]Orion's Limited Religions Mod[\H1][NEWLINE][SPACE]Welcome to Orion's Civ4 mod customiser! To turn components on or off, please edit the respective values in the GlobalDefinesAlt.xml file. Here is the current status for each component:</German>
+		<Italian>[H1]Orion's Limited Religions Mod[\H1][NEWLINE][SPACE]Welcome to Orion's Civ4 mod customiser! To turn components on or off, please edit the respective values in the GlobalDefinesAlt.xml file. Here is the current status for each component:</Italian>
+		<Spanish>[H1]Orion's Limited Religions Mod[\H1][NEWLINE][SPACE]Welcome to Orion's Civ4 mod customiser! To turn components on or off, please edit the respective values in the GlobalDefinesAlt.xml file. Here is the current status for each component:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WORST_ENEMY_OF</Tag>
+		<English>The worst enemy of [COLOR_PLAYER_DARK_RED][OUR_WORST_ENEMY][COLOR_REVERT]</English>
+		<French>The worst enemy of [COLOR_PLAYER_DARK_RED][OUR_WORST_ENEMY][COLOR_REVERT]</French>
+		<German>The worst enemy of [COLOR_PLAYER_DARK_RED][OUR_WORST_ENEMY][COLOR_REVERT]</German>
+		<Italian>The worst enemy of [COLOR_PLAYER_DARK_RED][OUR_WORST_ENEMY][COLOR_REVERT]</Italian>
+		<Spanish>The worst enemy of [COLOR_PLAYER_DARK_RED][OUR_WORST_ENEMY][COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_1</Tag>
+		<English>Tiber Septim</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_2</Tag>
+		<English>Ysgramor</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_3</Tag>
+		<English>Saint Alessia</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_4</Tag>
+		<English>Reman Cyrodiil</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_5</Tag>
+		<English>Ayrenn Arana Aldmer</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_6</Tag>
+		<English>Almalexia</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_7</Tag>
+		<English>Versidue Shaie</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_8</Tag>
+		<English>King Eadwyre</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_9</Tag>
+		<English>Ocato</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_10</Tag>
+		<English>Kintyra Septim I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_11</Tag>
+		<English>Uriel Septim VII</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_12</Tag>
+		<English>Savirien Chorak</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_13</Tag>
+		<English>Thassad II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_14</Tag>
+		<English>High King Wulfharth</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_15</Tag>
+		<English>Leovic</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_16</Tag>
+		<English>Jorunn the Skald-King</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_17</Tag>
+		<English>Cuhlecain</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_18</Tag>
+		<English>Titus Mede II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_19</Tag>
+		<English>High King Borgas</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DQ_LEADER_NAME_20</Tag>
+		<English>Pelagius Septim III</English>
+	</TEXT>
+	<!-- End Customiser -->
+</Civ4GameText>

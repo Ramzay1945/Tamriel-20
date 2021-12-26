@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Objects -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_REMOVE_PREREQ_OR_TECH</Tag>
+		<English>Remove %s1_tech as an OR prereq from %s2_tech</English>
+		<French>Remove %s1_tech as an OR prereq from %s2_tech</French>
+		<German>Remove %s1_tech as an OR prereq from %s2_tech</German>
+		<Italian>Remove %s1_tech as an OR prereq from %s2_tech</Italian>
+		<Spanish>Remove %s1_tech as an OR prereq from %s2_tech</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REMOVE_PREREQ_AND_TECH</Tag>
+		<English>Remove %s1_tech as a AND prereq from %s2_tech</English>
+		<French>Remove %s1_tech as an AND prereq from %s2_tech</French>
+		<German>Remove %s1_tech as an AND prereq from %s2_tech</German>
+		<Italian>Remove %s1_tech as an AND prereq from %s2_tech</Italian>
+		<Spanish>Remove %s1_tech as an AND prereq from %s2_tech</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EDITOR_SCREEN_SAVE</Tag>
+		<English>Save</English>
+		<French>Save</French>
+		<German>Save</German>
+		<Italian>Save</Italian>
+		<Spanish>Save</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EDITOR_TECH_EDITOR_TITLE</Tag>
+		<English>Tech Tree Editor</English>
+		<French>Tech Tree Editor</French>
+		<German>Tech Tree Editor</German>
+		<Italian>Tech Tree Editor</Italian>
+		<Spanish>Tech Tree Editor</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CHANGE_TECH_IMAGE</Tag>
+		<English>Change the image button for %s1_tech</English>
+		<French>Change the image button for %s1_tech</French>
+		<German>Change the image button for %s1_tech</German>
+		<Italian>Change the image button for %s1_tech</Italian>
+		<Spanish>Change the image button for %s1_tech</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CHANGE_TECH_NAME</Tag>
+		<English>Change tech name %s1_tech</English>
+		<French>Change tech name %s1_tech</French>
+		<German>Change tech name %s1_tech</German>
+		<Italian>Change tech name %s1_tech</Italian>
+		<Spanish>Change tech name %s1_tech</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_NEW_TECH_NAME</Tag>
+		<English>New Tech Name:</English>
+		<French>New Tech Name:</French>
+		<German>New Tech Name:</German>
+		<Italian>New Tech Name:</Italian>
+		<Spanish>New Tech Name:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_NEW_TECH_IMAGE</Tag>
+		<English>New Tech Image:</English>
+		<French>New Tech Image:</French>
+		<German>New Tech Image:</German>
+		<Italian>New Tech Image:</Italian>
+		<Spanish>New Tech Image:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ADD_TECH</Tag>
+		<English>Add New Tech:</English>
+		<French>Add New Tech:</French>
+		<German>Add New Tech:</German>
+		<Italian>Add New Tech:</Italian>
+		<Spanish>Add New Tech:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DELETE_TECH</Tag>
+		<English>Delete Tech %s1_tech</English>
+		<French>Delete Tech %s1_tech</French>
+		<German>Delete Tech %s1_tech</German>
+		<Italian>Delete Tech %s1_tech</Italian>
+		<Spanish>Delete Tech %s1_tech</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GREAT_TYCOON</Tag>
+		<English>Great Merchant</English>
+		<French>
+			<Text>Marchand illustre</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Gro&#223;er H&#228;ndler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Grande Mercante:Grandi Mercanti</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Gran mercader:Grandes mercaderes</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SAM_INFANTRY</Tag>
+		<English>SAM Infantry</English>
+		<French>
+			<Text>Infanterie SAM</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>SAM-Infanterie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Fanteria del missili :Fanterie del missili</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Infanter&#237;a del misil:Infanter&#237;as del misil</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+</Civ4GameText>

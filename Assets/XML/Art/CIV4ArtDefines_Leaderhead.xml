@@ -1,0 +1,379 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Leaderhead art path information -->
+<Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_BARBARIAN</Type>
+			<Button>,Art/interface/LeaderHeads/Btn_LH_Mongol_Genghis.dds,Art/Interface/Buttons/Actions_Builds_LeaderHeads_Specialists_Atlas.dds,6,12</Button>
+			<NIF>art/LeaderHeads/Sid/sid.nif</NIF>
+			<KFM>art/LeaderHeads/Sid/sid.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/Sid/sid_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/Sid/sid_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MANE</Type>
+			<Button>Art/interface/buttons/Leaders/khajit.dds</Button>
+			<NIF>art/LeaderHeads/khajit/peter.nif</NIF>
+			<KFM>art/LeaderHeads/peter_the_great/peter.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/khajit/peter.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/khajit/tokugawa_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_GORTWOG</Type>
+			<Button>Art/interface/buttons/Leaders/orc.dds</Button>
+			<NIF>art/LeaderHeads/gortwog/augustus_caesar.nif</NIF>
+			<KFM>art/LeaderHeads/Augustus_Caesar/augustus_caesar.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/gortwog/augustus_caesar.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/gortwog/brennus_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_AN_XILEEL</Type>
+			<Button>Art/interface/buttons/Leaders/argonian.dds</Button>
+			<NIF>art/LeaderHeads/argonian/hatshepsut.nif</NIF>
+			<KFM>art/LeaderHeads/hatshepsut/hatshepsut.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/argonian/hatshepsut.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/argonian/hatshepsut_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_VIVEC</Type>
+			<Button>Art/interface/buttons/Leaders/dunmer.dds</Button>
+			<NIF>art/LeaderHeads/danmer/tachnechobrus.nif</NIF>
+			<KFM>art/LeaderHeads/danmer/tachnechobrus.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/danmer/tachnechobrus.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/danmer/tachnechobrus_background.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_THASSAD</Type>
+			<Button>Art/interface/buttons/Leaders/redguard.dds</Button>
+			<NIF>art/LeaderHeads/redguard/zara yaqob1.nif</NIF>
+			<KFM>art/LeaderHeads/redguard/zara yaqob.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/redguard/zara yaqob1.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/redguard/zara yaqob_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_CAMORAN</Type>
+			<Button>Art/interface/buttons/Leaders/bosmer.dds</Button>
+			<NIF>art/LeaderHeads/camoran/tokugawa.nif</NIF>
+			<KFM>art/LeaderHeads/tokugawa/tokugawa.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/camoran/tokugawa_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/camoran/tokugawa_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_HARALD</Type>
+			<Button>Art/interface/buttons/Leaders/nord.dds</Button>
+			<NIF>art/LeaderHeads/nord1/hannibal.nif</NIF>
+			<KFM>art/LeaderHeads/hannibal/hannibal.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/nord1/hannibal.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/RagnarLodbrok/Ragnar_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_TIBER_SEPTIM</Type>
+			<Button>Art/interface/buttons/Leaders/imperial.dds</Button>
+			<NIF>art/LeaderHeads/tiber septim/SimonBolivar.nif</NIF>
+			<KFM>art/LeaderHeads/tiber septim/SimonBolivar.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/tiber septim/SimonBolivar.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/tiber septim/SimonBolivar_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_BRETON</Type>
+			<Button>Art/interface/buttons/Leaders/eadwyre.dds</Button>
+			<NIF>art/LeaderHeads/eadwyre/ragnar_lodbrok.nif</NIF>
+			<KFM>art/LeaderHeads/eadwyre/ragnar_lodbrok.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/eadwyre/ragnar_lodbrok.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/eadwyre/ragnar_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_URIEL</Type>
+			<Button>Art/interface/buttons/Leaders/imperial2.dds</Button>
+			<NIF>art/LeaderHeads/uriel/Charlemagne.nif</NIF>
+			<KFM>art/LeaderHeads/uriel/Charlemagne.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/uriel/Charlemagne.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/uriel/Charlemagne_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_OKATO</Type>
+			<Button>Art/interface/buttons/Leaders/imperial3.dds</Button>
+			<NIF>art/LeaderHeads/okato/tokugawa.nif</NIF>
+			<KFM>art/LeaderHeads/peter_the_great/peter.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/okato/tokugawa.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/okato/tokugawa_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ALMALEXIA</Type>
+			<Button>Art/interface/buttons/Leaders/almalexia.dds</Button>
+			<NIF>art/LeaderHeads/almalexia/elizabeth.nif</NIF>
+			<KFM>art/LeaderHeads/Elizabeth/elizabeth.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/almalexia/elizabeth.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/almalexia/peter_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_DINAR</Type>
+			<Button>Art/interface/buttons/Leaders/dinar.dds</Button>
+			<NIF>art/LeaderHeads/dinar/brennus.nif</NIF>
+			<KFM>art/LeaderHeads/dinar/brennus.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/dinar/brennus.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/dinar/brennus_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_DWEMER</Type>
+			<Button>Art/interface/buttons/Leaders/DWEMER.dds</Button>
+			<NIF>art/LeaderHeads/dumac/hammurabi.nif</NIF>
+			<KFM>art/LeaderHeads/hammurabi/hammurabi.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/dumac/hammurabi.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/dumac/Hammurabi_Backgrnd.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SHEOGORAT</Type>
+			<Button>Art/interface/buttons/Leaders/sheogorat.dds</Button>
+			<NIF>art/LeaderHeads/sheogorat/saladin.nif</NIF>
+			<KFM>art/LeaderHeads/sheogorat/saladin.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/sheogorat/saladin.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/sheogorat/saladin_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ALDMERI</Type>
+			<Button>Art/interface/buttons/Leaders/altmer.dds</Button>
+			<NIF>art/LeaderHeads/Hidellith Aldmeri/HoChiMinh.nif</NIF>
+			<KFM>art/LeaderHeads/Hidellith Aldmeri/genghis_khan.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/Hidellith Aldmeri/HoChiMinh.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/Hidellith Aldmeri/genghis_khan_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		
+		
+		
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ELIZABETH</Type>
+			<Button>Art/interface/buttons/Leaders/breton1.dds</Button>
+			<NIF>art/LeaderHeads/Elizabeth/elizabeth.nif</NIF>
+			<KFM>art/LeaderHeads/Elizabeth/elizabeth.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/Elizabeth/elizabeth_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/Elizabeth/elizabeth_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_EADWYRE</Type>
+			<Button>Art/interface/buttons/Leaders/eadwyre.dds</Button>
+			<NIF>art/LeaderHeads/eadwyre/ragnar_lodbrok.nif</NIF>
+			<KFM>art/LeaderHeads/eadwyre/ragnar_lodbrok.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/eadwyre/ragnar_lodbrok.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/eadwyre/ragnar_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_AKORITI</Type>
+			<Button>Art/interface/buttons/Leaders/akoriti.dds</Button>
+			<NIF>art/LeaderHeads/akoriti2/Hammurabi.nif</NIF>
+			<KFM>art/LeaderHeads/Hammurabi/Hammurabi.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/akoriti2/Hammurabi.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/akoriti2/Hammurabi_Backgrnd.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_RISLAV</Type>
+			<Button>Art/interface/buttons/Leaders/rislav.dds</Button>
+			<NIF>art/LeaderHeads/rislav/peter.nif</NIF>
+			<KFM>art/LeaderHeads/rislav/peter.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/rislav/peter.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/rislav/peter_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_NIBEN</Type>
+			<Button>Art/interface/buttons/Leaders/niben.dds</Button>
+			<NIF>art/LeaderHeads/tarn/willem van oranje.nif</NIF>
+			<KFM>art/LeaderHeads/tarn/willem van oranje.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/tarn/willem van oranje.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/tarn/willem van oranje_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_SKAAL</Type>
+			<Button>Art/interface/buttons/Leaders/SKAAL.dds</Button>
+			<NIF>art/LeaderHeads/SKAAL/hannibal.nif</NIF>
+			<KFM>art/LeaderHeads/SKAAL/hannibal.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/SKAAL/hannibal.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/SKAAL/hannibal_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_ANEQUINA</Type>
+			<Button>Art/interface/buttons/Leaders/khajit1.dds</Button>
+			<NIF>art/LeaderHeads/1 khajit/tokugawa.nif</NIF>
+			<KFM>art/LeaderHeads/tokugawa/tokugawa.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/1 khajit/tokugawa.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/1 khajit/tokugawa_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MADANACH</Type>
+			<Button>Art/interface/buttons/Leaders/madanach.dds</Button>
+			<NIF>art/LeaderHeads/madanach/tokugawa.nif</NIF>
+			<KFM>art/LeaderHeads/madanach/tokugawa.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/madanach/tokugawa.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/madanach/tokugawa_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_NELOT</Type>
+			<Button>Art/interface/buttons/Leaders/nelot.dds</Button>
+			<NIF>art/LeaderHeads/NELOT/tachnechobrus.nif</NIF>
+			<KFM>art/LeaderHeads/NELOT/tachnechobrus.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/NELOT/tachnechobrus.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/NELOT/tachnechobrus_background.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_POTEMA</Type>
+			<Button>Art/interface/buttons/Leaders/potema.dds</Button>
+			<NIF>art/LeaderHeads/potema/potema.nif</NIF>
+			<KFM>art/LeaderHeads/Boudica/Boudica.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/potema/potema.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/potema/Boudica_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MINOR_ANVIL</Type>
+			<Button>Art/interface/buttons/Leaders/minor/ANVIL.dds</Button>
+			<NIF>art/LeaderHeads/minor\corvus/augustus_caesar.nif</NIF>
+			<KFM>art/LeaderHeads/minor\corvus/augustus_caesar.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\corvus/augustus_caesar.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\corvus/augustus_caesar_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MINOR_BRAVIL</Type>
+			<Button>Art/interface/buttons/Leaders/minor/BRAVIL.dds</Button>
+			<NIF>art/LeaderHeads/minor\regulus/George_Washington.nif</NIF>
+			<KFM>art/LeaderHeads/minor\regulus/George_Washington.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\regulus/George_Washington.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\regulus/George_Washington_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MINOR_CHEYDINHAL</Type>
+			<Button>Art/interface/buttons/Leaders/minor/CHEYDINHAL.dds</Button>
+			<NIF>art/LeaderHeads/minor\indaris/Cunne_Shote.nif</NIF>
+			<KFM>art/LeaderHeads/minor\indaris/Cunne_Shote.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\indaris/Cunne_Shote.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\indaris/Cunne_Shote_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MINOR_CHORROL</Type>
+			<Button>Art/interface/buttons/Leaders/minor/CHORROL.dds</Button>
+			<NIF>art/LeaderHeads/minor\valga/bhutto.nif</NIF>
+			<KFM>art/LeaderHeads/minor\valga/bhutto.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\valga/bhutto.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\valga/bhutto_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MINOR_LEYAWIIN</Type>
+			<Button>Art/interface/buttons/Leaders/minor/LEYAWIIN.dds</Button>
+			<NIF>art/LeaderHeads/minor\caro/John_Adams.nif</NIF>
+			<KFM>art/LeaderHeads/minor\caro/John_Adams.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\caro/John_Adams.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\caro/John_Adams_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MINOR_BRUMA</Type>
+			<Button>Art/interface/buttons/Leaders/minor/BRUMA.dds</Button>
+			<NIF>art/LeaderHeads/minor\Brunhild/Brunhild.nif</NIF>
+			<KFM>art/LeaderHeads/minor\Brunhild/ragnar_lodbrok.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\Brunhild/Brunhild.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\Brunhild/Pericles_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MINOR_KVATCH</Type>
+			<Button>Art/interface/buttons/Leaders/minor/KVATCH.dds</Button>
+			<NIF>art/LeaderHeads/minor\matius/alexander2.nif</NIF>
+			<KFM>art/LeaderHeads/minor\matius/alexander.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\matius/alexander2.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\matius/alexander_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MINOR_SKINGRAD</Type>
+			<Button>Art/interface/buttons/Leaders/minor/SKINGRAD.dds</Button>
+			<NIF>art/LeaderHeads/minor\janus/brennus.nif</NIF>
+			<KFM>art/LeaderHeads/minor\janus/brennus.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\janus/brennus.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\janus/brennus_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MINOR_MANKAR_CAMORAN</Type>
+			<Button>Art/interface/buttons/Leaders/minor/SKINGRAD.dds</Button>
+			<NIF>art/LeaderHeads/minor\CAMORAN/Cochise.nif</NIF>
+			<KFM>art/LeaderHeads/minor\CAMORAN/Cochise.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\CAMORAN/Cochise.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\CAMORAN/Cochise_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MINOR_DAGON</Type>
+			<Button>Art/interface/buttons/Leaders/minor/SKINGRAD.dds</Button>
+			<NIF>art/LeaderHeads/minor\DAGON/Tachnechobrus.nif</NIF>
+			<KFM>art/LeaderHeads/minor\DAGON/Tachnechobrus.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\DAGON/Tachnechobrus.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\DAGON/Tachnechobrus_Background.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MORROWIND_DAGOTH</Type>
+			<Button>Art/interface/buttons/Leaders/morrowind/dagoth.dds</Button>
+			<NIF>art/LeaderHeads/minor\minor morrowind/dagoth.nif</NIF>
+			<KFM>art/LeaderHeads/minor\minor morrowind/hannibal.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\minor morrowind/dagoth.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\minor morrowind\hannibal_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MORROWIND_INDORIL</Type>
+			<Button>Art/interface/buttons/Leaders/morrowind/INDORIL.dds</Button>
+			<NIF>art/LeaderHeads/minor\minor morrowind/INDORIL.nif</NIF>
+			<KFM>art/LeaderHeads/minor\minor morrowind/hannibal.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\minor morrowind/INDORIL.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\minor morrowind\hannibal_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MORROWIND_HLAALU</Type>
+			<Button>Art/interface/buttons/Leaders/morrowind/HLAALU.dds</Button>
+			<NIF>art/LeaderHeads/minor\minor morrowind/HLAALU.nif</NIF>
+			<KFM>art/LeaderHeads/minor\minor morrowind/hannibal.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\minor morrowind/HLAALU.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\minor morrowind\hannibal_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MORROWIND_REDORAN</Type>
+			<Button>Art/interface/buttons/Leaders/morrowind/REDORAN.dds</Button>
+			<NIF>art/LeaderHeads/minor\minor morrowind/REDORAN.nif</NIF>
+			<KFM>art/LeaderHeads/minor\minor morrowind/hannibal.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\minor morrowind/REDORAN.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\minor morrowind\hannibal_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MORROWIND_DRES</Type>
+			<Button>Art/interface/buttons/Leaders/morrowind/DRES.dds</Button>
+			<NIF>art/LeaderHeads/minor\minor morrowind/DRES.nif</NIF>
+			<KFM>art/LeaderHeads/minor\minor morrowind/hannibal.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\minor morrowind/DRES.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\minor morrowind\hannibal_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MORROWIND_SADRAS</Type>
+			<Button>Art/interface/buttons/Leaders/morrowind/SADRAS.dds</Button>
+			<NIF>art/LeaderHeads/minor\minor morrowind/SADRAS.nif</NIF>
+			<KFM>art/LeaderHeads/minor\minor morrowind/hannibal.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\minor morrowind/SADRAS.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\minor morrowind\hannibal_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MORROWIND_ASHLAND</Type>
+			<Button>Art/interface/buttons/Leaders/morrowind/ASHLAND.dds</Button>
+			<NIF>art/LeaderHeads/minor\minor morrowind/ASHLAND.nif</NIF>
+			<KFM>art/LeaderHeads/minor\minor morrowind/hannibal.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\minor morrowind/ASHLAND.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\minor morrowind\hannibal_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_MORROWIND_NECROM</Type>
+			<Button>Art/interface/buttons/Leaders/morrowind/NECROM.dds</Button>
+			<NIF>art/LeaderHeads/minor\minor morrowind/NECROM.nif</NIF>
+			<KFM>art/LeaderHeads/minor\minor morrowind/hannibal.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/minor\minor morrowind/NECROM.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/minor\minor morrowind\hannibal_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+        <Tag>TXT_KEY_FEATURE_VOLCANO</Tag>
+        <English>Red Mountain</English>
+        <French>Volcano</French>
+        <German>Volcano</German>
+        <Italian>Volcano</Italian>
+        <Spanish>Volcano</Spanish>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_FEATURE_VOLCANO_PEDIA</Tag>
+        <English>A volcano is an opening, or rupture, in a planet's surface or crust, which allows hot, molten rock, ash, and gases to escape from below the surface. Volcanic activity involving the extrusion of rock tends to form mountains or features like mountains over a period of time.</English>
+        <French>A volcano is an opening, or rupture, in a planet's surface or crust, which allows hot, molten rock, ash, and gases to escape from below the surface. Volcanic activity involving the extrusion of rock tends to form mountains or features like mountains over a period of time.</French>
+        <German>A volcano is an opening, or rupture, in a planet's surface or crust, which allows hot, molten rock, ash, and gases to escape from below the surface. Volcanic activity involving the extrusion of rock tends to form mountains or features like mountains over a period of time.</German>
+        <Italian>A volcano is an opening, or rupture, in a planet's surface or crust, which allows hot, molten rock, ash, and gases to escape from below the surface. Volcanic activity involving the extrusion of rock tends to form mountains or features like mountains over a period of time.</Italian>
+        <Spanish>A volcano is an opening, or rupture, in a planet's surface or crust, which allows hot, molten rock, ash, and gases to escape from below the surface. Volcanic activity involving the extrusion of rock tends to form mountains or features like mountains over a period of time.</Spanish>
+    </TEXT>
+</Civ4GameText>

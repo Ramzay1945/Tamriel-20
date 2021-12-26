@@ -1,0 +1,303 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis Games (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Civilization art path information -->
+<Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
+	<CivilizationArtInfos>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_ALTMER</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/summerset.dds</Button>
+			<Path>Art/Interface/TeamColor/new/summerset.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_ARGONIANS</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/Argonia.dds</Button>
+			<Path>Art/Interface/TeamColor/new/argonia.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_BOSMER</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/walenwood.dds</Button>
+			<Path>Art/Interface/TeamColor/new/walenwood.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_BRETON</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/highrock.dds</Button>
+			<Path>Art/Interface/TeamColor/new/highrock.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_DUNMER</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/morowind.dds</Button>
+			<Path>Art/Interface/TeamColor/new/morowind.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_IMPERIAL</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/cyrodil.dds</Button>
+			<Path>Art/Interface/TeamColor/new/cyrodil.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_KHAJIIT</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/elsweyr.dds</Button>
+			<Path>Art/Interface/TeamColor/new/elsweyr.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_NORD</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/skyrim.dds</Button>
+			<Path>Art/Interface/TeamColor/new/skyrim.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_ORC</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/orsinium.dds</Button>
+			<Path>Art/Interface/TeamColor/new/orsinium.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_REDGUARD</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/hammerfell.dds</Button>
+			<Path>Art/Interface/TeamColor/new/hammerfell.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_AILEYD</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/aileyd.dds</Button>
+			<Path>Art/Interface/TeamColor/new/aileyd.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_WAYREST</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/wayrest.dds</Button>
+			<Path>Art/Interface/TeamColor/new/wayrest.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_SENTINEL</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/sentinel.dds</Button>
+			<Path>Art/Interface/TeamColor/new/sentinel.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_COLOVIA</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/colovia.dds</Button>
+			<Path>Art/Interface/TeamColor/new/colovia.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_NIBEN</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/niben.dds</Button>
+			<Path>Art/Interface/TeamColor/new/niben.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_SKAAL</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/skaal.dds</Button>
+			<Path>Art/Interface/TeamColor/new/skaal.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_VVANDERFELL</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/VVANDERFELL.dds</Button>
+			<Path>Art/Interface/TeamColor/new/VVANDERFELL.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_ANEQUINA</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/ANEQUINA.dds</Button>
+			<Path>Art/Interface/TeamColor/new/ANEQUINA.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_DWEMER</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/DWEMER.dds</Button>
+			<Path>Art/Interface/TeamColor/new/DWEMER.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_SHEOGORAT</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/SHEOGORAT.dds</Button>
+			<Path>Art/Interface/TeamColor/new/SHEOGORAT.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_TELVANNI</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/TELVANNI.dds</Button>
+			<Path>Art/Interface/TeamColor/new/TELVANNI.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_REACH</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/REACH.dds</Button>
+			<Path>Art/Interface/TeamColor/new/REACH.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_GOLD_COAST</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/GOLD_COAST.dds</Button>
+			<Path>Art/Interface/TeamColor/new/GOLD_COAST.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_SOLITUDE</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/SOLITUDE.dds</Button>
+			<Path>Art/Interface/TeamColor/new/SOLITUDE.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+
+
+<!-- ################################################################## -->
+<!-- ############## Minor and Barb Flags - Do Not Remove ############## -->
+<!-- ################################################################## -->
+
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_MINOR</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/barbarian.dds</Button>
+			<Path>Art/Interface/TeamColor/new/barbarian.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_BARBARIAN</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/barbarian.dds</Button>
+			<Path>Art/Interface/TeamColor/new/barbarian.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+
+<!-- ################################################################## -->
+<!-- ############## Oblivion scenario countries          ############## -->
+<!-- ################################################################## -->
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_OBLIVION_ANVIL</Type>
+			<Button>Art/Interface/Buttons/Civilizations/oblivion scenario/anvil.dds</Button>
+			<Path>Art/Interface/TeamColor/oblivion scenario/anvil.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_OBLIVION_BRAVIL</Type>
+			<Button>Art/Interface/Buttons/Civilizations/oblivion scenario/BRAVIL.dds</Button>
+			<Path>Art/Interface/TeamColor/oblivion scenario/BRAVIL.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_OBLIVION_BRUMA</Type>
+			<Button>Art/Interface/Buttons/Civilizations/oblivion scenario/BRUMA.dds</Button>
+			<Path>Art/Interface/TeamColor/oblivion scenario/BRUMA.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_OBLIVION_CHEYDINHAL</Type>
+			<Button>Art/Interface/Buttons/Civilizations/oblivion scenario/CHEYDINHAL.dds</Button>
+			<Path>Art/Interface/TeamColor/oblivion scenario/CHEYDINHAL.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_OBLIVION_CHORROL</Type>
+			<Button>Art/Interface/Buttons/Civilizations/oblivion scenario/CHORROL.dds</Button>
+			<Path>Art/Interface/TeamColor/oblivion scenario/CHORROL.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_OBLIVION_LEYAWIIN</Type>
+			<Button>Art/Interface/Buttons/Civilizations/oblivion scenario/LEYAWIIN.dds</Button>
+			<Path>Art/Interface/TeamColor/oblivion scenario/LEYAWIIN.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_OBLIVION_KVATCH</Type>
+			<Button>Art/Interface/Buttons/Civilizations/oblivion scenario/KVATCH.dds</Button>
+			<Path>Art/Interface/TeamColor/oblivion scenario/KVATCH.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_OBLIVION_SKINGRAD</Type>
+			<Button>Art/Interface/Buttons/Civilizations/oblivion scenario/SKINGRAD.dds</Button>
+			<Path>Art/Interface/TeamColor/oblivion scenario/SKINGRAD.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_OBLIVION_IMPERIAL</Type>
+			<Button>Art/Interface/Buttons/Civilizations/oblivion scenario/IMPERIAL.dds</Button>
+			<Path>Art/Interface/TeamColor/oblivion scenario/IMPERIAL.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_OBLIVION_MYTHIC_DAWN</Type>
+			<Button>Art/Interface/Buttons/Civilizations/oblivion scenario/MYTHIC DAWN.dds</Button>
+			<Path>Art/Interface/TeamColor/oblivion scenario/MYTHIC DAWN.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+
+<!-- ################################################################## -->
+<!-- ############## Morrowind scenario countries          ############## -->
+<!-- ################################################################## -->
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_MORROWIND_TEMPLE</Type>
+			<Button>Art/Interface/Buttons/Civilizations/morrowind/temple.dds</Button>
+			<Path>Art/Interface/TeamColor/morrowind scenario/temple.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_MORROWIND_INDORIL</Type>
+			<Button>Art/Interface/Buttons/Civilizations/morrowind/INDORIL.dds</Button>
+			<Path>Art/Interface/TeamColor/morrowind scenario/INDORIL.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_MORROWIND_REDORAN</Type>
+			<Button>Art/Interface/Buttons/Civilizations/morrowind/REDORAN.dds</Button>
+			<Path>Art/Interface/TeamColor/morrowind scenario/REDORAN.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_MORROWIND_TELVANNI</Type>
+			<Button>Art/Interface/Buttons/Civilizations/morrowind/TELVANNI.dds</Button>
+			<Path>Art/Interface/TeamColor/morrowind scenario/TELVANNI.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_MORROWIND_HLAALU</Type>
+			<Button>Art/Interface/Buttons/Civilizations/morrowind/HLAALU.dds</Button>
+			<Path>Art/Interface/TeamColor/morrowind scenario/HLAALU.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_MORROWIND_DRES</Type>
+			<Button>Art/Interface/Buttons/Civilizations/morrowind/DRES.dds</Button>
+			<Path>Art/Interface/TeamColor/morrowind scenario/DRES.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_MORROWIND_SADRAS</Type>
+			<Button>Art/Interface/Buttons/Civilizations/morrowind/SADRAS.dds</Button>
+			<Path>Art/Interface/TeamColor/morrowind scenario/SADRAS.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_MORROWIND_DAGOTH</Type>
+			<Button>Art/Interface/Buttons/Civilizations/morrowind/DAGOTH.dds</Button>
+			<Path>Art/Interface/TeamColor/morrowind scenario/DAGOTH.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_MORROWIND_NECROM</Type>
+			<Button>Art/Interface/Buttons/Civilizations/morrowind/NECROM.dds</Button>
+			<Path>Art/Interface/TeamColor/morrowind scenario/NECROM.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_MORROWIND_ASHLAND</Type>
+			<Button>Art/Interface/Buttons/Civilizations/morrowind/ASHLAND.dds</Button>
+			<Path>Art/Interface/TeamColor/morrowind scenario/ASHLAND.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+
+
+
+	</CivilizationArtInfos>
+</Civ4ArtDefines>

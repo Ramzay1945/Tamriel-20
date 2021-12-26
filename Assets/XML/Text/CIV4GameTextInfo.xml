@@ -1,0 +1,2137 @@
+<?xml version="1.0"  encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_DAWN_OF_MAN_TEXT</Tag>
+		<English>The sun rises on the year %s1_year of the Merethic era. Since time immemorial, the %s2_civ people have lived a nomadic life. [NEWLINE][NEWLINE]After years of wandering, they are ready to settle down and found your first city. [NEWLINE]%s3_leader, your people have vested absolute power in you, trusting that you can build a Civilization to stand the test of time!</English>
+		<French>Le soleil se l&#232;ve sur l'an %s1_year. Depuis des temps imm&#233;moriaux, le peuple %s2_civ menait une vie nomade. [NEWLINE][NEWLINE]Apr&#232;s des ann&#233;es d'errance, il est pr&#234;t &#224; se s&#233;dentariser et &#224; fonder votre premi&#232;re ville. [NEWLINE]%s3_leader, votre peuple vous a investi du pouvoir absolu et vous fait confiance pour b&#226;tir une civilisation qui r&#233;sistera au cours du temps !</French>
+		<German>Die Sonne erhellt das Jahr %s1_year. Das %s2:3_civ Volk f&#252;hrt seit uralter Zeit ein Nomadenleben. [NEWLINE][NEWLINE]Doch nun, nach so vielen Jahren des Umherziehens, sind die Menschen bereit, sich niederzulassen und Eure erste Stadt zu gr&#252;nden. [NEWLINE]%s3_leader, Euer Volk hat Euch absolute Macht verliehen und vertraut darauf, dass Ihr eine Zivilisation errichtet, welche die Zeit &#252;berdauern wird!</German>
+		<Italian>Il sole sorge nell'anno %s1_year. Da tempi immemori, la popolazione %s2_civ ha condotto una vita nomade. [NEWLINE][NEWLINE]Dopo anni di vagabondaggi, sono infine pronti a stabilirsi e a fondare la tua prima citt&#224;. [NEWLINE]%s3_leader, il tuo popolo ti ha conferito potere assoluto, credendo che tu possa sviluppare una civilt&#224; in grado di resistere alle prove del tempo!</Italian>
+		<Spanish>El sol se alza en el a&#241;o %s1_year. Desde tiempos inmemoriales, los %s2:3_civ han llevado una vida n&#243;mada. [NEWLINE][NEWLINE]Tras a&#241;os de deambular, est&#225;n listos para asentarse y fundar vuestra primera ciudad. [NEWLINE]%s3_leader, vuestro pueblo os ha conferido poder absoluto, confiando en que pod&#225;is desarrollar una civilizaci&#243;n que supere los retos del tiempo.</Spanish>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_UNDEAD_PEDIA</Tag>
+		<English>Slain foes may spawn as undead units. Beware!</English>
+		<French>Slain foes may spawn as undead units. Beware!</French>
+		<German>Slain foes may spawn as undead units. Beware!</German>
+		<Italian>Slain foes may spawn as undead units. Beware!</Italian>
+		<Spanish>Slain foes may spawn as undead units. Beware!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_DAEDRA_PEDIA</Tag>
+		<English>Conjurers may spawn daedra</English>
+		<French>Conjurers may spawn daedra</French>
+		<German>Conjurers may spawn daedra</German>
+		<Italian>Conjurers may spawn daedra</Italian>
+		<Spanish>Conjurers may spawn daedra</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITCOMBAT_BEAST</Tag>
+		<English>Animals</English>
+		<French>Animals</French>
+		<German>Animals</German>
+		<Italian>Animals</Italian>
+		<Spanish>Animals</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DRAGON</Tag>
+		<English>Dragon</English>
+		<French>Dragon</French>
+		<German>Dragon</German>
+		<Italian>Dragon</Italian>
+		<Spanish>Dragon</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DRAUGR</Tag>
+		<English>Draugr</English>
+		<French>Draugr</French>
+		<German>Draugr</German>
+		<Italian>Draugr</Italian>
+		<Spanish>Draugr</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MINOTAUR</Tag>
+		<English>Minotaur</English>
+		<French>Minotaur</French>
+		<German>Minotaur</German>
+		<Italian>Minotaur</Italian>
+		<Spanish>Minotaur</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WEREWOLF</Tag>
+		<English>Werewolf</English>
+		<French>Werewolf</French>
+		<German>Werewolf</German>
+		<Italian>Werewolf</Italian>
+		<Spanish>Werewolf</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPRIGGAN</Tag>
+		<English>Spriggan</English>
+		<French>Spriggan</French>
+		<German>Spriggan</German>
+		<Italian>Spriggan</Italian>
+		<Spanish>Spriggan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DREMORA</Tag>
+		<English>Dremora</English>
+		<French>Dremora</French>
+		<German>Dremora</German>
+		<Italian>Dremora</Italian>
+		<Spanish>Dremora</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ICE</Tag>
+		<English>Ice Atronach</English>
+		<French>Ice Atronach</French>
+		<German>Ice Atronach</German>
+		<Italian>Ice Atronach</Italian>
+		<Spanish>Ice Atronach</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIRE</Tag>
+		<English>Fire Atronach</English>
+		<French>Fire Atronach</French>
+		<German>Fire Atronach</German>
+		<Italian>Fire Atronach</Italian>
+		<Spanish>Fire Atronach</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CLANFEAR</Tag>
+		<English>Clannfear</English>
+		<French>Clannfear</French>
+		<German>Clannfear</German>
+		<Italian>Clannfear</Italian>
+		<Spanish>Clannfear</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DEVOURER</Tag>
+		<English>Daedroth</English>
+		<French>Daedroth</French>
+		<German>Daedroth</German>
+		<Italian>Daedroth</Italian>
+		<Spanish>Daedroth</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SCAMP</Tag>
+		<English>Scamp</English>
+		<French>Scamp</French>
+		<German>Scamp</German>
+		<Italian>Scamp</Italian>
+		<Spanish>Scamp</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEECH</Tag>
+		<English>Lich</English>
+		<French>Lich</French>
+		<German>Lich</German>
+		<Italian>Lich</Italian>
+		<Spanish>Lich</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKELTON_LORD</Tag>
+		<English>Skeleton Lord</English>
+		<French>Skeleton Lord</French>
+		<German>Skeleton Lord</German>
+		<Italian>Skeleton Lord</Italian>
+		<Spanish>Skeleton Lord</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKELTON</Tag>
+		<English>Skeleton</English>
+		<French>Skeleton</French>
+		<German>Skeleton</German>
+		<Italian>Skeleton</Italian>
+		<Spanish>Skeleton</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GHOST</Tag>
+		<English>Ghost</English>
+		<French>Ghost</French>
+		<German>Ghost</German>
+		<Italian>Ghost</Italian>
+		<Spanish>Ghost</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZOMBIE</Tag>
+		<English>Zombie</English>
+		<French>Zombie</French>
+		<German>Zombie</German>
+		<Italian>Zombie</Italian>
+		<Spanish>Zombie</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SABER</Tag>
+		<English>Sabre Cat</English>
+		<French>Sabre Cat</French>
+		<German>Sabre Cat</German>
+		<Italian>Sabre Cat</Italian>
+		<Spanish>Sabre Cat</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXPLORER</Tag>
+		<English>Adventurer</English>
+		<French>Adventurer</French>
+		<German>Adventurer</German>
+		<Italian>Adventurer</Italian>
+		<Spanish>Adventurer</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEY_ARGONIAN</Tag>
+		<English>Sea Raft</English>
+		<French>Sea Raft</French>
+		<German>Sea Raft</German>
+		<Italian>Sea Raft</Italian>
+		<Spanish>Sea Raft</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARAVEL_IMPERIAL</Tag>
+		<English>Carrack</English>
+		<French>Carrack</French>
+		<German>Carrack</German>
+		<Italian>Carrack</Italian>
+		<Spanish>Carrack</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEON_ALTMER</Tag>
+		<English>Crystal Ship</English>
+		<French>Crystal Ship</French>
+		<German>Crystal Ship</German>
+		<Italian>Crystal Ship</Italian>
+		<Spanish>Crystal Ship</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GALLEON_REDGUARD</Tag>
+		<English>Barque</English>
+		<French>Barque</French>
+		<German>Barque</German>
+		<Italian>Barque</Italian>
+		<Spanish>Barque</Spanish>
+	</TEXT>
+	
+	
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_SCIENTIST</Tag>
+		<English>Mage</English>
+		<French>Mage</French>
+		<German>Mage</German>
+		<Italian>Mage</Italian>
+		<Spanish>Mage</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_SCIENTIST_STRATEGY</Tag>
+		<English></English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_SCIENTIST</Tag>
+		<English>Great Mage</English>
+		<French>Great Mage</French>
+		<German>Great Mage</German>
+		<Italian>Great Mage</Italian>
+		<Spanish>Great Mage</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_SCIENTIST_STRATEGY</Tag>
+		<English></English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GREAT_SCIENTIST</Tag>
+		<English>Great Mage</English>
+		<French>Great Mage</French>
+		<German>Great Mage</German>
+		<Italian>Great Mage</Italian>
+		<Spanish>Great Mage</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GREAT_SCIENTIST_STRATEGY</Tag>
+		<English></English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MOONS</Tag>
+		<English>Moons</English>
+		<French>Moons</French>
+		<German>Moons</German>
+		<Italian>Moons</Italian>
+		<Spanish>Moons</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_GREEN_PACT</Tag>
+		<English>Green Pact</English>
+		<French>Green Pact</French>
+		<German>Green Pact</German>
+		<Italian>Green Pact</Italian>
+		<Spanish>Green Pact</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ATMORA</Tag>
+		<English>Atmora</English>
+		<French>Atmora</French>
+		<German>Atmora</German>
+		<Italian>Atmora</Italian>
+		<Spanish>Atmora</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_YOKUDA</Tag>
+		<English>Yokuda</English>
+		<French>Yokuda</French>
+		<German>Yokuda</German>
+		<Italian>Yokuda</Italian>
+		<Spanish>Yokuda</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_JUNGLE_LIFE</Tag>
+		<English>Jungle Life</English>
+		<French>Jungle Life</French>
+		<German>Jungle Life</German>
+		<Italian>Jungle Life</Italian>
+		<Spanish>Jungle Life</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MYSTICISM</Tag>
+		<English>Mysticism</English>
+		<French>Mysticism</French>
+		<German>Mysticism</German>
+		<Italian>Mysticism</Italian>
+		<Spanish>Mysticism</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_DESTRUCTION</Tag>
+		<English>Destruction</English>
+		<French>Destruction</French>
+		<German>Destruction</German>
+		<Italian>Destruction</Italian>
+		<Spanish>Destruction</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_RESTORATION</Tag>
+		<English>Restoration</English>
+		<French>Restoration</French>
+		<German>Restoration</German>
+		<Italian>Restoration</Italian>
+		<Spanish>Restoration</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ILLUSION</Tag>
+		<English>Illusion</English>
+		<French>Illusion</French>
+		<German>Illusion</German>
+		<Italian>Illusion</Italian>
+		<Spanish>Illusion</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ALTERATION</Tag>
+		<English>Alteration</English>
+		<French>Alteration</French>
+		<German>Alteration</German>
+		<Italian>Alteration</Italian>
+		<Spanish>Alteration</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ENCHANTING</Tag>
+		<English>Enchanting</English>
+		<French>Enchanting</French>
+		<German>Enchanting</German>
+		<Italian>Enchanting</Italian>
+		<Spanish>Enchanting</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SOULS_MASTERY</Tag>
+		<English>Souls Mastery</English>
+		<French>Souls Mastery</French>
+		<German>Souls Mastery</German>
+		<Italian>Souls Mastery</Italian>
+		<Spanish>Souls Mastery</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_CONJURATION</Tag>
+		<English>Conjuration</English>
+		<French>Conjuration</French>
+		<German>Conjuration</German>
+		<Italian>Conjuration</Italian>
+		<Spanish>Conjuration</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_GUILDS</Tag>
+		<English>Guilds</English>
+		<French>Guilds</French>
+		<German>Guilds</German>
+		<Italian>Guilds</Italian>
+		<Spanish>Guilds</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_CITIZENSHIP</Tag>
+		<English>Citizenship</English>
+		<French>Citizenship</French>
+		<German>Citizenship</German>
+		<Italian>Citizenship</Italian>
+		<Spanish>Citizenship</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MAGIC_AND_FLORA</Tag>
+		<English>Magic and Flora</English>
+		<French>Magic and Flora</French>
+		<German>Magic and Flora</German>
+		<Italian>Magic and Flora</Italian>
+		<Spanish>Magic and Flora</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MAGIC_IN_SOCIETY</Tag>
+		<English>Magic in Society</English>
+		<French>Magic in Society</French>
+		<German>Magic in Society</German>
+		<Italian>Magic in Society</Italian>
+		<Spanish>Magic in Society</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_NECROMANCY</Tag>
+		<English>Necromancy</English>
+		<French>Necromancy</French>
+		<German>Necromancy</German>
+		<Italian>Necromancy</Italian>
+		<Spanish>Necromancy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ADVANCED_ENCHANTING</Tag>
+		<English>Advanced Enchanting</English>
+		<French>Advanced Enchanting</French>
+		<German>Advanced Enchanting</German>
+		<Italian>Advanced Enchanting</Italian>
+		<Spanish>Advanced Enchanting</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MAGICAL_PARTS</Tag>
+		<English>Magical Parts</English>
+		<French>Magical Parts</French>
+		<German>Magical Parts</German>
+		<Italian>Magical Parts</Italian>
+		<Spanish>Magical Parts</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_STEAM_MAGIC</Tag>
+		<English>Steam Magic</English>
+		<French>Steam Magic</French>
+		<German>Steam Magic</German>
+		<Italian>Steam Magic</Italian>
+		<Spanish>Steam Magic</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ADVANCED_CASTING</Tag>
+		<English>Advanced Casting</English>
+		<French>Advanced Casting</French>
+		<German>Advanced Casting</German>
+		<Italian>Advanced Casting</Italian>
+		<Spanish>Advanced Casting</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MYTHOPOETIC_ENCHANTMENTS</Tag>
+		<English>Mythopoeic Enchantments</English>
+		<French>Mythopoeic Enchantments</French>
+		<German>Mythopoeic Enchantments</German>
+		<Italian>Mythopoeic Enchantments</Italian>
+		<Spanish>Mythopoeic Enchantments</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MAGIC_AND_PROGRESS</Tag>
+		<English>Magic and Progress</English>
+		<French>Magic and Progress</French>
+		<German>Magic and Progress</German>
+		<Italian>Magic and Progress</Italian>
+		<Spanish>Magic and Progress</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_TONAL_INFUSION</Tag>
+		<English>Tonal Infusion</English>
+		<French>Tonal Infusion</French>
+		<German>Tonal Infusion</German>
+		<Italian>Tonal Infusion</Italian>
+		<Spanish>Tonal Infusion</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_PROFANE_TOOLS</Tag>
+		<English>Profane Tools</English>
+		<French>Profane Tools</French>
+		<German>Profane Tools</German>
+		<Italian>Profane Tools</Italian>
+		<Spanish>Profane Tools</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_FUTURE_MAGIC</Tag>
+		<English>Future Magic</English>
+		<French>Future Magic</French>
+		<German>Future Magic</German>
+		<Italian>Future Magic</Italian>
+		<Spanish>Future Magic</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_COMPASS</Tag>
+		<English>Navigation</English>
+		<French>Navigation</French>
+		<German>Navigation</German>
+		<Italian>Navigation</Italian>
+		<Spanish>Navigation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_METAPHYSICS</Tag>
+		<English>Metaphysics</English>
+		<French>Metaphysics</French>
+		<German>Metaphysics</German>
+		<Italian>Metaphysics</Italian>
+		<Spanish>Metaphysics</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SPIRITUALITY</Tag>
+		<English>Spirituality</English>
+		<French>Spirituality</French>
+		<German>Spirituality</German>
+		<Italian>Spirituality</Italian>
+		<Spanish>Spirituality</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_EBONY_WORKING</Tag>
+		<English>Ebony Working</English>
+		<French>Ebony Working</French>
+		<German>Ebony Working</German>
+		<Italian>Ebony Working</Italian>
+		<Spanish>Ebony Working</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_WOODSMITHING</Tag>
+		<English>Woodsmithing</English>
+		<French>Woodsmithing</French>
+		<German>Woodsmithing</German>
+		<Italian>Woodsmithing</Italian>
+		<Spanish>Woodsmithing</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_JUNGLE_CUTTING</Tag>
+		<English>Jungle Cutting</English>
+		<French>Jungle Cutting</French>
+		<German>Jungle Cutting</German>
+		<Italian>Jungle Cutting</Italian>
+		<Spanish>Jungle Cutting</Spanish>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_TECH_OLD_WAY</Tag>
+		<English>Old Way</English>
+		<French>Old Way</French>
+		<German>Old Way</German>
+		<Italian>Old Way</Italian>
+		<Spanish>Old Way</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_BASIC_MAGIC</Tag>
+		<English>Basic Magic</English>
+		<French>Basic Magic</French>
+		<German>Basic Magic</German>
+		<Italian>Basic Magic</Italian>
+		<Spanish>Basic Magic</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_OUTER_REALMS</Tag>
+		<English>Outer Realms</English>
+		<French>Outer Realms</French>
+		<German>Outer Realms</German>
+		<Italian>Outer Realms</Italian>
+		<Spanish>Outer Realms</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_VENERATION_OF_THE_DEAD</Tag>
+		<English>Veneration of the Dead</English>
+		<French>Veneration of the Dead</French>
+		<German>Veneration of the Dead</German>
+		<Italian>Veneration of the Dead</Italian>
+		<Spanish>Veneration of the Dead</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_GREAT_HOUSES</Tag>
+		<English>Great Houses</English>
+		<French>Great Houses</French>
+		<German>Great Houses</German>
+		<Italian>Great Houses</Italian>
+		<Spanish>Great Houses</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SPELLS</Tag>
+		<English>Spells</English>
+		<French>Spells</French>
+		<German>Spells</German>
+		<Italian>Spells</Italian>
+		<Spanish>Spells</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SCROLLS</Tag>
+		<English>Scrolls</English>
+		<French>Scrolls</French>
+		<German>Scrolls</German>
+		<Italian>Scrolls</Italian>
+		<Spanish>Scrolls</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ALCHEMY</Tag>
+		<English>Alchemy</English>
+		<French>Alchemy</French>
+		<German>Alchemy</German>
+		<Italian>Alchemy</Italian>
+		<Spanish>Alchemy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TERRAIN_ASHLANDS</Tag>
+		<English>Ashlands</English>
+		<French>Ashlands</French>
+		<German>Ashlands</German>
+		<Italian>Ashlands</Italian>
+		<Spanish>Ashlands</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_ORICHALCUM</Tag>
+		<English>Orichalcum</English>
+		<French>Orichalcum</French>
+		<German>Orichalcum</German>
+		<Italian>Orichalcum</Italian>
+		<Spanish>Orichalcum</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_MOONSTONE</Tag>
+		<English>Moon Stone</English>
+		<French>Moon Stone</French>
+		<German>Moon Stone</German>
+		<Italian>Moon Stone</Italian>
+		<Spanish>Moon Stone</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_GLASS</Tag>
+		<English>Glass</English>
+		<French>Glass</French>
+		<German>Glass</German>
+		<Italian>Glass</Italian>
+		<Spanish>Glass</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_BOAR</Tag>
+		<English>Boar</English>
+		<French>Boar</French>
+		<German>Boar</German>
+		<Italian>Boar</Italian>
+		<Spanish>Boar</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_DATE</Tag>
+		<English>Dates</English>
+		<French>Dates</French>
+		<German>Dates</German>
+		<Italian>Dates</Italian>
+		<Spanish>Dates</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_SOUL_GEMS</Tag>
+		<English>Soul Gems</English>
+		<French>Soul Gems</French>
+		<German>Soul Gems</German>
+		<Italian>Soul Gems</Italian>
+		<Spanish>Soul Gems</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_GUAR</Tag>
+		<English>Guar</English>
+		<French>Guar</French>
+		<German>Guar</German>
+		<Italian>Guar</Italian>
+		<Spanish>Guar</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_KWAMA</Tag>
+		<English>Kwama</English>
+		<French>Kwama</French>
+		<German>Kwama</German>
+		<Italian>Kwama</Italian>
+		<Spanish>Kwama</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_RABBIT</Tag>
+		<English>Rabbits</English>
+		<French>Rabbits</French>
+		<German>Rabbits</German>
+		<Italian>Rabbits</Italian>
+		<Spanish>Rabbits</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_LOBSTER</Tag>
+		<English>Lobster</English>
+		<French>Lobster</French>
+		<German>Lobster</German>
+		<Italian>Lobster</Italian>
+		<Spanish>Lobster</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_ELK</Tag>
+		<English>Elk</English>
+		<French>Elk</French>
+		<German>Elk</German>
+		<Italian>Elk</Italian>
+		<Spanish>Elk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_HORKER</Tag>
+		<English>Horker</English>
+		<French>Horker</French>
+		<German>Horker</German>
+		<Italian>Horker</Italian>
+		<Spanish>Horker</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_MOON_SUGAR</Tag>
+		<English>Moon Sugar</English>
+		<French>Moon Sugar</French>
+		<German>Moon Sugar</German>
+		<Italian>Moon Sugar</Italian>
+		<Spanish>Moon Sugar</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_EBONY</Tag>
+		<English>Ebony</English>
+		<French>Ebony</French>
+		<German>Ebony</German>
+		<Italian>Ebony</Italian>
+		<Spanish>Ebony</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_HERBS</Tag>
+		<English>Herbs</English>
+		<French>Herbs</French>
+		<German>Herbs</German>
+		<Italian>Herbs</Italian>
+		<Spanish>Herbs</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_POTATO</Tag>
+		<English>Potato</English>
+		<French>Potato</French>
+		<German>Potato</German>
+		<Italian>Potato</Italian>
+		<Spanish>Potato</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_HOARVOR</Tag>
+		<English>Hoarvor</English>
+		<French>Hoarvor</French>
+		<German>Hoarvor</German>
+		<Italian>Hoarvor</Italian>
+		<Spanish>Hoarvor</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_ASHLANDER</Tag>
+		<English>Ashlander Camp</English>
+		<French>Ashlander Camp</French>
+		<German>Ashlander Camp</German>
+		<Italian>Ashlander Camp</Italian>
+		<Spanish>Ashlander Camp</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FOREST_CAMP</Tag>
+		<English>Forest Camp</English>
+		<French>Forest Camp</French>
+		<German>Forest Camp</German>
+		<Italian>Forest Camp</Italian>
+		<Spanish>Forest Camp</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_TREE_COMMUNITY</Tag>
+		<English>Tree Community</English>
+		<French>Tree Community</French>
+		<German>Tree Community</German>
+		<Italian>Tree Community</Italian>
+		<Spanish>Tree Community</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_JUNGLE_TOWN</Tag>
+		<English>Jungle Tribe</English>
+		<French>Jungle Tribe</French>
+		<German>Jungle Tribe</German>
+		<Italian>Jungle Tribe</Italian>
+		<Spanish>Jungle Tribe</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CARAVAN</Tag>
+		<English>Caravan Station</English>
+		<French>Caravan Station</French>
+		<German>Caravan Station</German>
+		<Italian>Caravan Station</Italian>
+		<Spanish>Caravan Station</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_ASHLANDER</Tag>
+		<English>Establish Ashlander Camp</English>
+		<French>Establish Ashlander Camp</French>
+		<German>Establish Ashlander Camp</German>
+		<Italian>Establish Ashlander Camp</Italian>
+		<Spanish>Establish Ashlander Camp</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITCOMBAT_MAGE</Tag>
+		<English>Mages</English>
+		<French>Mages</French>
+		<German>Mages</German>
+		<Italian>Mages</Italian>
+		<Spanish>Mages</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ORC_SETTLER</Tag>
+		<English>Settler</English>
+		<French>Settler</French>
+		<German>Settler</German>
+		<Italian>Settler</Italian>
+		<Spanish>Settler</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CASTER</Tag>
+		<English>Caster</English>
+		<French>Caster</French>
+		<German>Caster</German>
+		<Italian>Caster</Italian>
+		<Spanish>Caster</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MAGE</Tag>
+		<English>Battlemage</English>
+		<French>Battlemage</French>
+		<German>Battlemage</German>
+		<Italian>Battlemage</Italian>
+		<Spanish>Battlemage</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ALIKR_MAGE</Tag>
+		<English>Alik'r Mage</English>
+		<French>Alik'r Mage</French>
+		<German>Alik'r Mage</German>
+		<Italian>Alik'r Mage</Italian>
+		<Spanish>Alik'r Mage</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KHAJIIT_HORSEMAN</Tag>
+		<English>Khajiiti Horseman</English>
+		<French>Khajiiti Horseman</French>
+		<German>Khajiiti Horseman</German>
+		<Italian>Khajiiti Horseman</Italian>
+		<Spanish>Khajiiti Horseman</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CONJURER</Tag>
+		<English>Conjurer</English>
+		<French>Conjurer</French>
+		<German>Conjurer</German>
+		<Italian>Conjurer</Italian>
+		<Spanish>Conjurer</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WARMAGE</Tag>
+		<English>Warmage</English>
+		<French>Warmage</French>
+		<German>Warmage</German>
+		<Italian>Warmage</Italian>
+		<Spanish>Warmage</Spanish>
+	</TEXT>
+	
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_KAMIKAZE</Tag>
+		<English>Kamikaze</English>
+		<French>Kamikaze</French>
+		<German>Kamikaze</German>
+		<Italian>Kamikaze</Italian>
+		<Spanish>Kamikaze</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONJURER6</Tag>
+		<English>Summon Dremora</English>
+		<French>Summon Dremora</French>
+		<German>Summon Dremora</German>
+		<Italian>Summon Dremora</Italian>
+		<Spanish>Summon Dremora</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONJURER5</Tag>
+		<English>Summon Daedra</English>
+		<French>Summon Daedra</French>
+		<German>Summon Daedra</German>
+		<Italian>Summon Daedra</Italian>
+		<Spanish>Summon Daedra</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONJURER4</Tag>
+		<English>Summon Daedra</English>
+		<French>Summon Daedra</French>
+		<German>Summon Daedra</German>
+		<Italian>Summon Daedra</Italian>
+		<Spanish>Summon Daedra</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONJURER3</Tag>
+		<English>Summon Daedra</English>
+		<French>Summon Daedra</French>
+		<German>Summon Daedra</German>
+		<Italian>Summon Daedra</Italian>
+		<Spanish>Summon Daedra</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONJURER2</Tag>
+		<English>Summon Daedra</English>
+		<French>Summon Daedra</French>
+		<German>Summon Daedra</German>
+		<Italian>Summon Daedra</Italian>
+		<Spanish>Summon Daedra</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_CONJURER1</Tag>
+		<English>Conjurer</English>
+		<French>Conjurer</French>
+		<German>Conjurer</German>
+		<Italian>Conjurer</Italian>
+		<Spanish>Conjurer</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ALTERATION1</Tag>
+		<English>Alteration 1</English>
+		<French>Alteration 1</French>
+		<German>Alteration 1</German>
+		<Italian>Alteration 1</Italian>
+		<Spanish>Alteration 1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SHOCK1</Tag>
+		<English>Shock 1</English>
+		<French>Shock 1</French>
+		<German>Shock 1</German>
+		<Italian>Shock 1</Italian>
+		<Spanish>Shock 1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SHOCK2</Tag>
+		<English>Shock 2</English>
+		<French>Shock 2</French>
+		<German>Shock 2</German>
+		<Italian>Shock 2</Italian>
+		<Spanish>Shock 2</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SHOCK3</Tag>
+		<English>Shock 3</English>
+		<French>Shock 3</French>
+		<German>Shock 3</German>
+		<Italian>Shock 3</Italian>
+		<Spanish>Shock 3</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ALTERATION2</Tag>
+		<English>Alteration 2</English>
+		<French>Alteration 2</French>
+		<German>Alteration 2</German>
+		<Italian>Alteration 2</Italian>
+		<Spanish>Alteration 2</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_JUNGLEMAN</Tag>
+		<English>Jungleman</English>
+		<French>Jungleman</French>
+		<German>Jungleman</German>
+		<Italian>Jungleman</Italian>
+		<Spanish>Jungleman</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_NORSEMAN</Tag>
+		<English>Norseman</English>
+		<French>Norseman</French>
+		<German>Norseman</German>
+		<Italian>Norseman</Italian>
+		<Spanish>Norseman</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ENCHANTED_WEAPON</Tag>
+		<English>Enchanted Weapon</English>
+		<French>Enchanted Weapon</French>
+		<German>Enchanted Weapon</German>
+		<Italian>Enchanted Weapon</Italian>
+		<Spanish>Enchanted Weapon</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RESISTANCE</Tag>
+		<English>Resistance</English>
+		<French>Resistance</French>
+		<German>Resistance</German>
+		<Italian>Resistance</Italian>
+		<Spanish>Resistance</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_REFLECT1</Tag>
+		<English>Reflect 1</English>
+		<French>Reflect 1</French>
+		<German>Reflect 1</German>
+		<Italian>Reflect 1</Italian>
+		<Spanish>Reflect 1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_REFLECT2</Tag>
+		<English>Reflect 2</English>
+		<French>Reflect 2</French>
+		<German>Reflect 2</German>
+		<Italian>Reflect 2</Italian>
+		<Spanish>Reflect 2</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_FIRE1</Tag>
+		<English>Fire 1</English>
+		<French>Fire 1</French>
+		<German>Fire 1</German>
+		<Italian>Fire 1</Italian>
+		<Spanish>Fire 1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_FIRE2</Tag>
+		<English>Fire 2</English>
+		<French>Fire 2</French>
+		<German>Fire 2</German>
+		<Italian>Fire 2</Italian>
+		<Spanish>Fire 2</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_FIRE3</Tag>
+		<English>Fire 3</English>
+		<French>Fire 3</French>
+		<German>Fire 3</German>
+		<Italian>Fire 3</Italian>
+		<Spanish>Fire 3</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_FROST1</Tag>
+		<English>Frost 1</English>
+		<French>Frost 1</French>
+		<German>Frost 1</German>
+		<Italian>Frost 1</Italian>
+		<Spanish>Frost 1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_FROST2</Tag>
+		<English>Frost 2</English>
+		<French>Frost 2</French>
+		<German>Frost 2</German>
+		<Italian>Frost 2</Italian>
+		<Spanish>Frost 2</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_FROST3</Tag>
+		<English>Frost 3</English>
+		<French>Frost 3</French>
+		<German>Frost 3</German>
+		<Italian>Frost 3</Italian>
+		<Spanish>Frost 3</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GUARDIAN</Tag>
+		<English>Guardian</English>
+		<French>Guardian</French>
+		<German>Guardian</German>
+		<Italian>Guardian</Italian>
+		<Spanish>Guardian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ILLUSION1</Tag>
+		<English>Illusion 1</English>
+		<French>Illusion 1</French>
+		<German>Illusion 1</German>
+		<Italian>Illusion 1</Italian>
+		<Spanish>Illusion 1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ILLUSION2</Tag>
+		<English>Illusion 2</English>
+		<French>Illusion 2</French>
+		<German>Illusion 2</German>
+		<Italian>Illusion 2</Italian>
+		<Spanish>Illusion 2</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ILLUSION3</Tag>
+		<English>Illusion 3</English>
+		<French>Illusion 3</French>
+		<German>Illusion 3</German>
+		<Italian>Illusion 3</Italian>
+		<Spanish>Illusion 3</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_EVADER</Tag>
+		<English>Evader</English>
+		<French>Evader</French>
+		<German>Evader</German>
+		<Italian>Evader</Italian>
+		<Spanish>Evader</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_DESTRUCTION</Tag>
+		<English>Master of Destruction</English>
+		<French>Master of Destruction</French>
+		<German>Master of Destruction</German>
+		<Italian>Master of Destruction</Italian>
+		<Spanish>Master of Destruction</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_OLIGARCHY</Tag>
+		<English>Oligarchy</English>
+		<French>Oligarchy</French>
+		<German>Oligarchy</German>
+		<Italian>Oligarchy</Italian>
+		<Spanish>Oligarchy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_WE_LOVE_OLYGARCH</Tag>
+		<English>We Love Our Oligarchy</English>
+		<French>We Love Our Oligarchy</French>
+		<German>We Love Our Oligarchy</German>
+		<Italian>We Love Our Oligarchy</Italian>
+		<Spanish>We Love Our Oligarchy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MAGES_COUNSIL</Tag>
+		<English>Mages Counsil</English>
+		<French>Mages Counsil</French>
+		<German>Mages Counsil</German>
+		<Italian>Mages Counsil</Italian>
+		<Spanish>Mages Counsil</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_WE_LOVE_MAGES</Tag>
+		<English>We Love Our Mages</English>
+		<French>We Love Our Mages</French>
+		<German>We Love Our Mages</German>
+		<Italian>We Love Our Mages</Italian>
+		<Spanish>We Love Our Mages</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_RACIAL_SUPREMACY</Tag>
+		<English>Racial Supremacy</English>
+		<French>Racial Supremacy</French>
+		<German>Racial Supremacy</German>
+		<Italian>Racial Supremacy</Italian>
+		<Spanish>Racial Supremacy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_CITIZENSHIP</Tag>
+		<English>Citizenship</English>
+		<French>Citizenship</French>
+		<German>Citizenship</German>
+		<Italian>Citizenship</Italian>
+		<Spanish>Citizenship</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MANORIALISM</Tag>
+		<English>Manorialism</English>
+		<French>Manorialism</French>
+		<German>Manorialism</German>
+		<Italian>Manorialism</Italian>
+		<Spanish>Manorialism</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_INDEPENDENT_FARMERS</Tag>
+		<English>Independent Farmers</English>
+		<French>Independent Farmers</French>
+		<German>Independent Farmers</German>
+		<Italian>Independent Farmers</Italian>
+		<Spanish>Independent Farmers</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MAGIC_ORIENTED</Tag>
+		<English>Magic Oriented</English>
+		<French>Magic Oriented</French>
+		<German>Magic Oriented</German>
+		<Italian>Magic Oriented</Italian>
+		<Spanish>Magic Oriented</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_DIVINE_RIGHT</Tag>
+		<English>Divine Right</English>
+		<French>Divine Right</French>
+		<German>Divine Right</German>
+		<Italian>Divine Right</Italian>
+		<Spanish>Divine Right</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_DEFIANCE</Tag>
+		<English>Defiance</English>
+		<French>Defiance</French>
+		<German>Defiance</German>
+		<Italian>Defiance</Italian>
+		<Spanish>Defiance</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_GREEN_PACT</Tag>
+		<English>Green Pact</English>
+		<French>Green Pact</French>
+		<German>Green Pact</German>
+		<Italian>Green Pact</Italian>
+		<Spanish>Green Pact</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ORC_DESC</Tag>
+		<English>Orcish Kingdom</English>
+		<French>Orcish Kingdom</French>
+		<German>Orcish Kingdom</German>
+		<Italian>Orcish Kingdom</Italian>
+		<Spanish>Orcish Kingdom</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ORC_SHORT_DESC</Tag>
+		<English>Orcish Kingdom</English>
+		<French>Orcish Kingdom</French>
+		<German>Orcish Kingdom</German>
+		<Italian>Orcish Kingdom</Italian>
+		<Spanish>Orcish Kingdom</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ORC_ADJECTIVE</Tag>
+		<English>Orcish</English>
+		<French>Orcish</French>
+		<German>Orcish</German>
+		<Italian>Orcish</Italian>
+		<Spanish>Orcish</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARGONIAN_DESC</Tag>
+		<English>Argonian Empire</English>
+		<French>Argonian Empire</French>
+		<German>Argonian Empire</German>
+		<Italian>Argonian Empire</Italian>
+		<Spanish>Argonian Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARGONIAN_SHORT_DESC</Tag>
+		<English>Argonia</English>
+		<French>Argonia</French>
+		<German>Argonia</German>
+		<Italian>Argonia</Italian>
+		<Spanish>Argonia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARGONIAN_ADJECTIVE</Tag>
+		<English>Argonian</English>
+		<French>Argonian</French>
+		<German>Argonian</German>
+		<Italian>Argonian</Italian>
+		<Spanish>Argonian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHAJIIT_DESC</Tag>
+		<English>Khajiiti Empire</English>
+		<French>Khajiiti Empire</French>
+		<German>Khajiiti Empire</German>
+		<Italian>Khajiiti Empire</Italian>
+		<Spanish>Khajiiti Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHAJIIT_SHORT_DESC</Tag>
+		<English>Elsweyr</English>
+		<French>Elsweyr</French>
+		<German>Elsweyr</German>
+		<Italian>Elsweyr</Italian>
+		<Spanish>Elsweyr</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHAJIIT_ADJECTIVE</Tag>
+		<English>Khajiiti</English>
+		<French>Khajiiti</French>
+		<German>Khajiiti</German>
+		<Italian>Khajiiti</Italian>
+		<Spanish>Khajiiti</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_IMPERIAL_DESC</Tag>
+		<English>Cyrodiilic Empire</English>
+		<French>Cyrodiilic Empire</French>
+		<German>Cyrodiilic Empire</German>
+		<Italian>Cyrodiilic Empire</Italian>
+		<Spanish>Cyrodiilic Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_IMPERIAL_SHORT_DESC</Tag>
+		<English>Cyrodiil</English>
+		<French>Cyridiil</French>
+		<German>Cyridiil</German>
+		<Italian>Cyridiil</Italian>
+		<Spanish>Cyridiil</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_IMPERIAL_ADJECTIVE</Tag>
+		<English>Imperial</English>
+		<French>Imperial</French>
+		<German>Imperial</German>
+		<Italian>Imperial</Italian>
+		<Spanish>Imperial</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_REDGUARD_DESC</Tag>
+		<English>Redguard Empire</English>
+		<French>Redguard Empire</French>
+		<German>Redguard Empire</German>
+		<Italian>Redguard Empire</Italian>
+		<Spanish>Redguard Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_REDGUARD_SHORT_DESC</Tag>
+		<English>Hammerfell</English>
+		<French>Hammerfell</French>
+		<German>Hammerfell</German>
+		<Italian>Hammerfell</Italian>
+		<Spanish>Hammerfell</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_REDGUARD_ADJECTIVE</Tag>
+		<English>Redguard</English>
+		<French>Redguard</French>
+		<German>Redguard</German>
+		<Italian>Redguard</Italian>
+		<Spanish>Redguard</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BRETON_DESC</Tag>
+		<English>Breton Empire</English>
+		<French>Breton Empire</French>
+		<German>Breton Empire</German>
+		<Italian>Breton Empire</Italian>
+		<Spanish>Breton Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BRETON_SHORT_DESC</Tag>
+		<English>High Rock</English>
+		<French>High Rock</French>
+		<German>High Rock</German>
+		<Italian>High Rock</Italian>
+		<Spanish>High Rock</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BRETON_ADJECTIVE</Tag>
+		<English>Breton</English>
+		<French>Breton</French>
+		<German>Breton</German>
+		<Italian>Breton</Italian>
+		<Spanish>Breton</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DUNMER_DESC</Tag>
+		<English>Dark Elven Empire</English>
+		<French>Dark Elven Empire</French>
+		<German>Dark Elven Empire</German>
+		<Italian>Dark Elven Empire</Italian>
+		<Spanish>Dark Elven Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DUNMER_SHORT_DESC</Tag>
+		<English>Morrowind</English>
+		<French>Morrowind</French>
+		<German>Morrowind</German>
+		<Italian>Morrowind</Italian>
+		<Spanish>Morrowind</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DUNMER_ADJECTIVE</Tag>
+		<English>Dunmeri</English>
+		<French>Dunmeri</French>
+		<German>Dunmeri</German>
+		<Italian>Dunmeri</Italian>
+		<Spanish>Dunmeri</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BOSMER_DESC</Tag>
+		<English>Bosmeri Empire</English>
+		<French>Bosmeri Empire</French>
+		<German>Bosmeri Empire</German>
+		<Italian>Bosmeri Empire</Italian>
+		<Spanish>Bosmeri Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BOSMER_SHORT_DESC</Tag>
+		<English>Valenwood</English>
+		<French>Valenwood</French>
+		<German>Valenwood</German>
+		<Italian>Valenwood</Italian>
+		<Spanish>Valenwood</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BOSMER_ADJECTIVE</Tag>
+		<English>Bosmeri</English>
+		<French>Bosmeri</French>
+		<German>Bosmeri</German>
+		<Italian>Bosmeri</Italian>
+		<Spanish>Bosmeri</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ALTMER_DESC</Tag>
+		<English>Altmeri Empire</English>
+		<French>Altmeri Empire</French>
+		<German>Altmeri Empire</German>
+		<Italian>Altmeri Empire</Italian>
+		<Spanish>Altmeri Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ALTMER_SHORT_DESC</Tag>
+		<English>Summerset</English>
+		<French>Summerset</French>
+		<German>Summerset</German>
+		<Italian>Summerset</Italian>
+		<Spanish>Summerset</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ALTMER_ADJECTIVE</Tag>
+		<English>Altmeri</English>
+		<French>Altmeri</French>
+		<German>Altmeri</German>
+		<Italian>Altmeri</Italian>
+		<Spanish>Altmeri</Spanish>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_CIV_NORD_DESC</Tag>
+		<English>Nordic Empire</English>
+		<French>Nordic Empire</French>
+		<German>Nordic Empire</German>
+		<Italian>Nordic Empire</Italian>
+		<Spanish>Nordic Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NORD_SHORT_DESC</Tag>
+		<English>Skyrim</English>
+		<French>Skyrim</French>
+		<German>Skyrim</German>
+		<Italian>Skyrim</Italian>
+		<Spanish>Skyrim</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NORD_ADJECTIVE</Tag>
+		<English>Nordic</English>
+		<French>Nordic</French>
+		<German>Nordic</German>
+		<Italian>Nordic</Italian>
+		<Spanish>Nordic</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_ARGONIAN</Tag>
+		<English>Argonian</English>
+		<French>Argonian</French>
+		<German>Argonian</German>
+		<Italian>Argonian</Italian>
+		<Spanish>Argonian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_ARGONIAN_SHORT</Tag>
+		<English>Arg</English>
+		<French>Arg</French>
+		<German>Arg</German>
+		<Italian>Arg</Italian>
+		<Spanish>Arg</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_ORC</Tag>
+		<English>Orc</English>
+		<French>Orc</French>
+		<German>Orc</German>
+		<Italian>Orc</Italian>
+		<Spanish>Orc</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_ORC_SHORT</Tag>
+		<English>Orc</English>
+		<French>Orc</French>
+		<German>Orc</German>
+		<Italian>Orc</Italian>
+		<Spanish>Orc</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ORC_TRAIT_HELP</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]+100%[ICON_GOLD] from Pillaging[NEWLINE][SPACE][SPACE][ICON_BULLET]Enemies can't Capture or Pillage [ICON_GOLD] inside Cultural Borders</English>
+		<French>[NEWLINE][SPACE][SPACE][ICON_BULLET]+100%[ICON_GOLD] from Pillaging[NEWLINE][SPACE][SPACE][ICON_BULLET]Enemies can't Capture or Pillage [ICON_GOLD] inside Cultural Borders</French>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]+100%[ICON_GOLDD] from Pillaging[NEWLINE][SPACE][SPACE][ICON_BULLET]Enemies can't Capture or Pillage [ICON_GOLD] inside Cultural Borders</German>
+		<Italian>[NEWLINE][SPACE][SPACE][ICON_BULLET]+100%[ICON_GOL] from Pillaging[NEWLINE][SPACE][SPACE][ICON_BULLET]Enemies can't Capture or Pillage [ICON_GOLD] inside Cultural Borders</Italian>
+		<Spanish>[NEWLINE][SPACE][SPACE][ICON_BULLET]+100%[ICON_GOLD] from Pillaging[NEWLINE][SPACE][SPACE][ICON_BULLET]Enemies can't Capture or Pillage [ICON_GOLD] inside Cultural Borders</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_KHAJIIT</Tag>
+		<English>Khajiit</English>
+		<French>Khajiit</French>
+		<German>Khajiit</German>
+		<Italian>Khajiit</Italian>
+		<Spanish>Khajiit</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_KHAJIIT_SHORT</Tag>
+		<English>Khj</English>
+		<French>Khj</French>
+		<German>Khj</German>
+		<Italian>Khj</Italian>
+		<Spanish>Khj</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_KHJ_TRAIT_HELP</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]New Cities Start with 2 Population</English>
+		<French>[NEWLINE][SPACE][SPACE][ICON_BULLET]New Cities Start with 2 Population</French>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]New Cities Start with 2 Population</German>
+		<Italian>[NEWLINE][SPACE][SPACE][ICON_BULLET]New Cities Start with 2 Population</Italian>
+		<Spanish>[NEWLINE][SPACE][SPACE][ICON_BULLET]New Cities Start with 2 Population</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_DUNMER</Tag>
+		<English>Dunmer</English>
+		<French>Dunmer</French>
+		<German>Dunmer</German>
+		<Italian>Dunmer</Italian>
+		<Spanish>Dunmer</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_DUNMER_SHORT</Tag>
+		<English>Dun</English>
+		<French>Dun</French>
+		<German>Dun</German>
+		<Italian>Dun</Italian>
+		<Spanish>Dun</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_BRETON</Tag>
+		<English>Breton</English>
+		<French>Breton</French>
+		<German>Breton</German>
+		<Italian>Breton</Italian>
+		<Spanish>Breton</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_BRETON_SHORT</Tag>
+		<English>Bre</English>
+		<French>Bre</French>
+		<German>Bre</German>
+		<Italian>Bre</Italian>
+		<Spanish>Bre</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_NORD</Tag>
+		<English>Nord</English>
+		<French>Nord</French>
+		<German>Nord</German>
+		<Italian>Nord</Italian>
+		<Spanish>Nord</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_NORD_SHORT</Tag>
+		<English>Nrd</English>
+		<French>Nrd</French>
+		<German>Nrd</German>
+		<Italian>Nrd</Italian>
+		<Spanish>Nrd</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_ALTMER</Tag>
+		<English>Altmer</English>
+		<French>Altmer</French>
+		<German>Altmer</German>
+		<Italian>Altmer</Italian>
+		<Spanish>Altmer</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_ALTMER_SHORT</Tag>
+		<English>Alt</English>
+		<French>Alt</French>
+		<German>Alt</German>
+		<Italian>Alt</Italian>
+		<Spanish>Alt</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_IMPERIAL</Tag>
+		<English>Imperial</English>
+		<French>Imperial</French>
+		<German>Imperial</German>
+		<Italian>Imperial</Italian>
+		<Spanish>Imperial</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_IMPERIAL_SHORT</Tag>
+		<English>Imp</English>
+		<French>Imp</French>
+		<German>Imp</German>
+		<Italian>Imp</Italian>
+		<Spanish>Imp</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_REDGUARD</Tag>
+		<English>Redguard</English>
+		<French>Redguard</French>
+		<German>Redguard</German>
+		<Italian>Redguard</Italian>
+		<Spanish>Redguard</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_REDGUARD_SHORT</Tag>
+		<English>Red</English>
+		<French>Red</French>
+		<German>Red</German>
+		<Italian>Red</Italian>
+		<Spanish>Red</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_BOSMER</Tag>
+		<English>Bosmer</English>
+		<French>Bosmer</French>
+		<German>Bosmer</German>
+		<Italian>Bosmer</Italian>
+		<Spanish>Bosmer</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_BOSMER_SHORT</Tag>
+		<English>Bos</English>
+		<French>Bos</French>
+		<German>Bos</German>
+		<Italian>Bos</Italian>
+		<Spanish>Bos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_FOCUSED</Tag>
+		<English>Focused</English>
+		<French>Focused</French>
+		<German>Focused</German>
+		<Italian>Focused</Italian>
+		<Spanish>Focused</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_FOCUSED_SHORT</Tag>
+		<English>Foc</English>
+		<French>Foc</French>
+		<German>Foc</German>
+		<Italian>Foc</Italian>
+		<Spanish>Foc</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_MILITARISTIC</Tag>
+		<English>Militaristic</English>
+		<French>Militaristic</French>
+		<German>Militaristic</German>
+		<Italian>Militaristic</Italian>
+		<Spanish>Militaristic</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_MILITARISTIC_SHORT</Tag>
+		<English>Mil</English>
+		<French>Mil</French>
+		<German>Mil</German>
+		<Italian>Mil</Italian>
+		<Spanish>Mil</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_AGGRESSIVE</Tag>
+		<English>Aggressive</English>
+		<French>Aggressive</French>
+		<German>Aggressive</German>
+		<Italian>Aggressive</Italian>
+		<Spanish>Aggressive</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_AGGRESSIVE_SHORT</Tag>
+		<English>Agg</English>
+		<French>Agg</French>
+		<German>Agg</German>
+		<Italian>Agg</Italian>
+		<Spanish>Agg</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_CREATIVE</Tag>
+		<English>Creative</English>
+		<French>Creative</French>
+		<German>Creative</German>
+		<Italian>Creative</Italian>
+		<Spanish>Creative</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_CREATIVE_SHORT</Tag>
+		<English>Cre</English>
+		<French>Cre</French>
+		<German>Cre</German>
+		<Italian>Cre</Italian>
+		<Spanish>Cre</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_CHARISMATIC</Tag>
+		<English>Charismatic</English>
+		<French>Charismatic</French>
+		<German>Charismatic</German>
+		<Italian>Charismatic</Italian>
+		<Spanish>Charismatic</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_CHARISMATIC_SHORT</Tag>
+		<English>Chr</English>
+		<French>Chr</French>
+		<German>Chr</German>
+		<Italian>Chr</Italian>
+		<Spanish>Chr</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_MAGICIAN</Tag>
+		<English>Magician</English>
+		<French>Magician</French>
+		<German>Magician</German>
+		<Italian>Magician</Italian>
+		<Spanish>Magician</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_MAGICIAN_SHORT</Tag>
+		<English>Mag</English>
+		<French>Mag</French>
+		<German>Mag</German>
+		<Italian>Mag</Italian>
+		<Spanish>Mag</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_TRADER</Tag>
+		<English>Trader</English>
+		<French>Trader</French>
+		<German>Trader</German>
+		<Italian>Trader</Italian>
+		<Spanish>Trader</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_TRADER_SHORT</Tag>
+		<English>Tra</English>
+		<French>Tra</French>
+		<German>Tra</German>
+		<Italian>Tra</Italian>
+		<Spanish>Tra</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_RESOURCEFUL</Tag>
+		<English>Resourceful</English>
+		<French>Resourceful</French>
+		<German>Resourceful</German>
+		<Italian>Resourceful</Italian>
+		<Spanish>Resourceful</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_RESOURCEFUL_SHORT</Tag>
+		<English>Res</English>
+		<French>Res</French>
+		<German>Res</German>
+		<Italian>Res</Italian>
+		<Spanish>Res</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_MERCANTILE</Tag>
+		<English>Mercantile</English>
+		<French>Mercantile</French>
+		<German>Mercantile</German>
+		<Italian>Mercantile</Italian>
+		<Spanish>Mercantile</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_MERCANTILE_SHORT</Tag>
+		<English>Mer</English>
+		<French>Mer</French>
+		<German>Mer</German>
+		<Italian>Mer</Italian>
+		<Spanish>Mer</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_EXPANSIVE</Tag>
+		<English>Expansive</English>
+		<French>Expansive</French>
+		<German>Expansive</German>
+		<Italian>Expansive</Italian>
+		<Spanish>Expansive</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_EXPANSIVE_SHORT</Tag>
+		<English>Exp</English>
+		<French>Exp</French>
+		<German>Exp</German>
+		<Italian>Exp</Italian>
+		<Spanish>Exp</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_PHILOSOPHICAL</Tag>
+		<English>Philosophical</English>
+		<French>Philosophical</French>
+		<German>Philosophical</German>
+		<Italian>Philosophical</Italian>
+		<Spanish>Philosophical</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_PHILOSOPHICAL_SHORT</Tag>
+		<English>Phi</English>
+		<French>Phi</French>
+		<German>Phi</German>
+		<Italian>Phi</Italian>
+		<Spanish>Phi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PHI_TRAIT_HELP</Tag>
+		<English>[NEWLINE][SPACE][SPACE][ICON_BULLET]+100% Golden Age Length</English>
+		<French>[NEWLINE][SPACE][SPACE][ICON_BULLET]+100% Golden Age Length</French>
+		<German>[NEWLINE][SPACE][SPACE][ICON_BULLET]+100% Golden Age Length</German>
+		<Italian>[NEWLINE][SPACE][SPACE][ICON_BULLET]+100% Golden Age Length</Italian>
+		<Spanish>[NEWLINE][SPACE][SPACE][ICON_BULLET]+100% Golden Age Length</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_GORTWOG</Tag>
+		<English>Gortwog gro-Nagorm</English>
+		<French>Gortwog gro-Nagorm</French>
+		<German>Gortwog gro-Nagorm</German>
+		<Italian>Gortwog gro-Nagorm</Italian>
+		<Spanish>Gortwog gro-Nagorm</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_AN_XILEEL</Tag>
+		<English>An-Xileel</English>
+		<French>An-Xileel</French>
+		<German>An-Xileel</German>
+		<Italian>An-Xileel</Italian>
+		<Spanish>An-Xileel</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MANE</Tag>
+		<English>Mane</English>
+		<French>Mane</French>
+		<German>Mane</German>
+		<Italian>Mane</Italian>
+		<Spanish>Mane</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TIBER_SEPTIM</Tag>
+		<English>Tiber Septim</English>
+		<French>Tiber Septim</French>
+		<German>Tiber Septim</German>
+		<Italian>Tiber Septim</Italian>
+		<Spanish>Tiber Septim</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_THASSAD</Tag>
+		<English>Thassad II</English>
+		<French>Thassad II</French>
+		<German>Thassad II</German>
+		<Italian>Thassad II</Italian>
+		<Spanish>Thassad II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_LYSANDUS</Tag>
+		<English>Lysandus</English>
+		<French>Lysandus</French>
+		<German>Lysandus</German>
+		<Italian>Lysandus</Italian>
+		<Spanish>Lysandus</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ELYSANA</Tag>
+		<English>Elysana</English>
+		<French>Elysana</French>
+		<German>Elysana</German>
+		<Italian>Elysana</Italian>
+		<Spanish>Elysana</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_VIVEC</Tag>
+		<English>Vivec</English>
+		<French>Vivec</French>
+		<German>Vivec</German>
+		<Italian>Vivec</Italian>
+		<Spanish>Vivec</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CAMORAN</Tag>
+		<English>Camoran Anaxemes</English>
+		<French>Camoran Anaxemes</French>
+		<German>Camoran Anaxemes</German>
+		<Italian>Camoran Anaxemes</Italian>
+		<Spanish>Camoran Anaxemes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_THALMOR</Tag>
+		<English>Thalmor</English>
+		<French>Thalmor</French>
+		<German>Thalmor</German>
+		<Italian>Thalmor</Italian>
+		<Spanish>Thalmor</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_HARALD</Tag>
+		<English>Harald</English>
+		<French>Harald</French>
+		<German>Harald</German>
+		<Italian>Harald</Italian>
+		<Spanish>Harald</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_FOREST_CAMP</Tag>
+		<English>Build Forest Camp</English>
+		<French>Build Forest Camp</French>
+		<German>Build Forest Camp</German>
+		<Italian>Build Forest Camp</Italian>
+		<Spanish>Build Forest Camp</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_TREE_COMMUNITY</Tag>
+		<English>Build Tree Community</English>
+		<French>Build Tree Community</French>
+		<German>Build Tree Community</German>
+		<Italian>Build Tree Community</Italian>
+		<Spanish>Build Tree Community</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_JUNGLE_TOWN</Tag>
+		<English>Build Jungle Town</English>
+		<French>Build Jungle Town</French>
+		<German>Build Jungle Town</German>
+		<Italian>Build Jungle Town</Italian>
+		<Spanish>Build Jungle Town</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_CARAVAN</Tag>
+		<English>Build Caravan Station</English>
+		<French>Build Caravan Station</French>
+		<German>Build Caravan Station</German>
+		<Italian>Build Caravan Station</Italian>
+		<Spanish>Build Caravan Station</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOSMER_WORKER</Tag>
+		<English>Bosmer Worker</English>
+		<French>Bosmer Worker</French>
+		<German>Bosmer Worker</German>
+		<Italian>Bosmer Worker</Italian>
+		<Spanish>Bosmer Worker</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DEER_ARCHER</Tag>
+		<English>Deer Archer</English>
+		<French>Deer Archer</French>
+		<German>Deer Archer</German>
+		<Italian>Deer Archer</Italian>
+		<Spanish>Deer Archer</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARGONIAN_WORKER</Tag>
+		<English>Argonian Worker</English>
+		<French>Argonian Worker</French>
+		<German>Argonian Worker</German>
+		<Italian>Argonian Worker</Italian>
+		<Spanish>Argonian Worker</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RA_GADA_WARRIOR</Tag>
+		<English>Ra'Gada Warrior</English>
+		<French>Ra'Gada Warrior</French>
+		<German>Ra'Gada Warrior</German>
+		<Italian>Ra'Gada Warrior</Italian>
+		<Spanish>Ra'Gada Warrior</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LEGION_SOLDIER</Tag>
+		<English>Legion Soldier</English>
+		<French>Legion Soldier</French>
+		<German>Legion Soldier</German>
+		<Italian>Legion Soldier</Italian>
+		<Spanish>Legion Soldier</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NORDIC_AXEMAN</Tag>
+		<English>Nordic Axeman</English>
+		<French>Nordic Axeman</French>
+		<German>Nordic Axeman</German>
+		<Italian>Nordic Axeman</Italian>
+		<Spanish>Nordic Axeman</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NAGA</Tag>
+		<English>Naga</English>
+		<French>Naga</French>
+		<German>Naga</German>
+		<Italian>Naga</Italian>
+		<Spanish>Naga</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOWMAN</Tag>
+		<English>Bowman</English>
+		<French>Bowman</French>
+		<German>Bowman</German>
+		<Italian>Bowman</Italian>
+		<Spanish>Bowman</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOWMASTER</Tag>
+		<English>Bowmaster</English>
+		<French>Bowmaster</French>
+		<German>Bowmaster</German>
+		<Italian>Bowmaster</Italian>
+		<Spanish>Bowmaster</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ALTMER_CONJURER</Tag>
+		<English>Altmer Conjurer</English>
+		<French>Altmer Conjurer</French>
+		<German>Altmer Conjurer</German>
+		<Italian>Altmer Conjurer</Italian>
+		<Spanish>Altmer Conjurer</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HEAVY_LEGIONNAIRE</Tag>
+		<English>Heavy Legionnaire</English>
+		<French>Heavy Legionnaire</French>
+		<German>Heavy Legionnaire</German>
+		<Italian>Heavy Legionnaire</Italian>
+		<Spanish>Heavy Legionnaire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ORCISH_BERSERKER</Tag>
+		<English>Orcish Berserker</English>
+		<French>Orcish Berserker</French>
+		<German>Orcish Berserker</German>
+		<Italian>Orcish Berserker</Italian>
+		<Spanish>Orcish Berserker</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SWORDSINGER</Tag>
+		<English>Swordsinger</English>
+		<French>Swordsinger</French>
+		<German>Swordsinger</German>
+		<Italian>Swordsinger</Italian>
+		<Spanish>Swordsinger</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ANSEI</Tag>
+		<English>Ansei</English>
+		<French>Ansei</French>
+		<German>Ansei</German>
+		<Italian>Ansei</Italian>
+		<Spanish>Ansei</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SORCERER</Tag>
+		<English>Sorcerer</English>
+		<French>Sorcerer</French>
+		<German>Sorcerer</German>
+		<Italian>Sorcerer</Italian>
+		<Spanish>Sorcerer</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BRETON_CASTER</Tag>
+		<English>Breton Caster</English>
+		<French>Breton Caster</French>
+		<German>Breton Caster</German>
+		<Italian>Breton Caster</Italian>
+		<Spanish>Breton Caster</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HALBERDIER</Tag>
+		<English>Halberdier</English>
+		<French>Halberdier</French>
+		<German>Halberdier</German>
+		<Italian>Halberdier</Italian>
+		<Spanish>Halberdier</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_REDORAN</Tag>
+		<English>Redoran Warrior</English>
+		<French>Redoran Warrior</French>
+		<German>Redoran Warrior</German>
+		<Italian>Redoran Warrior</Italian>
+		<Spanish>Redoran Warrior</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INDORIL</Tag>
+		<English>Indoril Soldier</English>
+		<French>Indoril Soldier</French>
+		<German>Indoril Soldier</German>
+		<Italian>Indoril Soldier</Italian>
+		<Spanish>Indoril Soldier</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TELVANNI</Tag>
+		<English>Telvanni Mage</English>
+		<French>Telvanni Mage</French>
+		<German>Telvanni Mage</German>
+		<Italian>Telvanni Mage</Italian>
+		<Spanish>Telvanni Mage</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DAGI_CASTER</Tag>
+		<English>Dagi Caster</English>
+		<French>Dagi Caster</French>
+		<German>Dagi Caster</German>
+		<Italian>Dagi Caster</Italian>
+		<Spanish>Dagi Caster</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CATHAY</Tag>
+		<English>Cathay</English>
+		<French>Cathay</French>
+		<German>Cathay</German>
+		<Italian>Cathay</Italian>
+		<Spanish>Cathay</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PAHMAR</Tag>
+		<English>Pahmar</English>
+		<French>Pahmar</French>
+		<German>Pahmar</German>
+		<Italian>Pahmar</Italian>
+		<Spanish>Pahmar</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SENCHE</Tag>
+		<English>Sehnche</English>
+		<French>Sehnche</French>
+		<German>Sehnche</German>
+		<Italian>Sehnche</Italian>
+		<Spanish>Sehnche</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SENCHE_RIDER</Tag>
+		<English>Sehnche Rider</English>
+		<French>Sehnche Rider</French>
+		<German>Sehnche Rider</German>
+		<Italian>Sehnche Rider</Italian>
+		<Spanish>Sehnche Rider</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHAMAN</Tag>
+		<English>Ohmes Shaman</English>
+		<French>Ohmes Shaman</French>
+		<German>Ohmes Shaman</German>
+		<Italian>Ohmes Shaman</Italian>
+		<Spanish>Ohmes Shaman</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DAGI_SCOUT</Tag>
+		<English>Dagi Scout</English>
+		<French>Dagi Scout</French>
+		<German>Dagi Scout</German>
+		<Italian>Dagi Scout</Italian>
+		<Spanish>Dagi Scout</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_PHANTOM</Tag>
+		<English>Phantom resource</English>
+		<French>Phantom resource</French>
+		<German>Phantom resource</German>
+		<Italian>Phantom resource</Italian>
+		<Spanish>Phantom resource</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_PHANTOM_PEDIA</Tag>
+		<English>Allows building Animal units</English>
+		<French>Allows building Animal units</French>
+		<German>Allows building Animal units</German>
+		<Italian>Allows building Animal units</Italian>
+		<Spanish>Allows building Animal units</Spanish>
+	</TEXT>
+</Civ4GameText>
