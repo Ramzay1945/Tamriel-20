@@ -14314,7 +14314,7 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_CARRACK_ANIMAL</Type>
-			<Button>Art/Interface/Buttons/Units/naval/carrcak.dds</Button>
+			<Button>Art/Interface/Buttons/Units/naval/carrack.dds</Button>
 			<fScale>0.17</fScale>
 			<fInterfaceScale>0.5</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
