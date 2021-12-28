@@ -350,7 +350,7 @@
 			<Adjective>Green Pact Cultists</Adjective>
 			<Civilopedia>TXT_KEY_RELIGION_GREEN_PACT_PEDIA</Civilopedia>
 			<TechPrereq>TECH_POLYTHEISM</TechPrereq>
-			<FreeUnitClass>UNITCLASS_GREENPACT_MISSIONARY</FreeUnitClass>
+			<FreeUnitClass>UNITCLASS_GREEN_PACT_MISSIONARY</FreeUnitClass>
 			<iFreeUnits>1</iFreeUnits>
 			<iSpreadFactor>100</iSpreadFactor>
 			<GlobalReligionCommerces>

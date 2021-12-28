@@ -2698,6 +2698,49 @@
 		</BuildingArtInfo>
 
 <!-- MALAKAT end -->
+<!-- Green_pact START -->
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_GREEN_PACT_TEMPLE</Type>
+			<LSystem>LSYSTEM_2x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.11</fScale>
+			<fInterfaceScale>0.36</fInterfaceScale>
+			<NIF>Art\structures\religious\GREEN_PACT\temple/temple.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface\Buttons/Structures/religious/GREEN_PACT temple.dds</Button>
+		</BuildingArtInfo>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_GREEN_PACT_MONASTERY</Type>
+			<LSystem>LSYSTEM_2x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.11</fScale>
+			<fInterfaceScale>0.36</fInterfaceScale>
+			<NIF>Art\structures\religious\GREEN_PACT\monastery/monastery.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface\Buttons/Structures/religious/GREEN_PACT monastery.dds</Button>
+		</BuildingArtInfo>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_GREEN_PACT_CATHEDRAL</Type>
+			<LSystem>LSYSTEM_2x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.11</fScale>
+			<fInterfaceScale>0.36</fInterfaceScale>
+			<NIF>Art\structures\religious\GREEN_PACT\cathedral/cathedral.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface\Buttons/Structures/religious/GREEN_PACT cathedral.dds</Button>
+		</BuildingArtInfo>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_GREEN_PACT_SHRINE</Type>
+			<LSystem>LSYSTEM_3x3</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.11</fScale>
+			<fInterfaceScale>0.36</fInterfaceScale>
+			<NIF>Art\structures\religious\GREEN_PACT\SHRINE/SHRINE.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface\Buttons/Structures/religious/GREEN_PACT SHRINE.dds</Button>
+		</BuildingArtInfo>
+
+<!-- Green_pact end -->
 
 <!-- Religious structures END -->
 

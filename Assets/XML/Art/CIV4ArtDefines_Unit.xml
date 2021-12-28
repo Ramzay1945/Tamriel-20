@@ -15225,6 +15225,30 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_GREEN_PACT_MISSIONARY</Type>
+			<Button>Art/Interface/Buttons/Units/religious/green_pact.dds</Button>
+			<fScale>0.43</fScale>
+			<fInterfaceScale>0.9</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art\units\artstyle\religious\green_pact/Missionary.nif</NIF>
+			<KFM>art\units\missionary\christian/ChristianMissionary.kfm</KFM>
+			<SHADERNIF>Art\units\artstyle\religious\green_pact/Missionary.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
 
 <!-- RELIGIOUS UNITS END   -->
 <!-- ASSASINS UNITS START  -->
