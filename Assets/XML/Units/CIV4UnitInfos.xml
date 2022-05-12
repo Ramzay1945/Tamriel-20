@@ -9352,7 +9352,7 @@
 				<iRangedWaveSize>0</iRangedWaveSize>
 				<UnitMeshGroup>
 					<iRequired>1</iRequired>
-					<EarlyArtDefineTag>ART_DEF_UNIT_CONJUNER_BRETON</EarlyArtDefineTag>
+					<EarlyArtDefineTag>ART_DEF_UNIT_CASTER_BRETON</EarlyArtDefineTag>
 				</UnitMeshGroup>
 				<UnitMeshGroup>
 					<iRequired>1</iRequired>
@@ -25002,7 +25002,7 @@
 				<iRangedWaveSize>0</iRangedWaveSize>
 				<UnitMeshGroup>
 					<iRequired>1</iRequired>
-					<EarlyArtDefineTag>ART_DEF_UNIT_CONJUNER_ALTMER_UU</EarlyArtDefineTag>
+					<EarlyArtDefineTag>ART_DEF_UNIT_CASTER_ALTMER</EarlyArtDefineTag>
 				</UnitMeshGroup>
 				<UnitMeshGroup>
 					<iRequired>1</iRequired>
