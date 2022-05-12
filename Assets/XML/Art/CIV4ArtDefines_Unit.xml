@@ -11175,9 +11175,58 @@
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
 		</UnitArtInfo>
+
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_REDORAN_CAVALRY</Type>
+			<Button>Art\Interface\Buttons\units\great_houses/redoran_rider.dds</Button>
+			<fScale>0.42</fScale>
+			<fInterfaceScale>0.9</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art\units\unique\dunmer/redoran/horseman.nif</NIF>
+			<KFM>Art/Units/Charlemagne_MountedInfantry/MountedInfantry.kfm</KFM>
+			<SHADERNIF>Art\units\unique\dunmer/redoran/horseman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_REDORAN_SWORDSMAN</Type>
+			<Button>Art\Interface\Buttons\units\great_houses/redoran_swordsman.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art\units\unique\dunmer/redoran/swordsman.nif</NIF>
+			<KFM>Art/Units/Unique/Inca/Quechua/IncanQuechua.kfm</KFM>
+			<SHADERNIF>Art\units\unique\dunmer/redoran/swordsman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_DUNMER_REDORAN</Type>
-			<Button>Art\Interface\Buttons\units\unique/dunmer redoran.dds</Button>
+			<Button>Art\Interface\Buttons\units\great_houses/redoran_pikeman.dds</Button>
 			<fScale>0.44</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
@@ -11200,21 +11249,21 @@
 			</AudioRunSounds>
 		</UnitArtInfo>
 		<UnitArtInfo>
-			<Type>ART_DEF_UNIT_DUNMER_REDORAN_2</Type>
-			<Button>Art\Interface\Buttons\units\unique/dunmer redoran.dds</Button>
-			<fScale>0.44</fScale>
-			<fInterfaceScale>1.0</fInterfaceScale>
+			<Type>ART_DEF_UNIT_REDORAN_SILTSTRIDER</Type>
+			<Button>Art\Interface\Buttons\units\great_houses/redoran_siltsrider.dds</Button>
+			<fScale>0.32</fScale>
+			<fInterfaceScale>0.6</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art\units\unique\dunmer/redoran/redoran2.nif</NIF>
-			<KFM>Art/Units/Charlemagne_HeavySpearman/HeavySpearman.kfm</KFM>
-			<SHADERNIF>Art\units\unique\dunmer/redoran/redoran2.nif</SHADERNIF>
+			<NIF>Art\units\unique\dunmer\redoran/warelephant.nif</NIF>
+			<KFM>Art\units\unique\dunmer\siltrider/warelephant.kfm</KFM>
+			<SHADERNIF>Art\units\unique\dunmer\redoran/warelephant.nif</SHADERNIF>
 			<ShadowDef>
-				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowNIF>Art/Units/01_UnitShadows/WarElephantShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
 				<fShadowScale>1.0</fShadowScale>
 			</ShadowDef>
-			<fBattleDistance>0.35</fBattleDistance>
+			<fBattleDistance>0.45</fBattleDistance>
 			<fRangedDeathTime>0.31</fRangedDeathTime>
 			<bActAsRanged>0</bActAsRanged>
 			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
