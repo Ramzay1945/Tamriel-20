@@ -29566,7 +29566,7 @@
 			<ReligionType>RELIGION_GREEN_PACT</ReligionType>
 			<StateReligion>NONE</StateReligion>
 			<bStateReligion>0</bStateReligion>
-			<PrereqReligion>RELIGION_YOKUDA</PrereqReligion>
+			<PrereqReligion>RELIGION_GREEN_PACT</PrereqReligion>
 			<PrereqCorporation>NONE</PrereqCorporation>
 			<FoundsCorporation>NONE</FoundsCorporation>
 			<GlobalReligionCommerce>NONE</GlobalReligionCommerce>

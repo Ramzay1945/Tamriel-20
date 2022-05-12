@@ -1122,7 +1122,7 @@
 	</Define>
 	<Define>
 		<DefineName>CAMERA_MAX_SCROLL_SPEED</DefineName>
-		<fDefineFloatVal>1800</fDefineFloatVal>
+		<fDefineFloatVal>2500</fDefineFloatVal>
 	</Define>
 	<Define>
 		<DefineName>CAMERA_MIN_YAW</DefineName>
@@ -1142,7 +1142,7 @@
 	</Define>
 	<Define>
 		<DefineName>CAMERA_MIN_DISTANCE</DefineName>
-		<fDefineFloatVal>400</fDefineFloatVal>
+		<fDefineFloatVal>350</fDefineFloatVal>
 	</Define>
 	<Define>
 		<DefineName>CAMERA_MAX_TURN_OFFSET</DefineName>
