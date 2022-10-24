@@ -85,6 +85,10 @@
 					<UnitCombatType>UNITCOMBAT_MAGE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
 			</UnitCombats>
 			<HotKey/>
 			<bAltDown>0</bAltDown>
@@ -170,6 +174,10 @@
 				</UnitCombat>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_MAGE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
@@ -259,6 +267,10 @@
 					<UnitCombatType>UNITCOMBAT_MAGE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
 			</UnitCombats>
 			<HotKey/>
 			<bAltDown>0</bAltDown>
@@ -344,6 +356,10 @@
 				</UnitCombat>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_MAGE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
@@ -433,6 +449,10 @@
 					<UnitCombatType>UNITCOMBAT_MAGE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
 			</UnitCombats>
 			<HotKey/>
 			<bAltDown>0</bAltDown>
@@ -511,6 +531,10 @@
 				</UnitCombat>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_MAGE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
@@ -881,6 +905,10 @@
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
 			</UnitCombats>
 			<HotKey/>
 			<bAltDown>0</bAltDown>
@@ -1026,6 +1054,10 @@
 				</UnitCombat>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
@@ -1256,6 +1288,10 @@
 					<UnitCombatType>UNITCOMBAT_MAGE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
 			</UnitCombats>
 			<HotKey/>
 			<bAltDown>0</bAltDown>
@@ -1330,6 +1366,10 @@
 				</UnitCombat>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
@@ -1574,6 +1614,10 @@
 					<UnitCombatType>UNITCOMBAT_MAGE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
 			</UnitCombats>
 			<HotKey/>
 			<bAltDown>0</bAltDown>
@@ -1728,6 +1772,10 @@
 					<UnitCombatType>UNITCOMBAT_MAGE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
 			</UnitCombats>
 			<HotKey/>
 			<bAltDown>0</bAltDown>
@@ -1819,6 +1867,10 @@
 					<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
 			</UnitCombats>
 			<HotKey/>
 			<bAltDown>0</bAltDown>
@@ -1908,6 +1960,10 @@
 				</UnitCombat>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
@@ -2211,6 +2267,10 @@
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
 			</UnitCombats>
 			<HotKey/>
 			<bAltDown>0</bAltDown>
@@ -2296,6 +2356,10 @@
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
 			</UnitCombats>
 			<HotKey/>
 			<bAltDown>0</bAltDown>
@@ -2370,6 +2434,10 @@
 			<UnitCombats>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
@@ -3584,6 +3652,10 @@
 					<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
 			</UnitCombats>
 			<HotKey/>
 			<bAltDown>0</bAltDown>
@@ -3665,6 +3737,10 @@
 				</UnitCombat>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
@@ -3753,6 +3829,10 @@
 				</UnitCombat>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
@@ -4955,6 +5035,10 @@
 					<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
 			</UnitCombats>
 			<HotKey/>
 			<bAltDown>0</bAltDown>
@@ -5044,6 +5128,10 @@
 				</UnitCombat>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
@@ -5137,6 +5225,10 @@
 					<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
 			</UnitCombats>
 			<HotKey/>
 			<bAltDown>0</bAltDown>
@@ -5222,6 +5314,10 @@
 				</UnitCombat>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
@@ -5315,6 +5411,10 @@
 					<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
 			</UnitCombats>
 			<HotKey/>
 			<bAltDown>0</bAltDown>
@@ -5404,6 +5504,10 @@
 				</UnitCombat>
 				<UnitCombat>
 					<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
+					<bUnitCombat>1</bUnitCombat>
+				</UnitCombat>
+				<UnitCombat>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
@@ -7023,27 +7127,7 @@
 			<FeatureDoubleMoves/>
 			<UnitCombats>
 				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MAGE</UnitCombatType>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
@@ -7110,27 +7194,7 @@
 			<FeatureDoubleMoves/>
 			<UnitCombats>
 				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MAGE</UnitCombatType>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
@@ -7197,27 +7261,7 @@
 			<FeatureDoubleMoves/>
 			<UnitCombats>
 				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
-					<bUnitCombat>1</bUnitCombat>
-				</UnitCombat>
-				<UnitCombat>
-					<UnitCombatType>UNITCOMBAT_MAGE</UnitCombatType>
+					<UnitCombatType>UNITCOMBAT_VAMPIRE</UnitCombatType>
 					<bUnitCombat>1</bUnitCombat>
 				</UnitCombat>
 			</UnitCombats>
