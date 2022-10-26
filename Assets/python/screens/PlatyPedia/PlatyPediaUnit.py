@@ -56,7 +56,7 @@ class CvPediaUnit:
 		if self.top.iActivePlayer > -1:
 			szButton = gc.getPlayer(self.top.iActivePlayer).getUnitButton(self.iUnit)
 		screen.addDDSGFC(self.top.getNextWidgetName(), szButton, self.X_ICON + self.H_ICON/2 - 64/2, self.Y_ICON + self.H_ICON/2 - 64/2, 64, 64, WidgetTypes.WIDGET_GENERAL, -1, -1 )
-		screen.addUnitGraphicGFC(self.top.getNextWidgetName(), self.iUnit, self.X_ANIMATION, self.Y_ANIMATION, self.W_ANIMATION, self.H_ANIMATION, WidgetTypes.WIDGET_GENERAL, -1, -1, self.X_ROTATION_ANIMATION, self.Z_ROTATION_ANIMATION, self.SCALE_ANIMATION, True)
+		screen.addUnitGraphicGFC(self.top.getNextWidgetName(), self.iUnit, self.X_ANIMATION, self.Y_ANIMATION, self.W_ANIMATION, self.H_ANIMATION+210, WidgetTypes.WIDGET_GENERAL, -1, -1, self.X_ROTATION_ANIMATION, self.Z_ROTATION_ANIMATION, self.SCALE_ANIMATION, True)
 
 		self.placeStats()
 		self.placeUpgradesTo()
@@ -165,7 +165,7 @@ class CvPediaUnit:
 	def placeUpgradesTo(self):
 		screen = self.top.getScreen()
 		panelName = self.top.getNextWidgetName()
-		screen.addPanel( panelName, CyTranslator().getText("TXT_KEY_PEDIA_UPGRADES_TO", ()), "", false, true, self.X_ANIMATION, self.Y_UPGRADES_TO_PANE, self.W_ANIMATION, self.H_PREREQ_PANE, PanelStyles.PANEL_STYLE_BLUE50)
+		screen.addPanel( panelName, CyTranslator().getText("TXT_KEY_PEDIA_UPGRADES_TO", ()), "", false, true, self.X_ANIMATION, self.Y_UPGRADES_TO_PANE+210, self.W_ANIMATION, self.H_PREREQ_PANE, PanelStyles.PANEL_STYLE_BLUE50)
 		for k in xrange(gc.getNumUnitClassInfos()):
 			eLoopUnit = gc.getUnitClassInfo(k).getDefaultUnitIndex()
 			if self.top.iActivePlayer > -1:
@@ -194,7 +194,7 @@ class CvPediaUnit:
 					
 	def placeHistory(self):
 		screen = self.top.getScreen()
-		screen.addPanel(self.top.getNextWidgetName(), CyTranslator().getText("TXT_KEY_CIVILOPEDIA_HISTORY", ()), "", True, True, self.X_ANIMATION, self.Y_HISTORY_PANE, self.W_ANIMATION, self.H_HISTORY_PANE, PanelStyles.PANEL_STYLE_BLUE50 )
+		screen.addPanel(self.top.getNextWidgetName(), CyTranslator().getText("TXT_KEY_CIVILOPEDIA_HISTORY", ()), "", True, True, self.X_ANIMATION, self.Y_HISTORY_PANE+210, self.W_ANIMATION, self.H_HISTORY_PANE-210, PanelStyles.PANEL_STYLE_BLUE50 )
 		szText = ""
 		sStrategy = gc.getUnitInfo(self.iUnit).getStrategy()
 		if len(sStrategy) and sStrategy.find("TXT_KEY") == -1:
@@ -204,7 +204,7 @@ class CvPediaUnit:
 		sPedia = gc.getUnitInfo(self.iUnit).getCivilopedia()
 		if sPedia.find("TXT_KEY") == -1:
 			szText += sPedia
-		screen.addMultilineText(self.top.getNextWidgetName(), szText, self.X_ANIMATION + 10, self.Y_HISTORY_PANE + 30, self.W_ANIMATION - 20, self.H_HISTORY_PANE - 30, WidgetTypes.WIDGET_GENERAL, -1, -1, CvUtil.FONT_LEFT_JUSTIFY)
+		screen.addMultilineText(self.top.getNextWidgetName(), szText, self.X_ANIMATION + 10, self.Y_HISTORY_PANE + 240, self.W_ANIMATION - 20, self.H_HISTORY_PANE - 240, WidgetTypes.WIDGET_GENERAL, -1, -1, CvUtil.FONT_LEFT_JUSTIFY)
 
 	def placePromotions(self):
 		screen = self.top.getScreen()

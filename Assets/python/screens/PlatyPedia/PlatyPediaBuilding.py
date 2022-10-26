@@ -30,7 +30,7 @@ class CvPediaBuilding:
 		self.X_ANIMATION = self.top.X_ITEMS_PANE + self.W_MAIN_PANE + self.top.W_BORDER
 		self.Y_ANIMATION = self.top.Y_ITEMS_PANE + 8
 		self.W_ANIMATION = self.top.W_ITEMS_PANE - self.top.W_BORDER - self.W_MAIN_PANE
-		self.H_ANIMATION = self.H_MAIN_PANE - 10
+		self.H_ANIMATION = self.H_MAIN_PANE + 210
 		self.X_ROTATION_ANIMATION = -20
 		self.Z_ROTATION_ANIMATION = 30
 		self.SCALE_ANIMATION = 1.0
@@ -223,7 +223,7 @@ class CvPediaBuilding:
 
 	def placeHistory(self):
 		screen = self.top.getScreen()
-		screen.addPanel(self.top.getNextWidgetName(), CyTranslator().getText("TXT_KEY_CIVILOPEDIA_HISTORY", ()), "", True, True, self.X_ANIMATION, self.Y_PREREQ_PANE, self.W_ANIMATION, self.H_HISTORY_PANE, PanelStyles.PANEL_STYLE_BLUE50 )
+		screen.addPanel(self.top.getNextWidgetName(), CyTranslator().getText("TXT_KEY_CIVILOPEDIA_HISTORY", ()), "", True, True, self.X_ANIMATION, self.Y_PREREQ_PANE+210, self.W_ANIMATION, self.H_HISTORY_PANE-210, PanelStyles.PANEL_STYLE_BLUE50 )
 		szText = ""
 		sStrategy = gc.getBuildingInfo(self.iBuilding).getStrategy()
 		if len(sStrategy) and sStrategy.find("TXT_KEY") == -1:
@@ -233,7 +233,7 @@ class CvPediaBuilding:
 		sPedia = gc.getBuildingInfo(self.iBuilding).getCivilopedia()
 		if sPedia.find("TXT_KEY") == -1:
 			szText += sPedia
-		screen.addMultilineText(self.top.getNextWidgetName(), szText, self.X_ANIMATION + 10, self.Y_PREREQ_PANE + 30, self.W_ANIMATION - 20, self.H_HISTORY_PANE - 30, WidgetTypes.WIDGET_GENERAL, -1, -1, CvUtil.FONT_LEFT_JUSTIFY)
+		screen.addMultilineText(self.top.getNextWidgetName(), szText, self.X_ANIMATION + 10, self.Y_PREREQ_PANE + 240, self.W_ANIMATION - 20, self.H_HISTORY_PANE - 240, WidgetTypes.WIDGET_GENERAL, -1, -1, CvUtil.FONT_LEFT_JUSTIFY)
 
 	def placeLinks(self, bRedraw):
 		screen = self.top.getScreen()

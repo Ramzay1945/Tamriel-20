@@ -147,6 +147,16 @@
 			<Button>Art/wonders/Arcane.dds</Button>
 		</BuildingArtInfo>
 		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_OUTHER_WALL</Type>
+			<LSystem>LSYSTEM_ARCOLOGY</LSystem>
+			<bAnimated>1</bAnimated>
+			<fScale>0.6</fScale>
+			<fInterfaceScale>1</fInterfaceScale>
+			<NIF>Art/wonders\Outher Wall/Arcology.nif</NIF>
+			<KFM/>
+			<Button>Art/wonders/outher_wall.dds</Button>
+		</BuildingArtInfo>
+		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_IMPERIAL_JAIL</Type>
 			<LSystem>LSYSTEM_3x3</LSystem>
 			<bAnimated>0</bAnimated>
@@ -318,7 +328,7 @@
 		</BuildingArtInfo>
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_WHITE_GOLD</Type>
-			<LSystem>LSYSTEM_3x3</LSystem>
+			<LSystem>LSYSTEM_WHITE_GOLD</LSystem>
 			<bAnimated>0</bAnimated>
 			<fScale>0.4</fScale>
 			<fInterfaceScale>0.2</fInterfaceScale>
