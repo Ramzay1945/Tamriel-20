@@ -9281,7 +9281,7 @@ BeginPlot
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_DUNMER_DRES, UnitOwner=5
+		UnitType=UNIT_DRES_AXEMAN, UnitOwner=5
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -10039,7 +10039,7 @@ BeginPlot
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_DUNMER_DRES, UnitOwner=5
+		UnitType=UNIT_DRES_AXEMAN, UnitOwner=5
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -10462,7 +10462,7 @@ BeginPlot
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
 	BeginUnit
-		UnitType=UNIT_DUNMER_DRES, UnitOwner=5
+		UnitType=UNIT_DRES_AXEMAN, UnitOwner=5
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -11644,7 +11644,7 @@ BeginPlot
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_DUNMER_DRES, UnitOwner=5
+		UnitType=UNIT_DRES_AXEMAN, UnitOwner=5
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -12049,7 +12049,7 @@ BeginPlot
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_DUNMER_DRES, UnitOwner=5
+		UnitType=UNIT_DRES_AXEMAN, UnitOwner=5
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -12408,18 +12408,25 @@ BeginPlot
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_DUNMER_DRES, UnitOwner=5
+		UnitType=UNIT_DRES_AXEMAN, UnitOwner=5
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
 		UnitAIType=UNITAI_ATTACK
 	EndUnit
 	BeginUnit
-		UnitType=UNIT_DUNMER_DRES, UnitOwner=5
+		UnitType=UNIT_DRES_AXEMAN, UnitOwner=5
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
 		UnitAIType=UNITAI_ATTACK
+	EndUnit
+	BeginUnit
+		UnitType=UNIT_DRES_WORKER, UnitOwner=5
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=4
+		UnitAIType=UNITAI_WORKER
 	EndUnit
 	BeginCity
 		CityOwner=5

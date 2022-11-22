@@ -362,15 +362,6 @@
 			<DefaultUnit>UNIT_RIDDLE_THAR_MISSIONARY</DefaultUnit>
 		</UnitClassInfo>
 		<UnitClassInfo>
-			<Type>UNITCLASS_MALAKAT_MISSIONARY</Type>
-			<Description>TXT_KEY_UNIT_MALAKAT_MISSIONARY</Description>
-			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
-			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>3</iMaxPlayerInstances>
-			<iInstanceCostModifier>0</iInstanceCostModifier>
-			<DefaultUnit>UNIT_MALAKAT_MISSIONARY</DefaultUnit>
-		</UnitClassInfo>
-		<UnitClassInfo>
 			<Type>UNITCLASS_YOKUDA_MISSIONARY</Type>
 			<Description>TXT_KEY_UNIT_YOKUDA_MISSIONARY</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
@@ -879,7 +870,7 @@
 		</UnitClassInfo>
 		<UnitClassInfo>
 			<Type>UNITCLASS_TELVANNI_PIKEMAN</Type>
-			<Description>Indoril Priest</Description>
+			<Description>Telvanni Guard</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>-1</iMaxTeamInstances>
 			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
@@ -888,7 +879,7 @@
 		</UnitClassInfo>
 		<UnitClassInfo>
 			<Type>UNITCLASS_TELVANNI_CASTER</Type>
-			<Description>Indoril Priest</Description>
+			<Description>Telvanni Caster</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>-1</iMaxTeamInstances>
 			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
@@ -897,7 +888,7 @@
 		</UnitClassInfo>
 		<UnitClassInfo>
 			<Type>UNITCLASS_TELVANNI_MAGE</Type>
-			<Description>Indoril Priest</Description>
+			<Description>Telvanni Mage</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>-1</iMaxTeamInstances>
 			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
@@ -906,7 +897,7 @@
 		</UnitClassInfo>
 		<UnitClassInfo>
 			<Type>UNITCLASS_TELVANNI_WARMAGE</Type>
-			<Description>Indoril Priest</Description>
+			<Description>Telvanni Warmage</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>-1</iMaxTeamInstances>
 			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
@@ -915,7 +906,7 @@
 		</UnitClassInfo>
 		<UnitClassInfo>
 			<Type>UNITCLASS_REDORAN_CAVALRY</Type>
-			<Description>Indoril Priest</Description>
+			<Description>Redoran Rider</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>-1</iMaxTeamInstances>
 			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
@@ -924,7 +915,7 @@
 		</UnitClassInfo>
 		<UnitClassInfo>
 			<Type>UNITCLASS_REDORAN_PIKEMAN</Type>
-			<Description>Indoril Priest</Description>
+			<Description>Redoran Warrior</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>-1</iMaxTeamInstances>
 			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
@@ -933,7 +924,7 @@
 		</UnitClassInfo>
 		<UnitClassInfo>
 			<Type>UNITCLASS_REDORAN_SWORDSMAN</Type>
-			<Description>Indoril Priest</Description>
+			<Description>Redoran Swordsman</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>-1</iMaxTeamInstances>
 			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
@@ -942,12 +933,48 @@
 		</UnitClassInfo>
 		<UnitClassInfo>
 			<Type>UNITCLASS_REDORAN_SILTSRIDER</Type>
-			<Description>Indoril Priest</Description>
+			<Description>Redoran Siltsrider</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>-1</iMaxTeamInstances>
 			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
 			<iInstanceCostModifier>0</iInstanceCostModifier>
 			<DefaultUnit>UNIT_REDORAN_SILTSRIDER</DefaultUnit>
+		</UnitClassInfo>
+		<UnitClassInfo>
+			<Type>UNITCLASS_HLAALU_LONGBOWMAN</Type>
+			<Description>Hlaalu Watchman</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iInstanceCostModifier>0</iInstanceCostModifier>
+			<DefaultUnit>UNIT_HLAALU_LONGBOWMAN</DefaultUnit>
+		</UnitClassInfo>
+		<UnitClassInfo>
+			<Type>UNITCLASS_HLAALU_CROSSBOWMAN</Type>
+			<Description>Hlaalu Crossbowman</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iInstanceCostModifier>0</iInstanceCostModifier>
+			<DefaultUnit>UNIT_HLAALU_CROSSBOWMAN</DefaultUnit>
+		</UnitClassInfo>
+		<UnitClassInfo>
+			<Type>UNITCLASS_HLAALU_GUAR_ARCHER</Type>
+			<Description>Hlaalu Guar Archer</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iInstanceCostModifier>0</iInstanceCostModifier>
+			<DefaultUnit>UNIT_HLAALU_GUAR_ARCHER</DefaultUnit>
+		</UnitClassInfo>
+		<UnitClassInfo>
+			<Type>UNITCLASS_HLAALU_MAGE</Type>
+			<Description>Hlaalu Mage</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iInstanceCostModifier>0</iInstanceCostModifier>
+			<DefaultUnit>UNIT_HLAALU_MAGE</DefaultUnit>
 		</UnitClassInfo>
 
 	</UnitClassInfos>

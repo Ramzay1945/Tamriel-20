@@ -138,31 +138,31 @@
 		</BuildingArtInfo>
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_ARCANE_UNIVERSITY</Type>
-			<LSystem>LSYSTEM_3x3</LSystem>
+			<LSystem>LSYSTEM_WHITE_GOLD</LSystem>
 			<bAnimated>0</bAnimated>
-			<fScale>1.4</fScale>
-			<fInterfaceScale>0.5</fInterfaceScale>
-			<NIF>Art/wonders/Arcane/arcane.nif</NIF>
+			<fScale>0.4</fScale>
+			<fInterfaceScale>0.2</fInterfaceScale>
+			<NIF>Art/wonders/white gold/arcane.nif</NIF>
 			<KFM/>
 			<Button>Art/wonders/Arcane.dds</Button>
 		</BuildingArtInfo>
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_OUTHER_WALL</Type>
-			<LSystem>LSYSTEM_ARCOLOGY</LSystem>
-			<bAnimated>1</bAnimated>
-			<fScale>0.6</fScale>
-			<fInterfaceScale>1</fInterfaceScale>
-			<NIF>Art/wonders\Outher Wall/Arcology.nif</NIF>
+			<LSystem>LSYSTEM_WHITE_GOLD</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>0.4</fScale>
+			<fInterfaceScale>0.2</fInterfaceScale>
+			<NIF>Art/wonders\White gold/wall.nif</NIF>
 			<KFM/>
 			<Button>Art/wonders/outher_wall.dds</Button>
 		</BuildingArtInfo>
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_IMPERIAL_JAIL</Type>
-			<LSystem>LSYSTEM_3x3</LSystem>
+			<LSystem>LSYSTEM_WHITE_GOLD</LSystem>
 			<bAnimated>0</bAnimated>
-			<fScale>1.4</fScale>
-			<fInterfaceScale>0.5</fInterfaceScale>
-			<NIF>Art/wonders/jail/arcane.nif</NIF>
+			<fScale>0.4</fScale>
+			<fInterfaceScale>0.2</fInterfaceScale>
+			<NIF>Art/wonders/white gold/jail.nif</NIF>
 			<KFM/>
 			<Button>Art/wonders/jail.dds</Button>
 		</BuildingArtInfo>
@@ -231,7 +231,7 @@
 			<LSystem>LSYSTEM_2x2</LSystem>
 			<bAnimated>0</bAnimated>
 			<fScale>14.9</fScale>
-			<fInterfaceScale>1.5</fInterfaceScale>
+			<fInterfaceScale>0.7</fInterfaceScale>
 			<NIF>Art/wonders/ceporah/magetower.nif</NIF>
 			<KFM/>
 			<Button>Art/wonders/ceporah.dds</Button>
@@ -332,7 +332,7 @@
 			<bAnimated>0</bAnimated>
 			<fScale>0.4</fScale>
 			<fInterfaceScale>0.2</fInterfaceScale>
-			<NIF>Art/wonders/white gold/tower2.nif</NIF>
+			<NIF>Art/wonders/white gold/tower.nif</NIF>
 			<KFM/>
 			<Button>Art/wonders/white gold.dds</Button>
 		</BuildingArtInfo>
@@ -992,11 +992,11 @@
 		</BuildingArtInfo>
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_GREAT_HARBOR</Type>
-			<LSystem>LSYSTEM_HARBOR</LSystem>
+			<LSystem>LSYSTEM_WHITE_GOLD</LSystem>
 			<bAnimated>0</bAnimated>
-			<fScale>1.0</fScale>
-			<fInterfaceScale>1.3</fInterfaceScale>
-			<NIF>Art/wonders/great Harbor/Harbor.nif</NIF>
+			<fScale>0.4</fScale>
+			<fInterfaceScale>0.2</fInterfaceScale>
+			<NIF>Art/wonders/white gold/waterfront.nif</NIF>
 			<KFM/>
 			<Button>Art/wonders/great harbor.dds</Button>
 		</BuildingArtInfo>

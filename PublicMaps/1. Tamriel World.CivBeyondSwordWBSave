@@ -329,7 +329,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=0
 	StartingX=26, StartingY=40
-	StateReligion=
+	StateReligion=RELIGION_EIGHT_DIVINES
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -361,7 +361,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=23
 	StartingX=66, StartingY=64
-	StateReligion=
+	StateReligion=RELIGION_JUDAISM
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -393,7 +393,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=0
 	StartingX=88, StartingY=39
-	StateReligion=
+	StateReligion=RELIGION_CHRISTIANITY
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -425,7 +425,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=31
 	StartingX=55, StartingY=8
-	StateReligion=
+	StateReligion=RELIGION_YOKUDA
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -457,7 +457,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=0
 	StartingX=30, StartingY=12
-	StateReligion=
+	StateReligion=RELIGION_TRIBUNAL
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -489,7 +489,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=46
 	StartingX=29, StartingY=63
-	StateReligion=
+	StateReligion=RELIGION_EIGHT_DIVINES
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -521,13 +521,13 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=0
 	StartingX=46, StartingY=36
-	StateReligion=
+	StateReligion=RELIGION_GREEN_PACT
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_LEGAL, Civic=CIVIC_BARBARISM
 	CivicOption=CIVICOPTION_LABOR, Civic=CIVIC_TRIBALISM
-	CivicOption=CIVICOPTION_ECONOMY, Civic=CIVIC_DECENTRALIZATION
+	CivicOption=CIVICOPTION_ECONOMY, Civic=CIVIC_GREEN_PACT
 	CivicOption=CIVICOPTION_RELIGION, Civic=CIVIC_PAGANISM
 	CivicOption=CIVICOPTION_8_DIVINES, Civic=CIVIC_8_DIVINES_NONE
 	CivicOption=CIVICOPTION_DAEDRA, Civic=CIVIC_DAEDRA_NONE
@@ -553,7 +553,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=33
 	StartingX=5, StartingY=53
-	StateReligion=
+	StateReligion=RELIGION_HIST
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -585,7 +585,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=0
 	StartingX=91, StartingY=61
-	StateReligion=
+	StateReligion=RELIGION_ISLAM
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -594,7 +594,7 @@ BeginPlayer
 	CivicOption=CIVICOPTION_ECONOMY, Civic=CIVIC_DECENTRALIZATION
 	CivicOption=CIVICOPTION_RELIGION, Civic=CIVIC_PAGANISM
 	CivicOption=CIVICOPTION_8_DIVINES, Civic=CIVIC_8_DIVINES_NONE
-	CivicOption=CIVICOPTION_DAEDRA, Civic=CIVIC_DAEDRA_NONE
+	CivicOption=CIVICOPTION_DAEDRA, Civic=CIVIC_DAEDRA_6
 	CivicOption=CIVICOPTION_NORDIC, Civic=CIVIC_NORDIC_NONE
 	CivicOption=CIVICOPTION_ALTMER, Civic=CIVIC_ALTMER_NONE
 	CivicOption=CIVICOPTION_TRIBUNAL, Civic=CIVIC_TRIBUNAL_NONE
@@ -617,7 +617,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=0
 	StartingX=64, StartingY=33
-	StateReligion=
+	StateReligion=RELIGION_RIDDLETHAR
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -649,7 +649,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=0
 	StartingX=91, StartingY=61
-	StateReligion=
+	StateReligion=RELIGION_ISLAM
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -681,7 +681,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=0
 	StartingX=91, StartingY=61
-	StateReligion=
+	StateReligion=RELIGION_EIGHT_DIVINES
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -713,7 +713,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=0
 	StartingX=91, StartingY=61
-	StateReligion=
+	StateReligion=RELIGION_YOKUDA
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -745,7 +745,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=37
 	StartingX=91, StartingY=61
-	StateReligion=
+	StateReligion=RELIGION_MONOTHEISM
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -777,7 +777,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=0
 	StartingX=88, StartingY=39
-	StateReligion=
+	StateReligion=RELIGION_CHRISTIANITY
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -809,7 +809,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=0
 	StartingX=30, StartingY=12
-	StateReligion=
+	StateReligion=RELIGION_TRIBUNAL
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -842,7 +842,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=0
 	StartingX=64, StartingY=33
-	StateReligion=
+	StateReligion=RELIGION_RIDDLETHAR
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -874,7 +874,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=39
 	StartingX=26, StartingY=40
-	StateReligion=
+	StateReligion=RELIGION_EIGHT_DIVINES
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -938,7 +938,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=0
 	StartingX=30, StartingY=12
-	StateReligion=
+	StateReligion=RELIGION_ISLAM
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -970,7 +970,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=0
 	StartingX=30, StartingY=12
-	StateReligion=
+	StateReligion=RELIGION_EIGHT_DIVINES
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -1002,7 +1002,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=0
 	StartingX=30, StartingY=12
-	StateReligion=
+	StateReligion=RELIGION_ISLAM
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -1034,7 +1034,7 @@ BeginPlayer
 	MinorNationStatus=0
 	StartingGold=0
 	StartingX=88, StartingY=39
-	StateReligion=
+	StateReligion=RELIGION_CHRISTIANITY
 	StartingEra=ERA_ANCIENT
 	RandomStartLocation=false
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
@@ -14878,8 +14878,7 @@ BeginPlot
 		CityName=Orsinium
 		CityPopulation=2
 		BuildingType=BUILDING_ORC_PALACE
-		ReligionType=RELIGION_MALAKAT
-		HolyCityReligionType=RELIGION_MALAKAT
+		ReligionType=RELIGION_ISLAM
 	EndCity
 	TeamReveal=8,
 EndPlot
@@ -16078,7 +16077,7 @@ BeginPlot
 		CityName=Falinesti
 		CityPopulation=2
 		BuildingType=BUILDING_BOSMER_PALACE
-		ReligionType=RELIGION_JUDAISM
+		ReligionType=RELIGION_GREEN_PACT
 	EndCity
 	TeamReveal=6,
 EndPlot

@@ -3,9 +3,9 @@
 	<ReligionInfos>
 		<ReligionInfo>
 			<Type>RELIGION_JUDAISM</Type>
-			<Description>TXT_KEY_RELIGION_AEDRA</Description>
-			<Adjective>TXT_KEY_RELIGION_AEDRA_ADJECTIVE</Adjective>
-			<Civilopedia>TXT_KEY_RELIGION_AEDRA_PEDIA</Civilopedia>
+			<Description>Auri-El</Description>
+			<Adjective>Auri-El Followers</Adjective>
+			<Civilopedia>The traditional pantheon of the Altmer of Summerset, this faith holds the God of Time Auri-El as King of all the other gods, and ancestor to all the Altmer. After becoming aware of Lorkhan's treachery, Auri-El led the original Aldmer against the Trickster God, creating the first kingdom of the Aldmer ahter his victory. The treachery of Lorkhan and their direct link with Auri-El makes this faith see existence on the martal plane as a curse.</Civilopedia>
 			<TechPrereq>TECH_POLYTHEISM</TechPrereq>
 			<FreeUnitClass>UNITCLASS_AEDRIC_MISSIONARY</FreeUnitClass>
 			<iFreeUnits>0</iFreeUnits>
@@ -37,9 +37,9 @@
 		</ReligionInfo>
 		<ReligionInfo>
 			<Type>RELIGION_ISLAM</Type>
-			<Description>TXT_KEY_RELIGION_DAEDRA</Description>
-			<Adjective>TXT_KEY_RELIGION_DAEDRA_ADJECTIVE</Adjective>
-			<Civilopedia>TXT_KEY_RELIGION_DAEDRA_PEDIA</Civilopedia>
+			<Description>Daedra</Description>
+			<Adjective>Daedra Cultists</Adjective>
+			<Civilopedia>Daedra cults is the most common way Daedra are worshipped on Tamriel for most of history, because there have been times where such worship has been prohibited in many provinces, and even when it is legal, such as in Cyrodiil during the Third Era, it is generally not approved of by most of society. However, even if their worship is not condoned, it appears that the celebration of their feast days by non-adherents on some occasions. These cults typically focus on a single Daedric Prince as their prime deity, although given the nature of the cosmos such cults should probably be described as henotheistic or monolatristic, rather than truly monotheistic.</Civilopedia>
 			<TechPrereq>TECH_POLYTHEISM</TechPrereq>
 			<FreeUnitClass>UNITCLASS_DAEDRIC_MISSIONARY</FreeUnitClass>
 			<iFreeUnits>0</iFreeUnits>
@@ -71,9 +71,9 @@
 		</ReligionInfo>
 		<ReligionInfo>
 			<Type>RELIGION_EIGHT_DIVINES</Type>
-			<Description>TXT_KEY_RELIGION_EIGHT_DIVINES</Description>
-			<Adjective>TXT_KEY_RELIGION_EIGHT_DIVINES_ADJECTIVE</Adjective>
-			<Civilopedia>TXT_KEY_RELIGION_EIGHT_DIVINES_PEDIA</Civilopedia>
+			<Description>The Divines</Description>
+			<Adjective>Nedic-Nordic</Adjective>
+			<Civilopedia>The faiths espounded by the Nede-Nordic people, result of the syncretism between the Nord deities and the gods revered by the Nede people at the time of Alessia's rebellion.</Civilopedia>
 			<TechPrereq>TECH_POLYTHEISM</TechPrereq>
 			<FreeUnitClass>UNITCLASS_EIGHT_DIVINES_MISSIONARY</FreeUnitClass>
 			<iFreeUnits>0</iFreeUnits>
@@ -105,9 +105,9 @@
 		</ReligionInfo>
 		<ReligionInfo>
 			<Type>RELIGION_TRIBUNAL</Type>
-			<Description>TXT_KEY_RELIGION_TRIBUNAL</Description>
-			<Adjective>TXT_KEY_RELIGION_TRIBUNAL_ADJECTIVE</Adjective>
-			<Civilopedia>TXT_KEY_RELIGION_TRIBUNAL_PEDIA</Civilopedia>
+			<Description>Tribunal Temple</Description>
+			<Adjective>Tribunal Followers</Adjective>
+			<Civilopedia>The Tribunal Temple is the native religion of Morrowind, founded by St.Veloth after he led his followers into the East. It combines selective veneration of the "Good Daedra" and condemnation of the "House of Troubles" with the worship of the Tribunal, the three immortal god-kings of Morrowind, who ascended to godhood following the Battle of Red Mountain. The Tribunal Temple is organised along strict lines and exerts great influrncr on most of Dunmer society.</Civilopedia>
 			<TechPrereq>TECH_POLYTHEISM</TechPrereq>
 			<FreeUnitClass>UNITCLASS_TRIBUNAL_MISSIONARY</FreeUnitClass>
 			<iFreeUnits>1</iFreeUnits>
@@ -140,9 +140,9 @@
 
 		<ReligionInfo>
 			<Type>RELIGION_CHRISTIANITY</Type>
-			<Description>Graybeards Cult</Description>
-			<Adjective>Graybeards Cultists</Adjective>
-			<Civilopedia>TXT_KEY_RELIGION_ANCESTRAL_PEDIA</Civilopedia>
+			<Description>Nordic Pantheon</Description>
+			<Adjective>Nordic Cultists</Adjective>
+			<Civilopedia>Over the years, the Nords of Skyrim have accepted the worship of eight main deities, though their name and rank wound not perfectly reflect the Imperial influence over their beliefs. A striking exemple is the place of Akatosh, know in the Nordic Pantheon as Alduin. The Dragon Alduin symbolises the end of times, and as such every Nord prist includes a short prayer to keep the Dragon-God asleep for as long as possible.</Civilopedia>
 			<TechPrereq>TECH_POLYTHEISM</TechPrereq>
 			<FreeUnitClass>UNITCLASS_ANCESTRAL_MISSIONARY</FreeUnitClass>
 			<iFreeUnits>0</iFreeUnits>
@@ -175,9 +175,9 @@
 		
 		<ReligionInfo>
 			<Type>RELIGION_MONOTHEISM</Type>
-			<Description>TXT_KEY_RELIGION_MONOTHEISM</Description>
-			<Adjective>TXT_KEY_RELIGION_MONOTHEISM_ADJECTIVE</Adjective>
-			<Civilopedia>TXT_KEY_RELIGION_MONOTHEISM_PEDIA</Civilopedia>
+			<Description>Monotheism</Description>
+			<Adjective>One Faithful</Adjective>
+			<Civilopedia>The Temple of the One is the only legal form of Marukhatism in Cyrodiil, formed by Emperor Reman in the First Era to tend to the Dragonfires, as well as to assimilate the remaining holdouts of the Alessian Order. While still retaining much of their Matukhati origins, the new Temple of the One operates under a hugely relaxed belief system which emphasises the many aspect of their god, whose core manifestation is the Supreme Spirit Akatosh.</Civilopedia>
 			<TechPrereq>TECH_POLYTHEISM</TechPrereq>
 			<FreeUnitClass>UNITCLASS_MONOTHEISTIC_MISSIONARY</FreeUnitClass>
 			<iFreeUnits>1</iFreeUnits>
@@ -210,8 +210,8 @@
 		<ReligionInfo>
 			<Type>RELIGION_HIST</Type>
 			<Description>Hist Cult</Description>
-			<Adjective>Sons of Hist</Adjective>
-			<Civilopedia>TXT_KEY_RELIGION_HIST_PEDIA</Civilopedia>
+			<Adjective>Hist Followers</Adjective>
+			<Civilopedia>The Hist are an ancient race of sentient trees native to Black Marsh, who created the Argonian people and live alongside them in a symbiotic relationship. Hist trees regulate the entire Argonian life cycle: dictating when their eggs hatch, what gender or form they take, and when they die reincarnates their soul into a new body - as well as providing advice and guidance to the tribes they watch over. In this way the Hist are not quite Gods to the Argonians, but more like revered teachers and loving parents, who each watch over an individual tribe or group of tribes. Alongside this the only significant deity recognised by modern Argonians is Raj-Sithis, who embodies the life-death cycle, and inevitable change.</Civilopedia>
 			<TechPrereq>TECH_POLYTHEISM</TechPrereq>
 			<FreeUnitClass>UNITCLASS_HIST_MISSIONARY</FreeUnitClass>
 			<iFreeUnits>1</iFreeUnits>
@@ -243,9 +243,9 @@
 		</ReligionInfo>
 		<ReligionInfo>
 			<Type>RELIGION_RIDDLETHAR</Type>
-			<Description>Riddle Thar</Description>
-			<Adjective>Riddletharian</Adjective>
-			<Civilopedia>TXT_KEY_RELIGION_RIDDLE_THAR_PEDIA</Civilopedia>
+			<Description>Two-Moons Dance</Description>
+			<Adjective>Two-Moons</Adjective>
+			<Civilopedia>The Two-Moons Dance, also know in Ta'agra as Riddle'Thar, refers to both the abstract Khajiiti moon-god of cosmic balance as well as its surrounding religion praxis. Introduced by the prophet and Mane Rid-Thar-ri'Datta, the Two-Moons Dance is the dominant religious teaching in Elsweyr and deeply intertwined with the rule of the Mane, who safeguards the right of all Khajiit in accord with the Lunar Lattice.</Civilopedia>
 			<TechPrereq>TECH_POLYTHEISM</TechPrereq>
 			<FreeUnitClass>UNITCLASS_RIDDLE_THAR_MISSIONARY</FreeUnitClass>
 			<iFreeUnits>1</iFreeUnits>
@@ -276,44 +276,10 @@
 			<Sound>AS2D_BUILD_CONFUCIAN</Sound>
 		</ReligionInfo>
 		<ReligionInfo>
-			<Type>RELIGION_MALAKAT</Type>
-			<Description>Malacath Cult</Description>
-			<Adjective>Malacathian</Adjective>
-			<Civilopedia>TXT_KEY_RELIGION_MALAKAT_PEDIA</Civilopedia>
-			<TechPrereq>TECH_POLYTHEISM</TechPrereq>
-			<FreeUnitClass>UNITCLASS_MALAKAT_MISSIONARY</FreeUnitClass>
-			<iFreeUnits>1</iFreeUnits>
-			<iSpreadFactor>100</iSpreadFactor>
-			<GlobalReligionCommerces>
-				<iGlobalReligionCommerce>1</iGlobalReligionCommerce>
-				<iGlobalReligionCommerce>0</iGlobalReligionCommerce>
-				<iGlobalReligionCommerce>0</iGlobalReligionCommerce>
-				<iGlobalReligionCommerce>0</iGlobalReligionCommerce>
-			</GlobalReligionCommerces>
-			<HolyCityCommerces>
-				<iHolyCityCommerce>0</iHolyCityCommerce>
-				<iHolyCityCommerce>0</iHolyCityCommerce>
-				<iHolyCityCommerce>4</iHolyCityCommerce>
-				<iHolyCityCommerce>0</iHolyCityCommerce>
-			</HolyCityCommerces>
-			<StateReligionCommerces>
-				<iStateReligionCommerce>0</iStateReligionCommerce>
-				<iStateReligionCommerce>0</iStateReligionCommerce>
-				<iStateReligionCommerce>1</iStateReligionCommerce>
-				<iStateReligionCommerce>0</iStateReligionCommerce>
-			</StateReligionCommerces>
-			<Button>Art/Interface/Buttons/Religions/malakat.dds</Button>
-			<TechButton>Art/Interface/Buttons/Religions/malakat.dds</TechButton>
-			<GenericTechButton>Art/Interface/Buttons/Religions/malakat.dds</GenericTechButton>
-			<MovieFile>Art\Movies\religion\pics/Malacath.dds</MovieFile>
-			<MovieSound>AS2D_BUILD_CONFUCIAN_MOVIE</MovieSound>
-			<Sound>AS2D_BUILD_CONFUCIAN</Sound>
-		</ReligionInfo>
-		<ReligionInfo>
 			<Type>RELIGION_YOKUDA</Type>
-			<Description>Yokuda</Description>
-			<Adjective>Yokudan</Adjective>
-			<Civilopedia>TXT_KEY_RELIGION_YOKUDA_PEDIA</Civilopedia>
+			<Description>Ruptga</Description>
+			<Adjective>Ruptgan</Adjective>
+			<Civilopedia>A natural evolution of the Yokudan's Sakatal-centered faith, Redguard religion practiced in Hammerfell has, as chiefrain of the pantheon, Rugpta, or Tall Papa, the first to survive Satakal's destruction. Other Gods include Zeth, Tall Papa's wife Morwha, HoonDing, Leki, Onsi, Diagna, and Tu'whacca, who was thought to be some sort of god of apathy before the creation of the world, when he became a caretaker and protector of souls. The Yokudan creation myth involved Sep, a "crazy" merchant god who convinced the others to create mortal world to make it easier for more spirits to survive Satakal's inevitable onslaught. Except it didn't make it easier. Rather, the mortal plane acts as a trap and makes apotheosis even harder. In this way, the Redguard viev of creation has more in common with the Elven tradition than that of other humans, who view the mortal plane as a blessing.</Civilopedia>
 			<TechPrereq>TECH_POLYTHEISM</TechPrereq>
 			<FreeUnitClass>UNITCLASS_YOKUDA_MISSIONARY</FreeUnitClass>
 			<iFreeUnits>1</iFreeUnits>
@@ -347,8 +313,8 @@
 		<ReligionInfo>
 			<Type>RELIGION_GREEN_PACT</Type>
 			<Description>Green Pact</Description>
-			<Adjective>Green Pact Cultists</Adjective>
-			<Civilopedia>TXT_KEY_RELIGION_GREEN_PACT_PEDIA</Civilopedia>
+			<Adjective>Green Pact</Adjective>
+			<Civilopedia>The Green Pact is a sacred set of rules given to the Bosmer people by Y'ffre the Storyteller in ancient times to help them live in harmony with the forest. Its' law are simple: "Do not harm the forests of Valenwood. Do not eat anything made from plant life. Eat only meat. When you conquer your enemies, eat their flesh. Do not kill wastefully. Do not take on the shape of beasts".</Civilopedia>
 			<TechPrereq>TECH_POLYTHEISM</TechPrereq>
 			<FreeUnitClass>UNITCLASS_GREEN_PACT_MISSIONARY</FreeUnitClass>
 			<iFreeUnits>1</iFreeUnits>

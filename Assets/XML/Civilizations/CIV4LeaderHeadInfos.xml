@@ -831,8 +831,8 @@
 			<VassalRefuseAttitudeThreshold>ATTITUDE_PLEASED</VassalRefuseAttitudeThreshold>
 			<iVassalPowerModifier>40</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
-			<FavoriteCivic>CIVIC_CASTE_SYSTEM</FavoriteCivic>
-			<FavoriteReligion>RELIGION_JUDAISM</FavoriteReligion>
+			<FavoriteCivic>CIVIC_DAEDRA_9</FavoriteCivic>
+			<FavoriteReligion>RELIGION_ISLAM</FavoriteReligion>
 			<Traits>
 				<Trait>
 					<TraitType>TRAIT_PHILOSOPHICAL</TraitType>
@@ -4712,8 +4712,8 @@
 			<VassalRefuseAttitudeThreshold>ATTITUDE_PLEASED</VassalRefuseAttitudeThreshold>
 			<iVassalPowerModifier>30</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
-			<FavoriteCivic>CIVIC_VASSALAGE</FavoriteCivic>
-			<FavoriteReligion>RELIGION_MALAKAT</FavoriteReligion>
+			<FavoriteCivic>CIVIC_DAEDRA_6</FavoriteCivic>
+			<FavoriteReligion>RELIGION_ISLAM</FavoriteReligion>
 			<Traits>
 				<Trait>
 					<TraitType>TRAIT_ORC</TraitType>
@@ -8610,7 +8610,7 @@
 			<iVassalPowerModifier>-10</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
 			<FavoriteCivic>CIVIC_GREEN_PACT</FavoriteCivic>
-			<FavoriteReligion>RELIGION_JUDAISM</FavoriteReligion>
+			<FavoriteReligion>RELIGION_GREEN_PACT</FavoriteReligion>
 			<Traits>
 				<Trait>
 					<TraitType>TRAIT_BOSMER</TraitType>
@@ -11372,7 +11372,7 @@
 			<iVassalPowerModifier>25</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
 			<FavoriteCivic>CIVIC_HEREDITARY_RULE</FavoriteCivic>
-			<FavoriteReligion>RELIGION_EIGHT_DIVINES</FavoriteReligion>
+			<FavoriteReligion>RELIGION_YOKUDA</FavoriteReligion>
 			<Traits>
 				<Trait>
 					<TraitType>TRAIT_REDGUARD</TraitType>
@@ -11928,7 +11928,7 @@
 			<iVassalPowerModifier>40</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
 			<FavoriteCivic>CIVIC_CITIZENSHIP</FavoriteCivic>
-			<FavoriteReligion>RELIGION_EIGHT_DIVINES</FavoriteReligion>
+			<FavoriteReligion>RELIGION_MONOTHEISM</FavoriteReligion>
 			<Traits>
 				<Trait>
 					<TraitType>TRAIT_IMPERIAL</TraitType>
@@ -13030,7 +13030,7 @@
 			<iVassalPowerModifier>40</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
 			<FavoriteCivic>CIVIC_CITIZENSHIP</FavoriteCivic>
-			<FavoriteReligion>RELIGION_JUDAISM</FavoriteReligion>
+			<FavoriteReligion>RELIGION_ISLAM</FavoriteReligion>
 			<Traits>
 				<Trait>
 					<TraitType>TRAIT_SERPENT</TraitType>
@@ -13576,8 +13576,8 @@
 			<VassalRefuseAttitudeThreshold>ATTITUDE_PLEASED</VassalRefuseAttitudeThreshold>
 			<iVassalPowerModifier>40</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
-			<FavoriteCivic>CIVIC_CASTE_SYSTEM</FavoriteCivic>
-			<FavoriteReligion>RELIGION_TRIBUNAL</FavoriteReligion>
+			<FavoriteCivic>CIVIC_DAEDRA_1</FavoriteCivic>
+			<FavoriteReligion>RELIGION_ISLAM</FavoriteReligion>
 			<Traits>
 				<Trait>
 					<TraitType>TRAIT_DUNMER</TraitType>
@@ -14136,8 +14136,8 @@
 			<VassalRefuseAttitudeThreshold>ATTITUDE_PLEASED</VassalRefuseAttitudeThreshold>
 			<iVassalPowerModifier>30</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
-			<FavoriteCivic>CIVIC_VASSALAGE</FavoriteCivic>
-			<FavoriteReligion>RELIGION_JUDAISM</FavoriteReligion>
+			<FavoriteCivic>CIVIC_DAEDRA_15</FavoriteCivic>
+			<FavoriteReligion>RELIGION_ISLAM</FavoriteReligion>
 			<Traits>
 				<Trait>
 					<TraitType>TRAIT_MILITARISTIC</TraitType>
@@ -19089,8 +19089,8 @@
 			<VassalRefuseAttitudeThreshold>ATTITUDE_PLEASED</VassalRefuseAttitudeThreshold>
 			<iVassalPowerModifier>40</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
-			<FavoriteCivic>CIVIC_CASTE_SYSTEM</FavoriteCivic>
-			<FavoriteReligion>RELIGION_JUDAISM</FavoriteReligion>
+			<FavoriteCivic>CIVIC_DAEDRA_7</FavoriteCivic>
+			<FavoriteReligion>RELIGION_ISLAM</FavoriteReligion>
 			<Traits>
 				<Trait>
 					<TraitType>TRAIT_ALTMER</TraitType>
@@ -19644,8 +19644,8 @@
 			<VassalRefuseAttitudeThreshold>ATTITUDE_PLEASED</VassalRefuseAttitudeThreshold>
 			<iVassalPowerModifier>40</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
-			<FavoriteCivic>CIVIC_CASTE_SYSTEM</FavoriteCivic>
-			<FavoriteReligion>RELIGION_JUDAISM</FavoriteReligion>
+			<FavoriteCivic>CIVIC_DAEDRA_7</FavoriteCivic>
+			<FavoriteReligion>RELIGION_ISLAM</FavoriteReligion>
 			<Traits>
 				<Trait>
 					<TraitType>TRAIT_ALTMER</TraitType>
@@ -21319,7 +21319,7 @@
 			<VassalRefuseAttitudeThreshold>ATTITUDE_PLEASED</VassalRefuseAttitudeThreshold>
 			<iVassalPowerModifier>40</iVassalPowerModifier>
 			<iFreedomAppreciation>10</iFreedomAppreciation>
-			<FavoriteCivic>CIVIC_CASTE_SYSTEM</FavoriteCivic>
+			<FavoriteCivic>CIVIC_DAEDRA_1</FavoriteCivic>
 			<FavoriteReligion>RELIGION_ISLAM</FavoriteReligion>
 			<Traits>
 				<Trait>
