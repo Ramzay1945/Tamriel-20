@@ -14947,8 +14947,8 @@
 			<BuildingClass>BUILDINGCLASS_SKY_FORGE</BuildingClass>
 			<Type>BUILDING_SKY_FORGE</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
-			<Description>Sky Forge</Description>
-			<Civilopedia>TXT_KEY_BUILDING_SKY_FORGE_PEDIA</Civilopedia>
+			<Description>Skyforge</Description>
+			<Civilopedia>TXT_KEY_SKYFORGE_PEDIA_TEXT</Civilopedia>
 			<Strategy>TXT_KEY_BUILDING_SKY_FORGE_STRATEGY</Strategy>
 			<Advisor>ADVISOR_ECONOMY</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_SKY_FORGE</ArtDefineTag>
@@ -17376,7 +17376,12 @@
 			<DomainProductionModifiers/>
 			<BuildingHappinessChanges/>
 			<PrereqBuildingClasses/>
-			<BuildingClassNeededs/>
+			<BuildingClassNeededs>
+				<BuildingClassNeeded>
+					<BuildingClassType>BUILDINGCLASS_WHITE_GOLD_TOWER</BuildingClassType>
+					<bNeededInCity>1</bNeededInCity>
+				</BuildingClassNeeded>
+			</BuildingClassNeededs>
 			<SpecialistYieldChanges/>
 			<BonusYieldModifiers/>
 			<ImprovementFreeSpecialists/>
@@ -17563,7 +17568,12 @@
 			<DomainProductionModifiers/>
 			<BuildingHappinessChanges/>
 			<PrereqBuildingClasses/>
-			<BuildingClassNeededs/>
+			<BuildingClassNeededs>
+				<BuildingClassNeeded>
+					<BuildingClassType>BUILDINGCLASS_WHITE_GOLD_TOWER</BuildingClassType>
+					<bNeededInCity>1</bNeededInCity>
+				</BuildingClassNeeded>
+			</BuildingClassNeededs>
 			<SpecialistYieldChanges/>
 			<BonusYieldModifiers/>
 			<ImprovementFreeSpecialists/>
@@ -18847,7 +18857,7 @@
 			<Type>BUILDING_VIVECS_PALACE</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>TXT_KEY_BUILDING_VIVECS_PALACE</Description>
-			<Civilopedia>TXT_KEY_BUILDING_VIVECS_PALACE_PEDIA</Civilopedia>
+			<Civilopedia>TXT_KEY_VIVEC_PALACE_TEXT</Civilopedia>
 			<Strategy>TXT_KEY_BUILDING_VIVECS_PALACE_STRATEGY</Strategy>
 			<Advisor>ADVISOR_CULTURE</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_VIVEC</ArtDefineTag>
@@ -19918,8 +19928,8 @@
 			<BuildingClass>BUILDINGCLASS_GREAT_HARBOR</BuildingClass>
 			<Type>BUILDING_GREAT_HARBOR</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
-			<Description>TXT_KEY_BUILDING_GREAT_HARBOR</Description>
-			<Civilopedia>TXT_KEY_BUILDING_GREAT_HARBOR_PEDIA</Civilopedia>
+			<Description>Waterfront</Description>
+			<Civilopedia>TXT_KEY_WATERFRONT_PEDIA_TEXT</Civilopedia>
 			<Strategy>TXT_KEY_BUILDING_GREAT_HARBOR_STRATEGY</Strategy>
 			<Advisor>ADVISOR_ECONOMY</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_GREAT_HARBOR</ArtDefineTag>
@@ -20087,6 +20097,10 @@
 			<BuildingClassNeededs>
 				<BuildingClassNeeded>
 					<BuildingClassType>BUILDINGCLASS_HARBOR</BuildingClassType>
+					<bNeededInCity>1</bNeededInCity>
+				</BuildingClassNeeded>
+				<BuildingClassNeeded>
+					<BuildingClassType>BUILDINGCLASS_WHITE_GOLD_TOWER</BuildingClassType>
 					<bNeededInCity>1</bNeededInCity>
 				</BuildingClassNeeded>
 			</BuildingClassNeededs>
@@ -20988,7 +21002,12 @@
 			<DomainProductionModifiers/>
 			<BuildingHappinessChanges/>
 			<PrereqBuildingClasses/>
-			<BuildingClassNeededs/>
+			<BuildingClassNeededs>
+				<BuildingClassNeeded>
+					<BuildingClassType>BUILDINGCLASS_WHITE_GOLD_TOWER</BuildingClassType>
+					<bNeededInCity>1</bNeededInCity>
+				</BuildingClassNeeded>
+			</BuildingClassNeededs>
 			<SpecialistYieldChanges/>
 			<BonusYieldModifiers/>
 			<ImprovementFreeSpecialists/>
@@ -21591,7 +21610,7 @@
 			<Type>BUILDING_THIRSK</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>Thirsk Mead Hall</Description>
-			<Civilopedia>TXT_KEY_BUILDING_THIRSK_PEDIA</Civilopedia>
+			<Civilopedia>TXT_KEY_THIRSK_PEDIA_TEXT</Civilopedia>
 			<Strategy>TXT_KEY_BUILDING_THIRSK_STRATEGY</Strategy>
 			<Advisor>ADVISOR_CULTURE</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_THIRSK</ArtDefineTag>
