@@ -276,41 +276,5 @@
 			<KFM>Art/Structures/Improvements/ForestPreserve/ForestPreserve.kfm</KFM>
 			<Button>,Art/Interface/Buttons/TechTree/Corporation.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,4,14</Button>
 		</ImprovementArtInfo>
-		<ImprovementArtInfo>
-			<Type>ART_DEF_IMPROVEMENT_SEA_BRIDGE_NS</Type>
-			<bExtraAnimations>0</bExtraAnimations>
-			<fScale>1.8</fScale>
-			<fInterfaceScale>1.0</fInterfaceScale>
-			<NIF>Art/Structures/Buildings/Bridge/Bridge_E.nif</NIF>
-			<KFM/>
-			<Button>Art/Interface/Buttons/Builds/SeaBridge.dds</Button>
-		</ImprovementArtInfo>
-		<ImprovementArtInfo>
-			<Type>ART_DEF_IMPROVEMENT_SEA_BRIDGE_EW</Type>
-			<bExtraAnimations>0</bExtraAnimations>
-			<fScale>1.8</fScale>
-			<fInterfaceScale>1.0</fInterfaceScale>
-			<NIF>Art/Structures/Buildings/Bridge/Bridge_EW.nif</NIF>
-			<KFM/>
-			<Button>Art/Interface/Buttons/Builds/SeaBridge.dds</Button>
-		</ImprovementArtInfo>
-		<ImprovementArtInfo>
-			<Type>ART_DEF_IMPROVEMENT_SEA_BRIDGE_NWSE</Type>
-			<bExtraAnimations>0</bExtraAnimations>
-			<fScale>2.6</fScale>
-			<fInterfaceScale>1.0</fInterfaceScale>
-			<NIF>Art/Structures/Buildings/Bridge/Bridge_NWSE.nif</NIF>
-			<KFM/>
-			<Button>Art/Interface/Buttons/Builds/SeaBridge.dds</Button>
-		</ImprovementArtInfo>
-		<ImprovementArtInfo>
-			<Type>ART_DEF_IMPROVEMENT_SEA_BRIDGE_NESW</Type>
-			<bExtraAnimations>0</bExtraAnimations>
-			<fScale>2.6</fScale>
-			<fInterfaceScale>1.0</fInterfaceScale>
-			<NIF>Art/Structures/Buildings/Bridge/Bridge_NESW.nif</NIF>
-			<KFM/>
-			<Button>Art/Interface/Buttons/Builds/SeaBridge.dds</Button>
-		</ImprovementArtInfo>
 	</ImprovementArtInfos>
 </Civ4ArtDefines>

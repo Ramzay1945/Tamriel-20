@@ -7,6 +7,50 @@
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<FeatureArtInfos>
 		<FeatureArtInfo>
+			<Type>ART_DEF_FEATURE_ISLAND</Type>
+			<bAnimated>0</bAnimated>
+			<bRiverArt>0</bRiverArt>
+			<TileArtType>TILE_ART_TYPE_HALF_TILING</TileArtType>
+			<LightType>LIGHT_TYPE_SUN</LightType>
+			<fScale>0.3</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<Button>Art/Interface/Buttons/TerrainFeatures/island.dds</Button>
+			<FeatureVariety>
+				<FeatureArtPieces>
+					<FeatureArtPiece>
+						<ModelFile>Art/Terrain/Features/Island/island1_nw.nif</ModelFile>
+						<ModelFile>Art/Terrain/Features/Island/island2_nw.nif</ModelFile>
+						<ModelFile>Art/Terrain/Features/Island/island3_nw.nif</ModelFile>
+						<Connections>NW</Connections>
+					</FeatureArtPiece>
+					<FeatureArtPiece>
+						<ModelFile>Art/Terrain/Features/Island/island0.nif</ModelFile>
+						<ModelFile>Art/Terrain/Features/Island/island1_ne.nif</ModelFile>
+						<ModelFile>Art/Terrain/Features/Island/island2_ne.nif</ModelFile>
+						<ModelFile>Art/Terrain/Features/Island/island3_ne.nif</ModelFile>
+						<Connections>NE</Connections>
+					</FeatureArtPiece>
+					<FeatureArtPiece>
+						<ModelFile>Art/Terrain/Features/Island/island0.nif</ModelFile>
+						<ModelFile>Art/Terrain/Features/Island/island1_sw.nif</ModelFile>
+						<ModelFile>Art/Terrain/Features/Island/island2_sw.nif</ModelFile>
+						<ModelFile>Art/Terrain/Features/Island/island3_sw.nif</ModelFile>
+						<Connections>SW</Connections>
+					</FeatureArtPiece>
+					<FeatureArtPiece>
+						<ModelFile>Art/Terrain/Features/Island/island0.nif</ModelFile>
+						<ModelFile>Art/Terrain/Features/Island/island1_se.nif</ModelFile>
+						<ModelFile>Art/Terrain/Features/Island/island2_se.nif</ModelFile>
+						<ModelFile>Art/Terrain/Features/Island/island3_se.nif</ModelFile>
+						<Connections>SE</Connections>
+					</FeatureArtPiece>
+				</FeatureArtPieces>
+				<FeatureDummyNodes/>
+				<bGenerateRotations>0</bGenerateRotations>
+				<VarietyButton>Art/Interface/Buttons/TerrainFeatures/island.dds</VarietyButton>
+			</FeatureVariety>
+		</FeatureArtInfo>
+		<FeatureArtInfo>
 			<Type>ART_DEF_FEATURE_SWAMP</Type>
 			<bAnimated>1</bAnimated>
 			<bRiverArt>0</bRiverArt>
@@ -118,7 +162,7 @@
 				<!-- Note from Josh (2010-03-16): Do we need to add Art Pieces? -->
 				<FeatureArtPieces>
 					<FeatureArtPiece>
-						<ModelFile>Art/Terrain/Features/Fertile/wheat.nif</ModelFile>
+						<ModelFile>Art/Terrain/Features/Fertile/wheat1.nif</ModelFile>
 						<Connections></Connections>
 					</FeatureArtPiece>
 				</FeatureArtPieces>
@@ -172,7 +216,7 @@
 			<Type>ART_DEF_FEATURE_SEA_BRIDGE_NWSE</Type>
 			<bAnimated>1</bAnimated>
 			<bRiverArt>0</bRiverArt>
-			<TileArtType>TILE_ART_TYPE_NONE</TileArtType>
+			<TileArtType>TILE_ART_TYPE_HALF_TILING</TileArtType>
 			<LightType>LIGHT_TYPE_SUN</LightType>
 			<fScale>2.6</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
@@ -180,8 +224,86 @@
 			<FeatureVariety>
 				<FeatureArtPieces>
 					<FeatureArtPiece>
-						<ModelFile>Art/Structures/Buildings/Bridge/Bridge_NESW.nif</ModelFile>
-						<Connections></Connections>
+						<ModelFile>Art\Terrain\features\Bridge/Bridge_NESW.nif</ModelFile>
+						<Connections>NW</Connections>
+					</FeatureArtPiece>
+					<FeatureArtPiece>
+						<ModelFile>Art\Terrain\features\Bridge/Bridge_empty.nif</ModelFile>
+						<Connections>NE</Connections>
+					</FeatureArtPiece>
+					<FeatureArtPiece>
+						<ModelFile>Art\Terrain\features\Bridge/Bridge_empty.nif</ModelFile>
+						<Connections>SW</Connections>
+					</FeatureArtPiece>
+					<FeatureArtPiece>
+						<ModelFile>Art\Terrain\features\Bridge/Bridge_empty.nif</ModelFile>
+						<Connections>SE</Connections>
+					</FeatureArtPiece>
+				</FeatureArtPieces>
+				<FeatureDummyNodes/>
+				<bGenerateRotations>0</bGenerateRotations>
+				<VarietyButton>Art/Interface/Buttons/Builds/SeaBridge.dds</VarietyButton>
+			</FeatureVariety>
+		</FeatureArtInfo>
+		<FeatureArtInfo>
+			<Type>ART_DEF_FEATURE_SEA_BRIDGE_E</Type>
+			<bAnimated>1</bAnimated>
+			<bRiverArt>0</bRiverArt>
+			<TileArtType>TILE_ART_TYPE_HALF_TILING</TileArtType>
+			<LightType>LIGHT_TYPE_SUN</LightType>
+			<fScale>1.3</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<Button>Art/Interface/Buttons/Builds/SeaBridge.dds</Button>
+			<FeatureVariety>
+				<FeatureArtPieces>
+					<FeatureArtPiece>
+						<ModelFile>Art\Terrain\features\Bridge/Bridge_E.nif</ModelFile>
+						<Connections>NW</Connections>
+					</FeatureArtPiece>
+					<FeatureArtPiece>
+						<ModelFile>Art\Terrain\features\Bridge/Bridge_empty.nif</ModelFile>
+						<Connections>NE</Connections>
+					</FeatureArtPiece>
+					<FeatureArtPiece>
+						<ModelFile>Art\Terrain\features\Bridge/Bridge_empty.nif</ModelFile>
+						<Connections>SW</Connections>
+					</FeatureArtPiece>
+					<FeatureArtPiece>
+						<ModelFile>Art\Terrain\features\Bridge/Bridge_empty.nif</ModelFile>
+						<Connections>SE</Connections>
+					</FeatureArtPiece>
+				</FeatureArtPieces>
+				<FeatureDummyNodes/>
+				<bGenerateRotations>0</bGenerateRotations>
+				<VarietyButton>Art/Interface/Buttons/Builds/SeaBridge.dds</VarietyButton>
+			</FeatureVariety>
+		</FeatureArtInfo>
+		<FeatureArtInfo>
+			<Type>ART_DEF_FEATURE_SEA_BRIDGE_EW</Type>
+			<bAnimated>1</bAnimated>
+			<bRiverArt>0</bRiverArt>
+			<TileArtType>TILE_ART_TYPE_HALF_TILING</TileArtType>
+			<LightType>LIGHT_TYPE_SUN</LightType>
+			<fScale>1.3</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<Button>Art/Interface/Buttons/Builds/SeaBridge.dds</Button>
+			<FeatureVariety>
+				<FeatureArtPieces>
+					<FeatureArtPiece>
+						<ModelFile>Art\Terrain\features\Bridge/Bridge_EW.nif</ModelFile>
+						<Connections>NW</Connections>
+					</FeatureArtPiece>
+					<FeatureArtPiece>
+						<ModelFile>Art\Terrain\features\Bridge/Bridge_empty.nif</ModelFile>
+						<Connections>NE</Connections>
+					</FeatureArtPiece>
+					<FeatureArtPiece>
+						<ModelFile>Art\Terrain\features\Bridge/Bridge_empty.nif</ModelFile>
+						<Connections>SW</Connections>
+					</FeatureArtPiece>
+					<FeatureArtPiece>
+						<ModelFile>Art\Terrain\features\Bridge/Bridge_empty.nif</ModelFile>
+						<Connections>SE</Connections>
 					</FeatureArtPiece>
 				</FeatureArtPieces>
 				<FeatureDummyNodes/>
@@ -1538,96 +1660,6 @@
 				<VarietyButton>Art/Interface/Buttons/TerrainFeatures/border.dds</VarietyButton>
 			</FeatureVariety>
 		</FeatureArtInfo>
-
-		<FeatureArtInfo>
-			<Type>ART_DEF_FEATURE_SEA_BRIDGE_NS</Type>
-			<bAnimated>1</bAnimated>
-			<bRiverArt>0</bRiverArt>
-			<TileArtType>TILE_ART_TYPE_NONE</TileArtType>
-			<LightType>LIGHT_TYPE_SUN</LightType>
-			<fScale>1.8</fScale>
-			<fInterfaceScale>1.0</fInterfaceScale>
-			<Button>Art/Interface/Buttons/Builds/SeaBridge.dds</Button>
-			<FeatureVariety>
-				<!-- Note from Josh (2010-03-16): Do we need to add Art Pieces? -->
-				<FeatureArtPieces>
-					<FeatureArtPiece>
-						<ModelFile>Art/Structures/Buildings/Bridge/Bridge_E.nif</ModelFile>
-						<Connections></Connections>
-					</FeatureArtPiece>
-				</FeatureArtPieces>
-				<FeatureDummyNodes/>
-				<bGenerateRotations>1</bGenerateRotations>
-				<VarietyButton>Art/Interface/Buttons/Builds/SeaBridge.dds</VarietyButton>
-			</FeatureVariety>
-		</FeatureArtInfo>
-		<FeatureArtInfo>
-			<Type>ART_DEF_FEATURE_SEA_BRIDGE_EW</Type>
-			<bAnimated>1</bAnimated>
-			<bRiverArt>0</bRiverArt>
-			<TileArtType>TILE_ART_TYPE_NONE</TileArtType>
-			<LightType>LIGHT_TYPE_SUN</LightType>
-			<fScale>1.8</fScale>
-			<fInterfaceScale>1.0</fInterfaceScale>
-			<Button>Art/Interface/Buttons/Builds/SeaBridge.dds</Button>
-			<FeatureVariety>
-				<!-- Note from Josh (2010-03-16): Do we need to add Art Pieces? -->
-				<FeatureArtPieces>
-					<FeatureArtPiece>
-						<ModelFile>Art/Structures/Buildings/Bridge/Bridge_EW.nif</ModelFile>
-						<Connections></Connections>
-					</FeatureArtPiece>
-				</FeatureArtPieces>
-				<FeatureDummyNodes/>
-				<bGenerateRotations>1</bGenerateRotations>
-				<VarietyButton>Art/Interface/Buttons/Builds/SeaBridge.dds</VarietyButton>
-			</FeatureVariety>
-		</FeatureArtInfo>
-		<FeatureArtInfo>
-			<Type>ART_DEF_FEATURE_SEA_BRIDGE_NWSE1</Type>
-			<bAnimated>1</bAnimated>
-			<bRiverArt>0</bRiverArt>
-			<TileArtType>TILE_ART_TYPE_NONE</TileArtType>
-			<LightType>LIGHT_TYPE_SUN</LightType>
-			<fScale>1.8</fScale>
-			<fInterfaceScale>1.0</fInterfaceScale>
-			<Button>Art/Interface/Buttons/Builds/SeaBridge.dds</Button>
-			<FeatureVariety>
-				<!-- Note from Josh (2010-03-16): Do we need to add Art Pieces? -->
-				<FeatureArtPieces>
-					<FeatureArtPiece>
-						<ModelFile>Art/Structures/Buildings/Bridge/Bridge_NWSE.nif</ModelFile>
-						<Connections></Connections>
-					</FeatureArtPiece>
-				</FeatureArtPieces>
-				<FeatureDummyNodes/>
-				<bGenerateRotations>1</bGenerateRotations>
-				<VarietyButton>Art/Interface/Buttons/Builds/SeaBridge.dds</VarietyButton>
-			</FeatureVariety>
-		</FeatureArtInfo>
-		<FeatureArtInfo>
-			<Type>ART_DEF_FEATURE_SEA_BRIDGE_NESW</Type>
-			<bAnimated>1</bAnimated>
-			<bRiverArt>0</bRiverArt>
-			<TileArtType>TILE_ART_TYPE_NONE</TileArtType>
-			<LightType>LIGHT_TYPE_SUN</LightType>
-			<fScale>1.8</fScale>
-			<fInterfaceScale>1.0</fInterfaceScale>
-			<Button>Art/Interface/Buttons/Builds/SeaBridge.dds</Button>
-			<FeatureVariety>
-				<!-- Note from Josh (2010-03-16): Do we need to add Art Pieces? -->
-				<FeatureArtPieces>
-					<FeatureArtPiece>
-						<ModelFile>Art/Structures/Buildings/Bridge/Bridge_NESW.nif</ModelFile>
-						<Connections></Connections>
-					</FeatureArtPiece>
-				</FeatureArtPieces>
-				<FeatureDummyNodes/>
-				<bGenerateRotations>1</bGenerateRotations>
-				<VarietyButton>Art/Interface/Buttons/Builds/SeaBridge.dds</VarietyButton>
-			</FeatureVariety>
-		</FeatureArtInfo>
-
 
 
 	</FeatureArtInfos>
