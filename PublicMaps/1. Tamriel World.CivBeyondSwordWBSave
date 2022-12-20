@@ -179,6 +179,8 @@ BeginTeam
 EndTeam
 BeginTeam
 	TeamID=23
+	Tech=TECH_YOKUDA
+	Tech=TECH_FISHING
 	Tech=TECH_HUNTING
 	ContactWithTeam=23
 	RevealMap=0
@@ -413,8 +415,8 @@ BeginPlayer
 	Team=3
 	LeaderType=LEADER_THASSAD
 	LeaderName=Cyrus the Restless
-	CivDesc=Hammerfell
-	CivShortDesc=TXT_KEY_CIV_REDGUARD_SHORT_DESC
+	CivDesc=The Crowns
+	CivShortDesc=Crowns
 	CivAdjective=TXT_KEY_CIV_REDGUARD_ADJECTIVE
 	FlagDecal=Art/Interface/TeamColor/new/hammerfell.dds
 	WhiteFlag=1
@@ -701,9 +703,9 @@ BeginPlayer
 	Team=12
 	LeaderType=LEADER_AKORITI
 	LeaderName=Akoriti
-	CivDesc=Sentinel
+	CivDesc=Sultanate of Sentinel
 	CivShortDesc=Sentinel
-	CivAdjective=Crowns
+	CivAdjective=TXT_KEY_CIV_REDGUARD_ADJECTIVE
 	FlagDecal=Art/Interface/TeamColor/new/sentinel.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_GREECE
@@ -1052,10 +1054,33 @@ BeginPlayer
 EndPlayer
 BeginPlayer
 	Team=23
-	LeaderType=NONE
-	CivType=NONE
-	Color=NONE
-	ArtStyle=NONE
+	LeaderType=LEADER_REDGUARD_2
+	LeaderName=Fahara'jad
+	CivDesc=The Forebears
+	CivShortDesc=Forebears
+	CivAdjective=TXT_KEY_CIV_REDGUARD_ADJECTIVE
+	FlagDecal=Art/Interface/TeamColor/new/redguard_2.dds
+	WhiteFlag=1
+	CivType=CIVILIZATION_REDGUARD_2
+	Color=PLAYERCOLOR_REDGUARD_2
+	ArtStyle=ARTSTYLE_REDGUARD
+	PlayableCiv=1
+	MinorNationStatus=0
+	StartingGold=35
+	StateReligion=RELIGION_EIGHT_DIVINES
+	StartingEra=ERA_ANCIENT
+	RandomStartLocation=false
+	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
+	CivicOption=CIVICOPTION_LEGAL, Civic=CIVIC_BARBARISM
+	CivicOption=CIVICOPTION_LABOR, Civic=CIVIC_TRIBALISM
+	CivicOption=CIVICOPTION_ECONOMY, Civic=CIVIC_DECENTRALIZATION
+	CivicOption=CIVICOPTION_RELIGION, Civic=CIVIC_PAGANISM
+	CivicOption=CIVICOPTION_8_DIVINES, Civic=CIVIC_8_DIVINES_NONE
+	CivicOption=CIVICOPTION_DAEDRA, Civic=CIVIC_DAEDRA_NONE
+	CivicOption=CIVICOPTION_NORDIC, Civic=CIVIC_NORDIC_NONE
+	CivicOption=CIVICOPTION_ALTMER, Civic=CIVIC_ALTMER_NONE
+	CivicOption=CIVICOPTION_TRIBUNAL, Civic=CIVIC_TRIBUNAL_NONE
+	CivicOption=CIVICOPTION_HOUSES_BAN, Civic=CIVIC_HOUSES_BAN
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
@@ -2598,6 +2623,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=3,y=11
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=1,
@@ -2656,6 +2682,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=3,y=20
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -2703,6 +2730,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=3,y=29
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -2767,6 +2795,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=3,y=41
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -2883,6 +2912,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=3,y=61
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -3036,6 +3066,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=4,y=11
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=1,
@@ -3089,6 +3120,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=4,y=20
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -3140,6 +3172,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=4,y=30
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -3160,6 +3193,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=4,y=34
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -3201,6 +3235,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=4,y=42
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -3599,6 +3634,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=5,y=30
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -4073,6 +4109,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=6,y=35
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -5301,6 +5338,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=9,y=24
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -5594,6 +5632,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=10,y=2
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -5716,6 +5755,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=10,y=24
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -5784,6 +5824,7 @@ EndPlot
 BeginPlot
 	x=10,y=37
 	BonusType=BONUS_SHEEP
+	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 	TeamReveal=3,
@@ -6151,6 +6192,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=11,y=24
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -6186,12 +6228,12 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=11,y=31
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=11,y=32
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -6218,6 +6260,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=11,y=37
+	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT2
 	PlotType=2
 	TeamReveal=3,
@@ -6289,6 +6332,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=11,y=48
+	BonusType=BONUS_CRAB
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=12,
@@ -6618,12 +6662,13 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=12,y=30
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=12,y=31
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -6643,7 +6688,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=12,y=35
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=3,
 EndPlot
@@ -6700,6 +6745,7 @@ BeginPlot
 	x=12,y=39
 	isNOfRiver
 	RiverWEDirection=1
+	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
 	TeamReveal=3,
@@ -6739,12 +6785,14 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=12,y=46
+	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
 	TeamReveal=12,
 EndPlot
 BeginPlot
 	x=12,y=47
+	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT2
 	PlotType=2
 	TeamReveal=12,
@@ -6780,7 +6828,7 @@ BeginPlot
 		CityOwner=12
 		CityName=Sentinel
 		CityPopulation=2
-		BuildingType=BUILDING_PALACE
+		BuildingType=BUILDING_REDGUARD_PALACE
 		ReligionType=RELIGION_EIGHT_DIVINES
 		ReligionType=RELIGION_YOKUDA
 	EndCity
@@ -6800,7 +6848,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=12,y=51
-	FeatureType=FEATURE_REEF, FeatureVariety=0
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -7104,18 +7152,17 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=13,y=29
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=13,y=30
-	FeatureType=FEATURE_REEF, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=13,y=31
-	FeatureType=FEATURE_REEF, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -7136,7 +7183,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=13,y=35
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=3,
 EndPlot
@@ -7170,7 +7217,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=1
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
-	TerrainType=TERRAIN_DESERT
+	TerrainType=TERRAIN_DESERT2
 	PlotType=2
 	TeamReveal=3,
 EndPlot
@@ -7240,6 +7287,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=13,y=52
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -7525,12 +7573,12 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=14,y=29
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=14,y=30
-	FeatureType=FEATURE_REEF, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -7556,7 +7604,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=14,y=34
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -7597,13 +7645,13 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=14,y=41
-	FeatureType=FEATURE_PEAK2, FeatureVariety=0
-	TerrainType=TERRAIN_DESERT
+	TerrainType=TERRAIN_DESERT2
 	PlotType=2
 	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=14,y=42
+	FeatureType=FEATURE_PEAK3, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
 EndPlot
@@ -7958,7 +8006,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=15,y=30
-	FeatureType=FEATURE_REEF, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -8025,7 +8072,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=15,y=42
-	TerrainType=TERRAIN_DESERT
+	TerrainType=TERRAIN_DESERT2
 	PlotType=2
 EndPlot
 BeginPlot
@@ -8377,7 +8424,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=16,y=28
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -8442,6 +8489,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=16,y=41
+	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT2
 	PlotType=2
 EndPlot
@@ -8749,7 +8797,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=17,y=20
-	TerrainType=TERRAIN_LOW_COAST
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -8807,7 +8856,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=17,y=31
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -9212,7 +9261,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=18,y=30
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -9257,6 +9306,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=18,y=39
+	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
 EndPlot
@@ -9298,13 +9348,13 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=18,y=47
-	TerrainType=TERRAIN_DESERT
+	FeatureType=FEATURE_ROCK_FORM4, FeatureVariety=0
+	TerrainType=TERRAIN_DESERT2
 	PlotType=2
 EndPlot
 BeginPlot
 	x=18,y=48
-	FeatureType=FEATURE_ROCK_FORM3, FeatureVariety=0
-	TerrainType=TERRAIN_GRASS
+	TerrainType=TERRAIN_DESERT2
 	PlotType=1
 EndPlot
 BeginPlot
@@ -9629,12 +9679,12 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=19,y=29
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=19,y=30
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -10062,6 +10112,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=20,y=25
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -10407,7 +10458,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=21,y=9
-	TerrainType=TERRAIN_LOW_COAST
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -10489,6 +10541,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=21,y=24
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -10524,6 +10577,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=21,y=31
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -10945,7 +10999,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=22,y=31
-	FeatureType=FEATURE_REEF, FeatureVariety=0
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -10995,7 +11049,7 @@ BeginPlot
 	x=22,y=40
 	BonusType=BONUS_CLAM
 	FeatureType=FEATURE_REEF, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -11631,11 +11685,13 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=24,y=7
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=24,y=8
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -11940,11 +11996,13 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=24,y=65
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=24,y=66
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -12136,11 +12194,12 @@ EndPlot
 BeginPlot
 	x=25,y=27
 	FeatureType=FEATURE_REEF, FeatureVariety=0
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=25,y=28
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -12196,6 +12255,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=25,y=38
+	BonusType=BONUS_GEMS
 	TerrainType=TERRAIN_DESERT2
 	PlotType=1
 EndPlot
@@ -12355,6 +12415,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=25,y=67
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -12434,6 +12495,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=26,y=6
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -12465,6 +12527,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=26,y=12
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -12531,6 +12594,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=26,y=25
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -12566,6 +12630,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=26,y=32
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -12596,6 +12661,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=26,y=38
+	BonusType=BONUS_FISH
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -12606,8 +12672,38 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=26,y=40
+	RouteType=ROUTE_ROAD
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_RA_GADA_WARRIOR, UnitOwner=23
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=4
+		UnitAIType=UNITAI_ATTACK
+	EndUnit
+	BeginUnit
+		UnitType=UNIT_SCOUT, UnitOwner=23
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=4
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
+	BeginUnit
+		UnitType=UNIT_WORKER, UnitOwner=23
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=4
+		UnitAIType=UNITAI_WORKER
+	EndUnit
+	BeginCity
+		CityOwner=23
+		CityName=Taneth
+		CityPopulation=2
+		BuildingType=BUILDING_REDGUARD_PALACE
+		ReligionType=RELIGION_EIGHT_DIVINES
+		ReligionType=RELIGION_YOKUDA
+	EndCity
 EndPlot
 BeginPlot
 	x=26,y=41
@@ -12832,6 +12928,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=27,y=6
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -12925,11 +13022,13 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=27,y=24
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=27,y=25
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -12957,6 +13056,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=27,y=30
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -12982,7 +13082,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=27,y=35
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -13276,6 +13376,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=28,y=10
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -13384,6 +13485,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=28,y=30
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -13430,6 +13532,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	isWOfRiver
+	BonusType=BONUS_BOAR
 	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
@@ -13451,6 +13554,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	isWOfRiver
+	BonusType=BONUS_SHEEP
 	TerrainType=TERRAIN_DESERT2
 	PlotType=2
 EndPlot
@@ -13795,7 +13899,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=29,y=27
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -13867,6 +13971,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=29,y=40
+	BonusType=BONUS_IRON
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
 EndPlot
@@ -14232,12 +14337,14 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=30,y=26
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 	TeamReveal=20,
 EndPlot
 BeginPlot
 	x=30,y=27
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 	TeamReveal=20,
@@ -16000,6 +16107,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=34,y=6
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -16482,6 +16590,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=35,y=6
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -17315,6 +17424,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=36,y=72
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -18710,6 +18820,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=40,y=6
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -20016,6 +20127,7 @@ BeginPlot
 	x=42,y=68
 	RiverNSDirection=0
 	isWOfRiver
+	BonusType=BONUS_RABBIT
 	FeatureType=FEATURE_FOREST, FeatureVariety=2
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
@@ -20047,6 +20159,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=42,y=73
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -20462,6 +20575,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=43,y=66
+	BonusType=BONUS_DEER
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS_PLAINS
 	PlotType=2
@@ -21480,6 +21594,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=45,y=68
+	BonusType=BONUS_CRAB
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=22,
@@ -21954,6 +22069,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=46,y=72
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -22396,6 +22512,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=47,y=71
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -23786,11 +23903,13 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=51,y=4
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=51,y=5
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -24270,6 +24389,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=52,y=4
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -24473,8 +24593,8 @@ EndPlot
 BeginPlot
 	x=52,y=38
 	FeatureType=FEATURE_SEA_BRIDGE_EW, FeatureVariety=0
-	TerrainType=TERRAIN_VERY_LOW_COAST
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 	TeamReveal=0,
 EndPlot
 BeginPlot
@@ -25441,8 +25561,9 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=54,y=41
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	FeatureType=FEATURE_SWAMP, FeatureVariety=0
+	TerrainType=TERRAIN_MARSH
+	PlotType=2
 EndPlot
 BeginPlot
 	x=54,y=42
@@ -25907,6 +26028,7 @@ BeginPlot
 		CityName=Imperial City
 		CityPopulation=2
 		BuildingType=BUILDING_IMPERIAL_PALACE
+		BuildingType=BUILDING_WHITE_GOLD_TOWER
 		ReligionType=RELIGION_EIGHT_DIVINES
 		HolyCityReligionType=RELIGION_EIGHT_DIVINES
 		ReligionType=RELIGION_MONOTHEISM
@@ -26403,8 +26525,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=56,y=37
-	BonusType=BONUS_SILK
-	FeatureType=FERTILE_SOIL_GRASS, FeatureVariety=0
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	TeamReveal=0,
@@ -26650,6 +26771,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=57,y=2
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -26856,8 +26978,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=57,y=36
-	BonusType=BONUS_SOUL_GEMS
-	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	BonusType=BONUS_SILK
+	FeatureType=FERTILE_SOIL_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 	TeamReveal=0,
@@ -26907,6 +27029,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=57,y=44
+	BonusType=BONUS_SOUL_GEMS
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -27118,6 +27241,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=58,y=3
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -27303,7 +27427,7 @@ EndPlot
 BeginPlot
 	x=58,y=34
 	FeatureType=FEATURE_SEA_BRIDGE_NWSE, FeatureVariety=0
-	TerrainType=TERRAIN_LOW_COAST
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -27319,13 +27443,13 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=58,y=37
-	BonusType=BONUS_FISH
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=58,y=38
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=0,
@@ -27566,6 +27690,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=59,y=3
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -28141,7 +28266,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=60,y=28
-	TerrainType=TERRAIN_LOW_COAST
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -28389,6 +28514,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=60,y=69
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -28921,6 +29047,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=62,y=9
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -28952,7 +29079,7 @@ EndPlot
 BeginPlot
 	x=62,y=15
 	FeatureType=FEATURE_SEA_BRIDGE_NS, FeatureVariety=0
-	TerrainType=TERRAIN_LOW_COAST
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -29371,7 +29498,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=63,y=10
-	FeatureType=FEATURE_REEF, FeatureVariety=0
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -29701,6 +29828,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=63,y=66
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -29814,6 +29942,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=64,y=11
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -30182,6 +30311,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=64,y=67
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -30564,9 +30694,10 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=65,y=47
-	FeatureType=FEATURE_FOREST, FeatureVariety=1
-	TerrainType=TERRAIN_TUNDRA
-	PlotType=1
+	BonusType=BONUS_SILK
+	FeatureType=FERTILE_SOIL_GRASS, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=65,y=48
@@ -31026,15 +31157,17 @@ BeginPlot
 	x=66,y=46
 	RiverNSDirection=2
 	isWOfRiver
-	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	BonusType=BONUS_SILK
+	FeatureType=FERTILE_SOIL_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
-	PlotType=1
+	PlotType=2
 EndPlot
 BeginPlot
 	x=66,y=47
-	FeatureType=FEATURE_FOREST, FeatureVariety=2
-	TerrainType=TERRAIN_TUNDRA
-	PlotType=1
+	BonusType=BONUS_SILK
+	FeatureType=FERTILE_SOIL_GRASS, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=66,y=48
@@ -31217,11 +31350,13 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=67,y=4
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=67,y=5
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -32010,7 +32145,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=68,y=61
-	TerrainType=TERRAIN_LOW_COAST
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -36164,6 +36300,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=77,y=50
+	BonusType=BONUS_CRAB
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=4,
@@ -36251,6 +36388,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=77,y=66
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -36556,7 +36694,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=78,y=41
-	TerrainType=TERRAIN_LOW_COAST
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -37525,6 +37664,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=80,y=48
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	TeamReveal=4,
@@ -37972,7 +38112,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=81,y=46
-	TerrainType=TERRAIN_LOW_COAST
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -37994,6 +38135,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=81,y=50
+	BonusType=BONUS_GUAR
 	FeatureType=FEATURE_FOREST, FeatureVariety=3
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
@@ -40285,7 +40427,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=86,y=56
-	TerrainType=TERRAIN_LOW_COAST
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -42896,6 +43039,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=92,y=62
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=21,
@@ -43443,6 +43587,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=94,y=10
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -43453,6 +43598,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=94,y=12
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -43468,6 +43614,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=94,y=15
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -43882,11 +44029,13 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=95,y=10
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=95,y=11
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -43912,6 +44061,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=95,y=16
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -44297,6 +44447,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=96,y=12
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -44307,6 +44458,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=96,y=14
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot

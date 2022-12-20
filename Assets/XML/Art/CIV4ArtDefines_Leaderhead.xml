@@ -55,6 +55,14 @@
 			<BackgroundKFM>art/LeaderHeads/redguard/zara yaqob_BG.kfm</BackgroundKFM>
 		</LeaderheadArtInfo>
 		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_REDGUARD_2</Type>
+			<Button>Art/interface/buttons/Leaders/redguard2.dds</Button>
+			<NIF>art/LeaderHeads/askia/askiafinal.nif</NIF>
+			<KFM>art/LeaderHeads/zara yaqob/zara yaqob.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/askia/askiafinal.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/askia/brennus_BG.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+		<LeaderheadArtInfo>
 			<Type>ART_DEF_LEADER_CAMORAN</Type>
 			<Button>Art/interface/buttons/Leaders/bosmer.dds</Button>
 			<NIF>art/LeaderHeads/camoran/tokugawa.nif</NIF>

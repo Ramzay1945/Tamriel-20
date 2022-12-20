@@ -1446,7 +1446,7 @@
 		<CivilizationInfo>
 			<Type>CIVILIZATION_GERMANY</Type>
 			<Description>TXT_KEY_CIV_REDGUARD_DESC</Description>
-			<ShortDescription>TXT_KEY_CIV_REDGUARD_SHORT_DESC</ShortDescription>
+			<ShortDescription>Crown</ShortDescription>
 			<Adjective>TXT_KEY_CIV_REDGUARD_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_CIV_REDGUARD_PEDIA</Civilopedia>
 			<DefaultPlayerColor>PLAYERCOLOR_RED</DefaultPlayerColor>
@@ -1457,42 +1457,39 @@
 			<bAIPlayable>1</bAIPlayable>
 			<Cities>
 				<City>Hegathe</City>
-				<City>Sentinel</City>
-				<City>Rihad</City>
-				<City>Taneth</City>
-				<City>Skaven</City>
+				<City>Sunkeep</City>
 				<City>Gilane</City>
-				<City>Elinlir</City>
-				<City>Dragonstar</City>
+				<City>Bergama</City>
+				<City>Abah's Lainding</City>
+				<City>Stros M'Kai</City>
+				<City>Chastown</City>
+				<City>Kelps Yat</City>
+				<City>Shady Grove</City>
+				<City>Abibon-Gora</City>
+				<City>Karmver Falls</City>
+				<City>Lainebon</City>
+				<City>Riverpoint</City>
+				<City>Kairou</City>
+				<City>Pothago</City>
 				<City>Akos Kazas</City>
 				<City>Nalonga</City>
-				<City>Stros M'Kai</City>
 				<City>Vathi</City>
 				<City>Kanesh</City>
 				<City>Tigonus</City>
 				<City>Ravan</City>
-				<City>Lainlyn</City>
-				<City>Bergama</City>
 				<City>Samara</City>
 				<City>Lumut</City>
 				<City>Ephesus</City>
-				<City>Abibon-Gora</City>
 				<City>Kil Yelir</City>
 				<City>Makan</City>
-				<City>Pothago</City>
 				<City>Alik'ra</City>
 				<City>Klithi</City>
 				<City>Arranbu</City>
-				<City>Satakalaam</City>
-				<City>Myrkwasa</City>
 				<City>Bahia</City>
 				<City>Dragontail</City>
 				<City>Yul</City>
-				<City>Totambu</City>
 				<City>Santaki</City>
 				<City>Tagon</City>
-				<City>Antiphyllos</City>
-				<City>Kozanset</City>
 				<City>Taleskan</City>
 				<City>Mournoth</City>
 				<City>Moni</City>
@@ -1694,19 +1691,105 @@
 			<bAIPlayable>0</bAIPlayable>
 			<Cities>
 				<City>Sentinel</City>
-				<City>Hegathe</City>
-				<City>Rihad</City>
-				<City>Taneth</City>
 				<City>Skaven</City>
-				<City>Gilane</City>
-				<City>Elinlir</City>
+				<City>Totambu</City>
 				<City>Dragonstar</City>
+				<City>Bangkorai</City>
+				<City>Satakalaam</City>
+				<City>Kozanset</City>
+				<City>Verkarth</City>
+				<City>Cliff Keep</City>
+				<City>Lainlyn</City>
+				<City>Throstad Place</City>
+				<City>Heldorn Mount</City>
+				<City>Dragon Gate</City>
+				<City>Antiphyllos</City>
+				<City>Myrkwasa</City>
+				<City>Akos Kazas</City>
+				<City>Nalonga</City>
+				<City>Vathi</City>
+				<City>Kanesh</City>
+				<City>Tigonus</City>
+				<City>Ravan</City>
+				<City>Samara</City>
+				<City>Lumut</City>
+				<City>Ephesus</City>
+				<City>Kil Yelir</City>
+				<City>Makan</City>
+				<City>Alik'ra</City>
+				<City>Klithi</City>
+				<City>Arranbu</City>
+				<City>Bahia</City>
+				<City>Dragontail</City>
+				<City>Yul</City>
+				<City>Santaki</City>
+				<City>Tagon</City>
+				<City>Taleskan</City>
+				<City>Mournoth</City>
+				<City>Moni</City>
 			</Cities>
-			<Buildings/>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_LIGHTHOUSE</BuildingClassType>
+					<BuildingType>BUILDING_REDGUARD_LIGHTHOUSE</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<BuildingType>BUILDING_REDGUARD_PALACE</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_TAVERN</BuildingClassType>
+					<BuildingType>BUILDING_CARAVANSARAY</BuildingType>
+				</Building>
+			</Buildings>
 			<Units>
 				<Unit>
 					<UnitClassType>UNITCLASS_AUTOMATON</UnitClassType>
 					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_WARRIOR</UnitClassType>
+					<UnitType>UNIT_RA_GADA_WARRIOR</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_MACEMAN</UnitClassType>
+					<UnitType>UNIT_ANSEI</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
+					<UnitType>UNIT_ALICR</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_CASTER</UnitClassType>
+					<UnitType>UNIT_ALIKR_MAGE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_GALLEON</UnitClassType>
+					<UnitType>UNIT_XEBEQ</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_CHARIOT</UnitClassType>
+					<UnitType>UNIT_REDGUARD_CHARIOT</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_HORSE_ARCHER</UnitClassType>
+					<UnitType>UNIT_REDGUARD_HORSE_ARCHER</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
+					<UnitType>UNIT_REDGUARD_KNIGHT</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_MOUNTED_INFANTRY</UnitClassType>
+					<UnitType>UNIT_REDGUARD_MOUNTED_INFANTRY</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_LIGHT_CAVALRY</UnitClassType>
+					<UnitType>UNIT_REDGUARD_LIGHT_CAVALRY</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_HEAVY_CAVALRY</UnitClassType>
+					<UnitType>UNIT_REDGUARD_HEAVY_CAVALRY</UnitType>
 				</Unit>
 				<Unit>
 					<UnitClassType>UNITCLASS_CONJURER</UnitClassType>
@@ -1722,7 +1805,7 @@
 				</Unit>
 				<Unit>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
-					<UnitType>NONE</UnitType>
+					<UnitType>UNIT_MINOR_SETTLER</UnitType>
 				</Unit>
 				<Unit>
 					<UnitClassType>UNITCLASS_SPRIGGAN</UnitClassType>
@@ -3464,38 +3547,36 @@
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>1</bAIPlayable>
 			<Cities>
-				<City>Solitude</City>
-				<City>Windhelm</City>				
 				<City>Whiterun</City>
+				<City>Windhelm</City>				
 				<City>Riften</City>
-				<City>Markarth</City>
-				<City>Dawnstar</City>
 				<City>Winterhold</City>
-				<City>Falkreath</City>
 				<City>Saarthal</City>
-				<City>Morthal</City>
-				<City>Bromjunaar</City>
 				<City>Darkwater Crossing</City>
-				<City>Riverwood</City>				
-				<City>Dragon Bridge</City>	
-				<City>Ivarstead</City>				
-				<City>Kynesgrove</City>				
-				<City>Rorikstead</City>			
-				<City>Darkmoor</City>				
-				<City>Sunguard</City>		
-				<City>Korvanjund</City>	
-				<City>Stonehill</City>				
-				<City>Karthwasten</City>				
+				<City>Riverwood</City>
+				<City>Ivarstead</City>
+				<City>Kynesgrove</City>
+				<City>Darkmoor</City>
+				<City>Sunguard</City>
+				<City>Korvanjund</City>
 				<City>Shor's Stone</City>				
-				<City>Helgen</City>				
-				<City>Amol</City>	
-				<City>Skaal</City>	
-				<City>Bardmont</City>	
-				<City>Snowhawk</City>	
-				<City>Stonehills</City>	
-				<City>Dunbarrow</City>	
-				<City>Jallenheim</City>	
+				<City>Helgen</City>	
+				<City>Amol</City>				
+				<City>Bardmont</City>				
+				<City>Snowhawk</City>			
+				<City>Dunbarrow</City>				
+				<City>Jallenheim</City>		
 				<City>Hillgrundstead</City>	
+				<City>Solitude</City>				
+				<City>Markarth</City>				
+				<City>Dawnstar</City>				
+				<City>Falkreath</City>				
+				<City>Morthal</City>	
+				<City>Bromjunaar</City>	
+				<City>Karthwasten</City>	
+				<City>Dragon Bridge</City>	
+				<City>Rorikstead</City>	
+				<City>Stonehill</City>	
 			</Cities>
 			<Buildings>
 				<Building>
@@ -4162,18 +4243,70 @@
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>0</bAIPlayable>
 			<Cities>
-				<City>Solitude</City>
-				<City>Dragon Bridge</City>				
-				<City>Karthwasten</City>
+				<City>Solitude</City>				
+				<City>Markarth</City>				
+				<City>Dawnstar</City>				
+				<City>Falkreath</City>				
+				<City>Morthal</City>	
+				<City>Bromjunaar</City>	
+				<City>Karthwasten</City>	
+				<City>Dragon Bridge</City>	
+				<City>Rorikstead</City>	
+				<City>Stonehill</City>	
+				<City>Whiterun</City>
+				<City>Windhelm</City>				
+				<City>Riften</City>
+				<City>Winterhold</City>
+				<City>Saarthal</City>
+				<City>Darkwater Crossing</City>
+				<City>Riverwood</City>
+				<City>Ivarstead</City>
+				<City>Kynesgrove</City>
+				<City>Darkmoor</City>
+				<City>Sunguard</City>
+				<City>Korvanjund</City>
+				<City>Shor's Stone</City>				
+				<City>Helgen</City>	
+				<City>Amol</City>				
+				<City>Bardmont</City>				
+				<City>Snowhawk</City>			
+				<City>Dunbarrow</City>				
+				<City>Jallenheim</City>		
+				<City>Hillgrundstead</City>	
 			</Cities>
-			<Buildings/>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_TAVERN</BuildingClassType>
+					<BuildingType>BUILDING_NORD_TAVERN</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<BuildingType>BUILDING_NORD_PALACE</BuildingType>
+				</Building>
+			</Buildings>
 			<Units>
 				<Unit>
 					<UnitClassType>UNITCLASS_AUTOMATON</UnitClassType>
 					<UnitType>NONE</UnitType>
 				</Unit>
 				<Unit>
+					<UnitClassType>UNITCLASS_HEAVY_CAVALRY</UnitClassType>
+					<UnitType>UNIT_MAMMOTH</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_GALLEY</UnitClassType>
+					<UnitType>UNIT_DRAKKAR</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_CASTER</UnitClassType>
+					<UnitType>UNIT_TONGUE</UnitType>
+				</Unit>
+				<Unit>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<UnitType>UNIT_MINOR_SETTLER</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_TRIREME</UnitClassType>
 					<UnitType>NONE</UnitType>
 				</Unit>
 				<Unit>
@@ -4473,6 +4606,241 @@
 			<DerivativeCiv>NONE</DerivativeCiv>
 			<CivilizationSelectionSound>AS3D_GERMANY_SELECT</CivilizationSelectionSound>
 			<CivilizationActionSound>AS3D_GERMANY_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+		<CivilizationInfo>
+			<Type>CIVILIZATION_REDGUARD_2</Type>
+			<Description>The Forebears</Description>
+			<ShortDescription>Forebears</ShortDescription>
+			<Adjective>TXT_KEY_CIV_REDGUARD_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_REDGUARD_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_REDGUARD_2</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_REDGUARD_2</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_REDGUARD</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_REDGUARD</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>0</bAIPlayable>
+			<Cities>
+				<City>Taneth</City>
+				<City>Rihad</City>
+				<City>Elinlir</City>
+				<City>Belkarth</City>
+				<City>North Hall</City>
+				<City>Rosenguard</City>
+				<City>Chaseguard</City>
+				<City>Vulkneu Town</City>
+				<City>Stonemoor</City>
+				<City>Nimbel Moor</City>
+				<City>Stonedale</City>
+				<City>Fang Lair</City>
+				<City>Akos Kazas</City>
+				<City>Nalonga</City>
+				<City>Vathi</City>
+				<City>Kanesh</City>
+				<City>Tigonus</City>
+				<City>Ravan</City>
+				<City>Samara</City>
+				<City>Lumut</City>
+				<City>Ephesus</City>
+				<City>Kil Yelir</City>
+				<City>Makan</City>
+				<City>Alik'ra</City>
+				<City>Klithi</City>
+				<City>Arranbu</City>
+				<City>Bahia</City>
+				<City>Dragontail</City>
+				<City>Yul</City>
+				<City>Santaki</City>
+				<City>Tagon</City>
+				<City>Taleskan</City>
+				<City>Mournoth</City>
+				<City>Moni</City>
+			</Cities>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_LIGHTHOUSE</BuildingClassType>
+					<BuildingType>BUILDING_REDGUARD_LIGHTHOUSE</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<BuildingType>BUILDING_REDGUARD_PALACE</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_TAVERN</BuildingClassType>
+					<BuildingType>BUILDING_CARAVANSARAY</BuildingType>
+				</Building>
+			</Buildings>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_AUTOMATON</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_WARRIOR</UnitClassType>
+					<UnitType>UNIT_RA_GADA_WARRIOR</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_MACEMAN</UnitClassType>
+					<UnitType>UNIT_ANSEI</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
+					<UnitType>UNIT_ALICR</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_CASTER</UnitClassType>
+					<UnitType>UNIT_ALIKR_MAGE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_GALLEON</UnitClassType>
+					<UnitType>UNIT_XEBEQ</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_CHARIOT</UnitClassType>
+					<UnitType>UNIT_REDGUARD_CHARIOT</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_HORSE_ARCHER</UnitClassType>
+					<UnitType>UNIT_REDGUARD_HORSE_ARCHER</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
+					<UnitType>UNIT_REDGUARD_KNIGHT</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_MOUNTED_INFANTRY</UnitClassType>
+					<UnitType>UNIT_REDGUARD_MOUNTED_INFANTRY</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_LIGHT_CAVALRY</UnitClassType>
+					<UnitType>UNIT_REDGUARD_LIGHT_CAVALRY</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_HEAVY_CAVALRY</UnitClassType>
+					<UnitType>UNIT_REDGUARD_HEAVY_CAVALRY</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_CONJURER</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_MAGE</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_WARMAGE</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<UnitType>UNIT_MINOR_SETTLER</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_SPRIGGAN</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_WEREWOLF</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_MINOTAUR</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_DRAUGR</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_DREMORA</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_DRAGON</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_CLANFEAR</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_ASHLANDER</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs>
+				<FreeTech>
+					<TechType>TECH_FISHING</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+				<FreeTech>
+					<TechType>TECH_MINING</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+				<FreeTech>
+					<TechType>TECH_YOKUDA</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+			</FreeTechs>
+			<DisableTechs>
+				<DisableTech>
+					<TechType>TECH_MOONS</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_GREEN_PACT</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_JUNGLE_LIFE</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_GREAT_HOUSES</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_GUILDS</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_ATMORA</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+			</DisableTechs>	
+			<InitialCivics>
+				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BARBARISM</CivicType>
+				<CivicType>CIVIC_TRIBALISM</CivicType>
+				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
+				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_8_DIVINES_NONE</CivicType>
+				<CivicType>CIVIC_DAEDRA_NONE</CivicType>
+				<CivicType>CIVIC_NORDIC_NONE</CivicType>
+				<CivicType>CIVIC_ALTMER_NONE</CivicType>
+				<CivicType>CIVIC_TRIBUNAL_NONE</CivicType>
+				<CivicType>CIVIC_HOUSES_BAN</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_REDGUARD_2</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>NONE</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_BABYLON_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_BABYLON_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 
 

@@ -150,6 +150,12 @@
 			<Path>Art/Interface/TeamColor/new/SOLITUDE.dds</Path>
 			<bWhiteFlag>1</bWhiteFlag>
 		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_REDGUARD_2</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/REDGUARD_2.dds</Button>
+			<Path>Art/Interface/TeamColor/new/REDGUARD_2.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
 
 
 <!-- ################################################################## -->
