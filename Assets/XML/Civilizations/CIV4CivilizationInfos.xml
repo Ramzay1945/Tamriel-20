@@ -835,41 +835,42 @@
 			<bAIPlayable>1</bAIPlayable>
 			<Cities>
 				<City>Imperial City</City>
-				<City>Skingrad</City>
-				<City>Chorrol</City>
-				<City>Kvatch</City>
-				<City>Bruma</City>
-				<City>Anvil</City>
-				<City>Cheydinhal</City>
-				<City>Leyawiin</City>
-				<City>Bravil</City>
-				<City>Sutch</City>
-				<City>Sancre Tor</City>
-				<City>Apple Watch</City>
-				<City>Aleswell</City>
-				<City>Border Watch</City>
-				<City>Weatherleah</City>
 				<City>Weye</City>
+				<City>Fort Empire</City>
+				<City>Aleswell</City>
 				<City>Bleaker's Way</City>
 				<City>Pell's Gate</City>
-				<City>Bethal Gray</City>
-				<City>Hackdirt</City>
-				<City>Harlun's Watch</City>
-				<City>Sweetwater</City>
-				<City>Kavas Rim</City>
-				<City>Thurzo</City>
-				<City>Ione</City>
-				<City>Eastbridge</City>
-				<City>Water's Edge</City>
-				<City>Blankenmarch</City>
-				<City>Cropsford</City>
-				<City>Mountain Watch</City>
-				<City>Caer Suvio</City>
+				<City>Faregyl</City>
+				<City>Fort Alessia</City>
+				<City>Roxey</City>
+				<City>Fort Ash</City>
+				<City>Fort Valeria</City>
+				<City>Gottlesfont</City>
+				<City>Fort Magia</City>
+				<City>Fort Urasek</City>
+				<City>Fort Caractacus</City>
+				<City>Artemon</City>
 				<City>Mir Corrup</City>
-				<City>Wroth Naga</City>
-				<City>Septimia</City>
+				<City>Arrius</City>
+				<City>Irony</City>
+				<City>Scinia</City>
+				<City>Sarchal</City>
+				<City>Hal Verovar</City>
+				<City>Double Cross</City>
 				<City>Ionith</City>
-				<City>Slough Point</City>
+				<City>Hal Vincherik</City>
+				<City>Delodiil</City>
+				<City>Quenti Turrai</City>
+				<City>Cephoriad</City>
+				<City>Tiberiad</City>
+				<City>Ato</City>
+				<City>Caer Ancra</City>
+				<City>Balasarti</City>
+				<City>Mhorlagrad</City>
+				<City>Stirk</City>
+				<City>Dethagrad</City>
+				<City>Hal Uriel</City>
+				<City>Fax Aleshut</City>
 			</Cities>
 			<Buildings>
 				<Building>
@@ -903,20 +904,8 @@
 					<UnitType>UNIT_HUNTSMAN_IMPERIAL</UnitType>
 				</Unit>
 				<Unit>
-					<UnitClassType>UNITCLASS_LONGBOWMAN</UnitClassType>
-					<UnitType>UNIT_COLOVIAN</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_PIKEMAN</UnitClassType>
-					<UnitType>UNIT_NIBEN</UnitType>
-				</Unit>
-				<Unit>
 					<UnitClassType>UNITCLASS_CATAPULT</UnitClassType>
 					<UnitType>UNIT_IMPERIAL_TREBUCHET</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_LIGHT_CAVALRY</UnitClassType>
-					<UnitType>UNIT_GC_GUARD</UnitType>
 				</Unit>
 				<Unit>
 					<UnitClassType>UNITCLASS_TRIREME</UnitClassType>
@@ -1040,14 +1029,43 @@
 			<bAIPlayable>0</bAIPlayable>
 			<Cities>
 				<City>Cheydinhal</City>
-				<City>Bruma</City>
-				<City>Leyawiin</City>
 				<City>Bravil</City>
-				<City>Aleswell</City>
+				<City>Leyawin</City>
+				<City>Farragut</City>
+				<City>Cropsford</City>
+				<City>Harm's Folly</City>
+				<City>Drakelowe</City>
+				<City>Fort Grief</City>
 				<City>Border Watch</City>
 				<City>Water's Edge</City>
 				<City>Blankenmarch</City>
-				<City>Cropsford</City>
+				<City>Greyland</City>
+				<City>Arkved's Tower</City>
+				<City>Fort Blueblood</City>
+				<City>Fort Teleman</City>
+				<City>Dive Rock</City>
+				<City>Artemon</City>
+				<City>Mir Corrup</City>
+				<City>Arrius</City>
+				<City>Irony</City>
+				<City>Scinia</City>
+				<City>Sarchal</City>
+				<City>Hal Verovar</City>
+				<City>Double Cross</City>
+				<City>Ionith</City>
+				<City>Hal Vincherik</City>
+				<City>Delodiil</City>
+				<City>Quenti Turrai</City>
+				<City>Cephoriad</City>
+				<City>Tiberiad</City>
+				<City>Ato</City>
+				<City>Caer Ancra</City>
+				<City>Balasarti</City>
+				<City>Mhorlagrad</City>
+				<City>Stirk</City>
+				<City>Dethagrad</City>
+				<City>Hal Uriel</City>
+				<City>Fax Aleshut</City>
 			</Cities>
 			<Buildings/>
 			<Units>
@@ -1061,7 +1079,7 @@
 				</Unit>
 				<Unit>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
-					<UnitType>NONE</UnitType>
+					<UnitType>UNIT_MINOR_SETTLER</UnitType>
 				</Unit>
 				<Unit>
 					<UnitClassType>UNITCLASS_SPRIGGAN</UnitClassType>
@@ -1180,14 +1198,43 @@
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>0</bAIPlayable>
 			<Cities>
-				<City>Chorrol</City>
+				<City>Choroll</City>
 				<City>Skingrad</City>
-				<City>Kvatch</City>
-				<City>Anvil</City>
-				<City>Sutch</City>
+				<City>Bruma</City>
+				<City>Weyon</City>
 				<City>Sancre Tor</City>
-				<City>Weye</City>
-				<City>Pell's Gate</City>
+				<City>Applewatch</City>
+				<City>Hackdirt</City>
+				<City>Battlehorn</City>
+				<City>Weatherleah</City>
+				<City>Shardrock</City>
+				<City>Pale Pass</City>
+				<City>Frostcrag</City>
+				<City>Ontus</City>
+				<City>Fort Dirich</City>
+				<City>Fort Vlastarus</City>
+				<City>Artemon</City>
+				<City>Mir Corrup</City>
+				<City>Arrius</City>
+				<City>Irony</City>
+				<City>Scinia</City>
+				<City>Sarchal</City>
+				<City>Hal Verovar</City>
+				<City>Double Cross</City>
+				<City>Ionith</City>
+				<City>Hal Vincherik</City>
+				<City>Delodiil</City>
+				<City>Quenti Turrai</City>
+				<City>Cephoriad</City>
+				<City>Tiberiad</City>
+				<City>Ato</City>
+				<City>Caer Ancra</City>
+				<City>Balasarti</City>
+				<City>Mhorlagrad</City>
+				<City>Stirk</City>
+				<City>Dethagrad</City>
+				<City>Hal Uriel</City>
+				<City>Fax Aleshut</City>
 			</Cities>
 			<Buildings/>
 			<Units>
@@ -1201,7 +1248,7 @@
 				</Unit>
 				<Unit>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
-					<UnitType>NONE</UnitType>
+					<UnitType>UNIT_MINOR_SETTLER</UnitType>
 				</Unit>
 				<Unit>
 					<UnitClassType>UNITCLASS_SPRIGGAN</UnitClassType>
@@ -1323,7 +1370,40 @@
 				<City>Anvil</City>
 				<City>Kvatch</City>
 				<City>Sutch</City>
+				<City>Fort Strand</City>
 				<City>Gottshaw</City>
+				<City>Brina Cross</City>
+				<City>Shetcombe</City>
+				<City>Whitmona</City>
+				<City>Crownhaven</City>
+				<City>Gweden</City>
+				<City>Drad's Estate</City>
+				<City>Fort Wariel</City>
+				<City>Fort Hastrel</City>
+				<City>Fort Linchal</City>
+				<City>Fort Istrius</City>
+				<City>Artemon</City>
+				<City>Mir Corrup</City>
+				<City>Arrius</City>
+				<City>Irony</City>
+				<City>Scinia</City>
+				<City>Sarchal</City>
+				<City>Hal Verovar</City>
+				<City>Double Cross</City>
+				<City>Ionith</City>
+				<City>Hal Vincherik</City>
+				<City>Delodiil</City>
+				<City>Quenti Turrai</City>
+				<City>Cephoriad</City>
+				<City>Tiberiad</City>
+				<City>Ato</City>
+				<City>Caer Ancra</City>
+				<City>Balasarti</City>
+				<City>Mhorlagrad</City>
+				<City>Stirk</City>
+				<City>Dethagrad</City>
+				<City>Hal Uriel</City>
+				<City>Fax Aleshut</City>
 			</Cities>
 			<Buildings/>
 			<Units>
@@ -1337,7 +1417,7 @@
 				</Unit>
 				<Unit>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
-					<UnitType>NONE</UnitType>
+					<UnitType>UNIT_MINOR_SETTLER</UnitType>
 				</Unit>
 				<Unit>
 					<UnitClassType>UNITCLASS_SPRIGGAN</UnitClassType>
@@ -2066,28 +2146,25 @@
 			<bAIPlayable>1</bAIPlayable>
 			<Cities>
 				<City>Daggerfall</City>
-				<City>Wayrest</City>
-				<City>Evermore</City>
-				<City>Camlorn</City>
-				<City>Farrun</City>
-				<City>Jehanna</City>
-				<City>Northpoint</City>
-				<City>Shornhelm</City>
-				<City>Gavaudon</City>
 				<City>Glenpoint</City>
-				<City>Anticlere</City>
-				<City>Alcaire</City>
-				<City>Tulune</City> 
-				<City>Menevia</City>
-				<City>Dwynnen</City>
+				<City>Camlorn</City>
 				<City>Yakalon</City>
+				<City>Glenumbra</City>
+				<City>Alcaire</City>
+				<City>Shornhelm</City>
+				<City>Northpoint</City>
+				<City>Anticlere</City>
+				<City>Koegria</City>
+				<City>Meir Darguard</City>
+				<City>Portdun Kreek</City>
+				<City>Old Gate</City> 
 				<City>Kambria</City>
+				<City>White Haven</City>
+				<City>Tulune</City>
+				<City>Dwynnen</City>
 				<City>Bhoriane</City>
 				<City>Shalgora</City>
-				<City>Koegria</City>
 				<City>Urvaius</City>
-				<City>Glenumbra</City>
-				<City>Wrothgaria</City>
 				<City>Phrygias</City>
 				<City>Northmoor</City>
 				<City>Daenia</City>
@@ -2262,25 +2339,84 @@
 			<bAIPlayable>0</bAIPlayable>
 			<Cities>
 				<City>Wayrest</City>
-				<City>Daggerfall</City>
 				<City>Evermore</City>
-				<City>Camlorn</City>
 				<City>Farrun</City>
 				<City>Jehanna</City>
-				<City>Northpoint</City>
-				<City>Shornhelm</City>
 				<City>Gavaudon</City>
-				<City>Glenpoint</City>
+				<City>Wrothgaria</City>
+				<City>Raven Spring</City>
+				<City>Cloud Spring</City>
+				<City>Azra's Crossing</City>
+				<City>Dunkam Haven</City>
+				<City>Wind Keep</City>
+				<City>Norvulk</City>
+				<City>Karthgran Vale</City> 
+				<City>Menevia</City>
+				<City>Dunlain Falls</City>
+				<City>Tulune</City>
+				<City>Dwynnen</City>
+				<City>Bhoriane</City>
+				<City>Shalgora</City>
+				<City>Urvaius</City>
+				<City>Phrygias</City>
+				<City>Northmoor</City>
+				<City>Daenia</City>
+				<City>Betony</City>
+				<City>Cascabel</City>
+				<City>Raven Spring</City>
+				<City>Candlemass</City>
+				<City>Burgwall</City>
+				<City>Easttale</City>
+				<City>Charborne Wood</City>
+				<City>Cathwych</City>
+				<City>Oxbeth</City>	
+				<City>Vanwych</City>	
+				<City>Tunhead</City>
+				<City>Aldingwark</City>
+				<City>Knightspath</City>
 			</Cities>
-			<Buildings/>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_HEALER</BuildingClassType>
+					<BuildingType>BUILDING_BRETON_HEALER</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<BuildingType>BUILDING_BRETON_PALACE</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_FIGHTERS_GUILD</BuildingClassType>
+					<BuildingType>BUILDING_KNIGHTLY_ORDER</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_MAGES_GUILD</BuildingClassType>
+					<BuildingType>NONE</BuildingType>
+				</Building>
+			</Buildings>
 			<Units>
 				<Unit>
 					<UnitClassType>UNITCLASS_AUTOMATON</UnitClassType>
 					<UnitType>NONE</UnitType>
 				</Unit>
 				<Unit>
+					<UnitClassType>UNITCLASS_CASTER</UnitClassType>
+					<UnitType>UNIT_BRETON_CASTER</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_PIKEMAN</UnitClassType>
+					<UnitType>UNIT_HALBERDIER</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_MACEMAN</UnitClassType>
+					<UnitType>UNIT_CHAMPION_BRETON</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
+					<UnitType>UNIT_NOBLEMAN_BRETON</UnitType>
+				</Unit>
+				<Unit>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
-					<UnitType>NONE</UnitType>
+					<UnitType>UNIT_MINOR_SETTLER</UnitType>
 				</Unit>
 				<Unit>
 					<UnitClassType>UNITCLASS_SPRIGGAN</UnitClassType>

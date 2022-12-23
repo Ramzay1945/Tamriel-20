@@ -40,60 +40,6 @@
 		<Width>1</Width>
 		<Height>1</Height>
 		<!-- LEAF 1x1 GENERICS -->
-		<ArtRef Name="generic:an_ljosalfar.nif::1x1_01">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>			
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.0</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_ljosalfar.nif::1x1_02">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>			
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.0</Scale>
-		</ArtRef>		
-		<ArtRef Name="generic:an_ljosalfar.nif::1x1_03">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>			
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.0</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_ljosalfar.nif::1x1_04">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>			
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.0</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_ljosalfar.nif::1x1_05">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>			
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.0</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_ljosalfar.nif::1x1_06">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>			
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.0</Scale>
-		</ArtRef>		
-		<ArtRef Name="generic:an_ljosalfar.nif::1x1_07">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>			
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.0</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_ljosalfar.nif::1x1_08">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>			
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.0</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_ljosalfar.nif::1x1_09">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.0</Scale>
-		</ArtRef>
 		<ArtRef Name="generic:an_eu.nif::1x1_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN</Attribute>
@@ -313,31 +259,31 @@
 		</ArtRef>
 		<!--  NORD ANCIENT -->
 		<ArtRef Name="generic:an_nord.nif::1x1x1_01">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_nord.nif::1x1x1_02">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_nord.nif::1x1x2_01">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_nord.nif::1x1x2_02">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_nord.nif::1x1x2_03">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
@@ -373,36 +319,36 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
-		<!-- NORD CLASSICAL -->
-		<ArtRef Name="generic:clas_nord.nif::1x1_01">
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>				
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		<!--  ARGONIAN ANCIENT -->
+		<ArtRef Name="generic:ARGONIAN.nif::1x1x1_01">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
+			<Scale>0.8</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:clas_nord.nif::1x1_02">
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		<ArtRef Name="generic:ARGONIAN.nif::1x1x1_02">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
+			<Scale>0.8</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:clas_nord.nif::1x1_06">
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		<ArtRef Name="generic:ARGONIAN.nif::1x1x2_01">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
+			<Scale>0.8</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:clas_nord.nif::1x1_07">
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		<ArtRef Name="generic:ARGONIAN.nif::1x1x2_02">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
+			<Scale>0.8</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:clas_nord.nif::1x1_08">
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-		</ArtRef>
-		<ArtRef Name="generic:clas_nord.nif::1x1_09">
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		<ArtRef Name="generic:ARGONIAN.nif::1x1x2_03">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
+			<Scale>0.8</Scale>
 		</ArtRef>
 		<!-- NORD MEDIEVAL  -->
 		<ArtRef Name="generic:med_nord.nif::1x1x1_01">
@@ -504,389 +450,156 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-		<!-- ARGONIAN ANCIENT -->
-		<ArtRef Name="generic:an_arg.nif::1x1_01">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_arg.nif::1x1_02">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_arg.nif::1x1_03">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_arg.nif::1x1_04">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_arg.nif::1x1_05">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_arg.nif::1x1_06">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_arg.nif::1x1_07">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_arg.nif::1x1_08">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_arg.nif::1x1_09">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<!-- ARGONIAN CLASSICAL -->
-		<ArtRef Name="generic:clas_arg.nif::1x1_01">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:clas_arg.nif::1x1_02">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:clas_arg.nif::1x1_03">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:clas_arg.nif::1x1_04">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:clas_arg.nif::1x1_05">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:clas_arg.nif::1x1_06">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:clas_arg.nif::1x1_07">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:clas_arg.nif::1x1_08">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:clas_arg.nif::1x1_09">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<!-- ARGONIAN RENAISSANCE -->
-		<ArtRef Name="generic:ren_arg.nif::1x1_01">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_arg.nif::1x1_02">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_arg.nif::1x1_03">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_arg.nif::1x1_04">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_arg.nif::1x1_05">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_arg.nif::1x1_06">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_arg.nif::1x1_07">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_arg.nif::1x1_08">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_arg.nif::1x1_09">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
 		<!-- ALTMER ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:altmer_city.nif::1x1_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:altmer_city.nif::1x1_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:altmer_city.nif::1x1_03">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:altmer_city.nif::1x1_04">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:altmer_city.nif::1x1_05">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+		<ArtRef Name="generic:altmer_city.nif::1x1_02">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<!-- ALTMER MEDIEVAL -->
-		<ArtRef Name="generic:altmer_city.nif::1x1_01">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+		<ArtRef Name="generic:altmer_city_modern.nif::1x1_01">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.6</Scale>
+			<Scale>1</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:altmer_city.nif::1x1_02">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+		<ArtRef Name="generic:altmer_city_modern.nif::1x1_02">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.6</Scale>
+			<Scale>1</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:altmer_city.nif::1x1_03">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+		<ArtRef Name="generic:altmer_city_modern.nif::1x1_03">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.6</Scale>
+			<Scale>1</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:altmer_city.nif::1x1_04">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+		<ArtRef Name="generic:altmer_city_modern.nif::1x1_04">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.6</Scale>
+			<Scale>1</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:altmer_city.nif::1x1_05">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+		<ArtRef Name="generic:altmer_city_modern.nif::1x1_02">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.6</Scale>
+			<Scale>1</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:altmer_city.nif::1x1_06">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+		<ArtRef Name="generic:altmer_city_modern.nif::1x1_06">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.6</Scale>
-		</ArtRef>
-		<!--  DUNMER ANCIENT -->
-		<ArtRef Name="generic:an_dun.nif::1x1x1_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_dun.nif::1x1x1_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_dun.nif::1x1x2_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_dun.nif::1x1x2_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_dun.nif::1x1x2_03">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<!-- DUNMER MEDIEVAL -->
-		<ArtRef Name="generic:med_dun.nif::1x1x1_01">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:med_dun.nif::1x1x1_02">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:med_dun.nif::1x1x2_01">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:med_dun.nif::1x1x2_02">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:med_dun.nif::1x1x2_03">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
+			<Scale>1</Scale>
 		</ArtRef>
 		<!-- KHAJIIT ANCIENT -->
 		<ArtRef Name="generic:an_khaj.nif::1x1_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_khaj.nif::1x1_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_khaj.nif::1x1_03">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_khaj.nif::1x1_04">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1</Scale>
 		</ArtRef>
 		<!-- KHAJIIT MEDIEVAL  -->
 		<ArtRef Name="generic:Meso-American_City.nif::1x1_01">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:Meso-American_City.nif::1x1_02">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:Meso-American_City.nif::1x1_03">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:Meso-American_City.nif::1x1_04">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<!-- DWEMER ANCIENT  -->
+		<ArtRef Name="generic:Dwemer_City_classic.nif::1x1_01">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:DWEMER_City_classic.nif::1x1_02">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:DWEMER_City_classic.nif::1x1_03">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:DWEMER_City_classic.nif::1x1_04">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<!-- DWEMER MEDIEVAL  -->
 		<ArtRef Name="generic:Dwemer_City.nif::1x1_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:DWEMER_City.nif::1x1_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:DWEMER_City.nif::1x1_03">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:DWEMER_City.nif::1x1_04">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
@@ -909,6 +622,48 @@
 		<ArtRef Name="generic:Aileyd_City.nif::1x1_04">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_AILEYD</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<!-- DUNMER ancient  -->
+		<ArtRef Name="generic:redoran.nif::1x1_01">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:redoran.nif::1x1_02">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:redoran.nif::1x1_03">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:redoran.nif::1x1_04">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<!-- DUNMER MEDIEVAL  -->
+		<ArtRef Name="generic:hlaalu.nif::1x1_01">
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:hlaalu.nif::1x1_02">
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:hlaalu.nif::1x1_03">
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:hlaalu.nif::1x1_04">
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<!-- Madness MEDIEVAL  -->
@@ -1238,51 +993,7 @@
 		</ArtRef>
 				
 		
-		
-			<!-- Elf -->
-		<ArtRef Name="generic:an_ljosalfar.nif::2x1_01">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Scale>1.3</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_ljosalfar.nif::2x1_02">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Scale>1.3</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_ljosalfar.nif::2x1_03">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Scale>1.3</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_ljosalfar.nif::2x1_04">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Scale>1.3</Scale>
-		</ArtRef>		
-		<ArtRef Name="generic:an_ljosalfar.nif::1x2_01">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Scale>1.3</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_ljosalfar.nif::1x2_02">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Scale>1.3</Scale>
-		</ArtRef>
-	
+			
 		<!-- BRETON MEDIEVAL -->
 		<ArtRef Name="generic:an_civil.nif::2x1_01">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -1442,63 +1153,63 @@
 		</ArtRef>	
 		<!--  NORD ANCIENT -->
 		<ArtRef Name="generic:an_nord.nif::1x2x2_01">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_nord.nif::1x2x2_02">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_nord.nif::1x2x2_03">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_nord.nif::1x2x2_04">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_nord.nif::1x2x2_05">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_nord.nif::2x1x2_01">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_nord.nif::2x1x2_02">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_nord.nif::2x1x2_03">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_nord.nif::2x1x2_04">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
@@ -1568,36 +1279,69 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.8</Scale>
 		</ArtRef>
-		<!-- NORD CLASSICAL  -->
-		<ArtRef Name="generic:clas_nord.nif::2x1_01">
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-		</ArtRef>
-		<ArtRef Name="generic:clas_nord.nif::2x1_02">
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-		</ArtRef>
-		<ArtRef Name="generic:clas_nord.nif::1x2_01">
+		<!--  ARGONIAN ANCIENT -->
+		<ArtRef Name="generic:ARGONIAN.nif::1x2x2_01">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
+			<Scale>0.8</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:clas_nord.nif::1x2_02">
+		<ArtRef Name="generic:ARGONIAN.nif::1x2x2_02">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
+			<Scale>0.8</Scale>
 		</ArtRef>
-			<ArtRef Name="generic:clas_nord.nif::2x1_03">
+		<ArtRef Name="generic:ARGONIAN.nif::1x2x2_03">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
+			<Scale>0.8</Scale>
+		</ArtRef>
+		<ArtRef Name="generic:ARGONIAN.nif::1x2x2_04">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
+			<Scale>0.8</Scale>
+		</ArtRef>
+		<ArtRef Name="generic:ARGONIAN.nif::1x2x2_05">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
+			<Scale>0.8</Scale>
+		</ArtRef>
+		<ArtRef Name="generic:ARGONIAN.nif::2x1x2_01">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
+			<Scale>0.8</Scale>
+		</ArtRef>
+		<ArtRef Name="generic:ARGONIAN.nif::2x1x2_02">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
+			<Scale>0.8</Scale>
+		</ArtRef>
+		<ArtRef Name="generic:ARGONIAN.nif::2x1x2_03">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
+			<Scale>0.8</Scale>
+		</ArtRef>
+		<ArtRef Name="generic:ARGONIAN.nif::2x1x2_04">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
+			<Scale>0.8</Scale>
 		</ArtRef>
 		<!-- NORD MEDIEVAL  -->
 		<ArtRef Name="generic:med_nord.nif::1x2x2_01">
@@ -1842,391 +1586,152 @@
 			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>	
-		<!-- ARGONIAN ANCIENT -->
-		<ArtRef Name="generic:an_arg.nif::1x2_01">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_arg.nif::1x2_02">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_arg.nif::2x1_01">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_arg.nif::2x1_02">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_arg.nif::2x1_03">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_arg.nif::2x1_04">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<!-- ARGONIAN CLASSICAL -->
-		<ArtRef Name="generic:clas_arg.nif::1x2_01">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:clas_arg.nif::1x2_02">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:clas_arg.nif::2x1_01">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:clas_arg.nif::2x1_02">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:clas_arg.nif::2x1_03">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:clas_arg.nif::2x1_04">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<!-- ARGONIAN RENAISSANCE -->
-		<ArtRef Name="generic:ren_arg.nif::1x2_01">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_arg.nif::1x2_02">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_arg.nif::2x1_01">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_arg.nif::2x1_02">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_arg.nif::2x1_03">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_arg.nif::2x1_04">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
 		<!--  ALTMER ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:altmer_city.nif::2x1_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:altmer_city.nif::2x1_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:altmer_city.nif::2x1_03">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:altmer_city.nif::2x1_04">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:altmer_city.nif::1x2_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:altmer_city.nif::1x2_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:altmer_city.nif::1x2_03">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:altmer_city.nif::1x2_04">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<!-- ALTMER MEDIEVAL -->
-		<ArtRef Name="generic:altmer_city.nif::1x2_01">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+		<ArtRef Name="generic:altmer_city_modern.nif::1x2_01">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.6</Scale>
+			<Scale>0.9</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:altmer_city.nif::1x2_02">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+		<ArtRef Name="generic:altmer_city_modern.nif::1x2_02">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.6</Scale>
+			<Scale>0.9</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:altmer_city.nif::1x2_03">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+		<ArtRef Name="generic:altmer_city_modern.nif::1x2_03">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.6</Scale>
+			<Scale>0.9</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:altmer_city.nif::2x1_01">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+		<ArtRef Name="generic:altmer_city_modern.nif::2x1_01">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.6</Scale>
+			<Scale>0.9</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:altmer_city.nif::2x1_02">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+		<ArtRef Name="generic:altmer_city_modern.nif::2x1_02">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.6</Scale>
+			<Scale>0.9</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:altmer_city.nif::2x1_03">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+		<ArtRef Name="generic:altmer_city_modern.nif::2x1_03">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.6</Scale>
-		</ArtRef>
-		<!--  DUNMER ANCIENT -->
-		<ArtRef Name="generic:an_dun.nif::1x2x2_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_dun.nif::1x2x2_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_dun.nif::1x2x2_03">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_dun.nif::1x2x2_04">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_dun.nif::1x2x2_05">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_dun.nif::2x1x2_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_dun.nif::2x1x2_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_dun.nif::2x1x2_03">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_dun.nif::2x1x2_04">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<!-- DUNMER MEDIEVAL -->
-		<ArtRef Name="generic:med_dun.nif::1x2x2_01">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:med_dun.nif::1x2x2_02">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:med_dun.nif::1x2x2_03">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:med_dun.nif::1x2x2_04">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:med_dun.nif::1x2x2_05">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-			<ArtRef Name="generic:med_dun.nif::2x1x2_01">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:med_dun.nif::2x1x2_02">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:med_dun.nif::2x1x2_03">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:med_dun.nif::2x1x2_04">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
+			<Scale>0.9</Scale>
 		</ArtRef>
 		<!--  KHAJIIT ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_khaj.nif::2x1_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>1</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_khaj.nif::2x1_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>1</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_khaj.nif::2x1_03">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>1</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_khaj.nif::2x1_04">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>1</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_khaj.nif::1x2_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>1</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_khaj.nif::1x2_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>1</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_khaj.nif::1x2_03">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>1</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_khaj.nif::1x2_04">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
@@ -2235,49 +1740,49 @@
 		<!-- KHAJIIT MEDIEVAL  -->
 		<ArtRef Name="generic:Meso-American_City.nif::2x1_01">
 			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:Meso-American_City.nif::2x1_02">
 			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:Meso-American_City.nif::2x1_03">
 			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:Meso-American_City.nif::2x1_04">
 			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:Meso-American_City.nif::1x2_01">
 			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:Meso-American_City.nif::1x2_02">
 			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:Meso-American_City.nif::1x2_03">
 			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:Meso-American_City.nif::1x2_04">
 			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
@@ -2330,6 +1835,104 @@
 			<Attribute Class="Artstyle">ARTSTYLE_AILEYD</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
+		<!-- DUNMER ANCIENT  -->
+		<ArtRef Name="generic:Redoran.nif::2x1_01">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Redoran.nif::2x1_02">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Redoran.nif::2x1_03">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Redoran.nif::2x1_04">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Redoran.nif::1x2_01">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Redoran.nif::1x2_02">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Redoran.nif::1x2_03">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Redoran.nif::1x2_04">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<!-- DUNMER MEDIEVAL  -->
+		<ArtRef Name="generic:Hlaalu.nif::2x1_01">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Hlaalu.nif::2x1_02">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Hlaalu.nif::2x1_03">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Hlaalu.nif::2x1_04">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Hlaalu.nif::1x2_01">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Hlaalu.nif::1x2_02">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Hlaalu.nif::1x2_03">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Hlaalu.nif::1x2_04">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
 		<!-- MADNESS MEDIEVAL  -->
 		<ArtRef Name="generic:MADNESS_City.nif::2x1_01">
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -2380,51 +1983,100 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<!-- DWEMER MEDIEVAL  -->
+		<ArtRef Name="generic:DWEMER_City_classic.nif::2x1_01">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:DWEMER_City_classic.nif::2x1_02">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:DWEMER_City_classic.nif::2x1_03">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:DWEMER_City_classic.nif::2x1_04">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:DWEMER_City_classic.nif::1x2_01">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:DWEMER_City_classic.nif::1x2_02">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:DWEMER_City_classic.nif::1x2_03">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:DWEMER_City_classic.nif::1x2_04">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<!-- DWEMER MEDIEVAL  -->
 		<ArtRef Name="generic:DWEMER_City.nif::2x1_01">
 			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:DWEMER_City.nif::2x1_02">
 			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:DWEMER_City.nif::2x1_03">
 			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:DWEMER_City.nif::2x1_04">
 			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:DWEMER_City.nif::1x2_01">
 			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:DWEMER_City.nif::1x2_02">
 			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:DWEMER_City.nif::1x2_03">
 			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:DWEMER_City.nif::1x2_04">
 			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
@@ -2554,11 +2206,6 @@
 		
 		
 		
-		
-		
-		
-		
-		
 		<!-- LEAF 2x1 BUILDINGS -->
 		<ArtRef Name="building:LSYSTEM_2x1">
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -2576,25 +2223,25 @@
 		<!-- KHAJIIT MEDIEVAL  -->
 		<ArtRef Name="generic:Meso-American_City.nif::3x1_01">
 			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:Meso-American_City.nif::3x1_02">
 			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:Meso-American_City.nif::1x3_01">
 			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:Meso-American_City.nif::1x3_02">
 			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
@@ -2623,6 +2270,56 @@
 			<Attribute Class="Artstyle">ARTSTYLE_AILEYD</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
+		<!-- DUNMER ANCIENT -->
+		<ArtRef Name="generic:Redoran.nif::3x1_01">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Redoran.nif::3x1_02">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Redoran.nif::1x3_01">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Redoran.nif::1x3_02">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<!-- DUNMER ANCIENT -->
+		<ArtRef Name="generic:Hlaalu.nif::3x1_01">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Hlaalu.nif::3x1_02">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Hlaalu.nif::1x3_01">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Hlaalu.nif::1x3_02">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
 		<!-- MADNESS MEDIEVAL  -->
 		<ArtRef Name="generic:MADNESS_City.nif::3x1_01">
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -2648,28 +2345,53 @@
 			<Attribute Class="Artstyle">ARTSTYLE_MADNESS</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
+		<!-- DWEMER ANCIENT  -->
+		<ArtRef Name="generic:DWEMER_City_classic.nif::3x1_01">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:DWEMER_City_classic.nif::3x1_02">
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:DWEMER_City_classic.nif::1x3_01">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:DWEMER_City_classic.nif::1x3_02">
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
 		<!-- DWEMER MEDIEVAL  -->
 		<ArtRef Name="generic:DWEMER_City.nif::3x1_01">
 			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:DWEMER_City.nif::3x1_02">
 			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:DWEMER_City.nif::1x3_01">
 			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:DWEMER_City.nif::1x3_02">
 			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
@@ -2722,22 +2444,6 @@
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-		</ArtRef>
-		
-		
-		
-		<!-- ELF -->
-		<ArtRef Name="generic:an_ljosalfar.nif::1x3_01">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.0</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_ljosalfar.nif::3x1_01">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.0</Scale>
 		</ArtRef>
 		
 		<!-- BRETON MEDIEVAL -->
@@ -2803,88 +2509,30 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>1.0</Scale>
 		</ArtRef>
-		<!-- NORD CLASSICAL -->
-		<ArtRef Name="generic:clas_nord.nif::3x1_01">
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-		</ArtRef>
-		<ArtRef Name="generic:clas_nord.nif::1x3_01">
-			<Attribute Class="Rotation">90,270</Attribute>
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-		</ArtRef>
-		<!-- ARGONIAN ANCIENT -->
-		<ArtRef Name="generic:an_arg.nif::1x3_01">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_arg.nif::3x1_01">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<!-- ARGONIAN CLASSICAL -->
-		<ArtRef Name="generic:clas_arg.nif::1x3_01">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:clas_arg.nif::3x1_01">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<!-- ARGONIAN RENAISSANCE -->
-		<ArtRef Name="generic:ren_arg.nif::1x3_01">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:ren_arg.nif::3x1_01">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
 		<!--  ALTMER ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:altmer_city.nif::3x1_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:altmer_city.nif::3x1_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:altmer_city.nif::1x3_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:altmer_city.nif::1x3_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
@@ -2892,28 +2540,28 @@
 		</ArtRef>
 		<!--  KHAJIIT ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_khaj.nif::3x1_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>1</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_khaj.nif::3x1_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Scale>1</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_khaj.nif::1x3_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Scale>1</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_khaj.nif::1x3_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
@@ -3000,15 +2648,6 @@
 			<Scale>1.0</Scale>
 		</ArtRef>
 		
-		
-		
-		<ArtRef Name="generic:an_ljosalfar.nif::2x2_01">
-			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_LJOSALFAR,ARTSTYLE_SVARTALFAR</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.0</Scale>
-		</ArtRef>
-		
 		<!-- BRETON MEDIEVAL-->
 		<ArtRef Name="generic:an_civil.nif::2x2_01">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -3056,13 +2695,13 @@
 		</ArtRef>
 		<!--  NORD ANCIENT -->
 		<ArtRef Name="generic:an_nord.nif::2x2x2_01">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_nord.nif::2x2x2_02">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
@@ -3077,6 +2716,19 @@
 		<ArtRef Name="generic:telvanni.nif::2x2x2_02">
 			<Attribute Class="Era">ERA_ALL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_TELVANNI</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+			<Scale>0.9</Scale>
+		</ArtRef>
+		<!--  ARGONIAN ANCIENT -->
+		<ArtRef Name="generic:ARGONIAN.nif::2x2x2_01">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+			<Scale>0.9</Scale>
+		</ArtRef>
+		<ArtRef Name="generic:ARGONIAN.nif::2x2x2_02">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
@@ -3135,126 +2787,76 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
-		<!-- ARGONIAN ANCIENT -->
-		<ArtRef Name="generic:an_arg.nif::2x2_01">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<!-- ARGONIAN CLASSICAL -->
-		<ArtRef Name="generic:clas_arg.nif::2x2_01">
-			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
-		<!-- ARGONIAN RENAISSANCE -->
-		<ArtRef Name="generic:ren_arg.nif::2x2_01">
-			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
-			<Attribute Class="Scalar">bHasNoShadow:1</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>1.1</Scale>
-		</ArtRef>
 		<!--  ALTMER ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:altmer_city.nif::2x2_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:altmer_city.nif::2x2_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:altmer_city.nif::2x2_03">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:altmer_city.nif::2x2_04">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<!-- ALTMER MEDIEVAL -->
-		<ArtRef Name="generic:altmer_city.nif::2x2_01">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+		<ArtRef Name="generic:altmer_city_modern.nif::2x2_01">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.6</Scale>
+			<Scale>0.9</Scale>
 		</ArtRef>
-		<ArtRef Name="generic:altmer_city.nif::2x2_02">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+		<ArtRef Name="generic:altmer_city_modern.nif::2x2_02">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
-			<Scale>0.6</Scale>
-		</ArtRef>
-		<!-- DUNMER ANCIENT  -->
-		<ArtRef Name="generic:an_dun.nif::2x2x2_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:an_dun.nif::2x2x2_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<!-- DUNMER MEDIEVAL-->
-		<ArtRef Name="generic:med_dun.nif::2x2x2_01">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
-		</ArtRef>
-		<ArtRef Name="generic:med_dun.nif::2x2x2_02">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">iBatchGroup:1</Attribute>
-			<Scale>0.8</Scale>
+			<Scale>0.9</Scale>
 		</ArtRef>
 		<!--  KHAJIIT ANCIENT/CLASSICAL -->
 		<ArtRef Name="generic:an_khaj.nif::2x2_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_khaj.nif::2x2_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<ArtRef Name="generic:an_khaj.nif::2x2_03">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 			<Scale>0.9</Scale>
 		</ArtRef>
 		<!-- KHAJIIT MEDIEVAL  -->
 		<ArtRef Name="generic:Meso-American_City.nif::2x2_01">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:Meso-American_City.nif::2x2_02">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:Meso-American_City.nif::2x2_03">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
@@ -3274,6 +2876,38 @@
 			<Attribute Class="Artstyle">ARTSTYLE_AILEYD</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
+		<!-- DUNMER ANCIENT -->
+		<ArtRef Name="generic:Redoran.nif::2x2_01">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Redoran.nif::2x2_02">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Redoran.nif::2x2_03">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<!-- DUNMER Medieval -->
+		<ArtRef Name="generic:Hlaalu.nif::2x2_01">
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Hlaalu.nif::2x2_02">
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:Hlaalu.nif::2x2_03">
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
 		<!-- MADNESS MEDIEVAL  -->
 		<ArtRef Name="generic:MADNESS_City.nif::2x2_01">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -3291,18 +2925,34 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<!-- DWEMER MEDIEVAL  -->
+		<ArtRef Name="generic:DWEMER_City_classic.nif::2x2_01">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:DWEMER_City_classic.nif::2x2_02">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<ArtRef Name="generic:DWEMER_City_classic.nif::2x2_03">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
+		</ArtRef>
+		<!-- DWEMER MEDIEVAL  -->
 		<ArtRef Name="generic:DWEMER_City.nif::2x2_01">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:DWEMER_City.nif::2x2_02">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:DWEMER_City.nif::2x2_03">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
@@ -3796,19 +3446,23 @@
 		</ArtRef>
 		<ArtRef Name="decoration:gravel.nif::4x2">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_4x2.nif">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_4x2.nif">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_AILEYD</Attribute>
+		</ArtRef>
+		<ArtRef Name="decoration:grey_city_lot_4x2.nif">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:darkgrass.nif::4x2">
 			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_LJOSALFAR</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
 		</ArtRef>		
 		<ArtRef Name="decoration:darktiles.nif::4x2">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -3820,7 +3474,7 @@
 		</ArtRef>
 		<ArtRef Name="decoration:native_lot.nif::4x2">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:all_city_lot_4x2.nif">
 			<Attribute Class="Era">ERA_ALL</Attribute>
@@ -3905,19 +3559,23 @@
 		</ArtRef>
 		<ArtRef Name="decoration:gravel.nif::3x2">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_3x2.nif">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_3x2.nif">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_AILEYD</Attribute>
+		</ArtRef>
+		<ArtRef Name="decoration:grey_city_lot_3x2.nif">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:darkgrass.nif::3x2">
 			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_LJOSALFAR</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
 		</ArtRef>		
 		<ArtRef Name="decoration:darktiles.nif::3x2">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -3929,7 +3587,7 @@
 		</ArtRef>
 		<ArtRef Name="decoration:native_lot.nif::3x2">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:all_city_lot_3x2.nif">
 			<Attribute Class="Era">ERA_ALL</Attribute>
@@ -3992,19 +3650,23 @@
 		</ArtRef>
 		<ArtRef Name="decoration:gravel.nif::4x1">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_4x1.nif">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_4x1.nif">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_AILEYD</Attribute>
+		</ArtRef>
+		<ArtRef Name="decoration:grey_city_lot_4x1.nif">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:darkgrass.nif::4x1">
 			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_LJOSALFAR</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
 		</ArtRef>		
 		<ArtRef Name="decoration:darktiles.nif::4x1">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -4016,7 +3678,7 @@
 		</ArtRef>
 		<ArtRef Name="decoration:native_lot.nif::4x1">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:all_city_lot_4x1.nif">
 			<Attribute Class="Era">ERA_ALL</Attribute>
@@ -4057,19 +3719,23 @@
 		</ArtRef>
 		<ArtRef Name="decoration:gravel.nif::3x1">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_3x1.nif">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_3x1.nif">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_AILEYD</Attribute>
+		</ArtRef>
+		<ArtRef Name="decoration:grey_city_lot_3x1.nif">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:darkgrass.nif::3x1">
 			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_LJOSALFAR</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
 		</ArtRef>		
 		<ArtRef Name="decoration:darktiles.nif::3x1">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -4125,19 +3791,23 @@
 		</ArtRef>
 		<ArtRef Name="decoration:gravel.nif::3x1">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_3x1.nif">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_3x1.nif">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_AILEYD</Attribute>
+		</ArtRef>
+		<ArtRef Name="decoration:grey_city_lot_3x1.nif">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:darkgrass.nif::3x1">
 			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_LJOSALFAR</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
 		</ArtRef>		
 		<ArtRef Name="decoration:darktiles.nif::3x1">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -4149,7 +3819,7 @@
 		</ArtRef>
 		<ArtRef Name="decoration:native_lot.nif::3x1">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:all_city_lot_3x1.nif">
 			<Attribute Class="Era">ERA_ALL</Attribute>
@@ -4173,19 +3843,23 @@
 		</ArtRef>
 		<ArtRef Name="decoration:gravel.nif::3x1">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_3x1.nif">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_3x1.nif">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_AILEYD</Attribute>
+		</ArtRef>
+		<ArtRef Name="decoration:grey_city_lot_3x1.nif">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:darkgrass.nif::3x1">
 			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_LJOSALFAR</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
 		</ArtRef>		
 		<ArtRef Name="decoration:darktiles.nif::3x1">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -4197,7 +3871,7 @@
 		</ArtRef>
 		<ArtRef Name="decoration:native_lot.nif::3x1">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:all_city_lot_3x1.nif">
 			<Attribute Class="Era">ERA_ALL</Attribute>
@@ -4219,19 +3893,23 @@
 		</ArtRef>
 		<ArtRef Name="decoration:gravel.nif::2x2">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_2x2.nif">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_2x2.nif">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_AILEYD</Attribute>
+		</ArtRef>
+		<ArtRef Name="decoration:grey_city_lot_2x2.nif">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:darkgrass.nif::2x2">
 			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_LJOSALFAR</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
 		</ArtRef>		
 		<ArtRef Name="decoration:darktiles.nif::2x2">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -4243,7 +3921,7 @@
 		</ArtRef>
 		<ArtRef Name="decoration:native_lot.nif::2x2">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:all_city_lot_2x2.nif">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
@@ -4316,19 +3994,23 @@
 		</ArtRef>
 		<ArtRef Name="decoration:gravel.nif::2x1">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_2x1.nif">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_2x1.nif">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_AILEYD</Attribute>
+		</ArtRef>
+		<ArtRef Name="decoration:grey_city_lot_2x1.nif">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:darkgrass.nif::2x1">
 			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_LJOSALFAR</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
 		</ArtRef>		
 		<ArtRef Name="decoration:darktiles.nif::2x1">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -4340,7 +4022,7 @@
 		</ArtRef>
 		<ArtRef Name="decoration:native_lot.nif::2x1">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:all_city_lot_2x1.nif">
 			<Attribute Class="Era">ERA_ALL</Attribute>
@@ -4361,19 +4043,23 @@
 		</ArtRef>
 		<ArtRef Name="decoration:gravel.nif::2x1">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_2x1.nif">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_2x1.nif">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_AILEYD</Attribute>
+		</ArtRef>
+		<ArtRef Name="decoration:grey_city_lot_2x1.nif">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:darkgrass.nif::2x1">
 			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_LJOSALFAR</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
 		</ArtRef>		
 		<ArtRef Name="decoration:darktiles.nif::2x1">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -4385,7 +4071,7 @@
 		</ArtRef>
 		<ArtRef Name="decoration:native_lot.nif::2x1">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:all_city_lot_2x1.nif">
 			<Attribute Class="Era">ERA_ALL</Attribute>
@@ -4407,19 +4093,23 @@
 		</ArtRef>
 		<ArtRef Name="decoration:gravel.nif::2x1">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_2x1.nif">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:grey_city_lot_2x1.nif">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_AILEYD</Attribute>
+		</ArtRef>
+		<ArtRef Name="decoration:grey_city_lot_2x1.nif">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_ORC</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:darkgrass.nif::2x1">
 			<Attribute Class="Era">ERA_ALL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_LJOSALFAR</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
 		</ArtRef>		
 		<ArtRef Name="decoration:darktiles.nif::2x1">
 			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -4431,7 +4121,7 @@
 		</ArtRef>
 		<ArtRef Name="decoration:native_lot.nif::2x1">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER,ARTSTYLE_NORD,ARTSTYLE_ORC,ARTSTYLE_TELVANNI,ARTSTYLE_DWEMER</Attribute>
 		</ArtRef>
 		<ArtRef Name="decoration:all_city_lot_2x1.nif">
 			<Attribute Class="Era">ERA_ALL</Attribute>

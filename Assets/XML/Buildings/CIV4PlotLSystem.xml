@@ -302,7 +302,7 @@
 		<!-- Villages, etc -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_eu.nif::1x1_01</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
@@ -311,7 +311,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_eu.nif::1x1_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
@@ -320,7 +320,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_eu.nif::1x1_03</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
@@ -329,7 +329,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_eu.nif::1x1_04</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
@@ -338,7 +338,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_eu.nif::1x1_05</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
@@ -347,7 +347,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_eu.nif::1x1_06</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
@@ -402,7 +402,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_eu.nif::1x1x2_01</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
@@ -411,7 +411,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_eu.nif::1x1x2_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
@@ -420,7 +420,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_eu.nif::1x1x2_03</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
@@ -431,7 +431,7 @@
 		<!-- RENAISSANCE -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ren_eu.nif::park_1x1</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
@@ -440,7 +440,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ren_eu.nif::1x1_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
@@ -449,7 +449,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ren_eu.nif::1x1_03</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
@@ -458,7 +458,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ren_eu.nif::1x1_04</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
@@ -670,6 +670,144 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
 			<Scale>0.3</Scale>
 		</ArtRef>
+		<!--  DUNMER ANCIENT -->
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/redoran.nif::1x1_01</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/redoran.nif::1x1_02</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/redoran.nif::1x1_03</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/redoran.nif::1x1_04</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/redoran.nif::2x1_02</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<!--  DUNMER MEDIEVAL -->
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/hlaalu.nif::1x1_01</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/hlaalu.nif::1x1_02</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/hlaalu.nif::1x1_03</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/hlaalu.nif::1x1_04</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_MEDIEVAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/hlaalu.nif::2x1_02</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<!--  DUNMER MODERN -->
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/Indoril.nif::1x1_01</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/Indoril.nif::1x1_02</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/Indoril.nif::1x1_03</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/Indoril.nif::1x1_04</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/Indoril.nif::2x1_02</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
 		<!--  MADNESS ANCIENT -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
@@ -718,7 +856,53 @@
 		</ArtRef>
 		<!--  DWEMER ANCIENT -->
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/DWEMER_City_classic.nif::1x1_01</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/DWEMER_City_classic.nif::1x1_02</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/DWEMER_City_classic.nif::1x1_03</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/DWEMER_City_classic.nif::1x1_04</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/DWEMER_City_classic.nif::2x1_02</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<!--  DWEMER MODERN -->
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/DWEMER_City.nif::1x1_01</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -727,7 +911,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/DWEMER_City.nif::1x1_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -736,7 +920,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/DWEMER_City.nif::1x1_03</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -745,7 +929,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/DWEMER_City.nif::1x1_04</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -754,7 +938,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_DWEMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/DWEMER_City.nif::2x1_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -810,7 +994,7 @@
 		</ArtRef>
 		<!--  NORD ANCIENT -->
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_nord.nif::1x1x1_01</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -819,7 +1003,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_nord.nif::1x1x1_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -828,7 +1012,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_nord.nif::1x1x2_01</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -837,7 +1021,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_nord.nif::1x1x2_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -846,7 +1030,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_nord.nif::1x1x2_03</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -854,7 +1038,7 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
 			<Scale>0.3</Scale>
 		</ArtRef>
-		<!--  NORD TELVANNI-->
+		<!--  TELVANNI-->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_ALL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_TELVANNI</Attribute>
@@ -900,60 +1084,51 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
 			<Scale>0.3</Scale>
 		</ArtRef>
-		<!-- NORD CLASSICAL  -->
+		<!--  ARGONIAN-->
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/clas_nord.nif::1x1_01</Attribute>
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ARGONIAN.nif::1x1x1_01</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.35</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/clas_nord.nif::1x1_02</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ARGONIAN.nif::1x1x1_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.35</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/clas_nord.nif::1x1_06</Attribute>
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ARGONIAN.nif::1x1x2_01</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.35</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/clas_nord.nif::1x1_07</Attribute>
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ARGONIAN.nif::1x1x2_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.35</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/clas_nord.nif::1x1_08</Attribute>
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ARGONIAN.nif::1x1x2_03</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.35</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/clas_nord.nif::1x1_09</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.35</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
 		</ArtRef>
 		<!-- NORD MEDIEVAL  -->
 		<ArtRef Name="art:building">
@@ -1086,7 +1261,7 @@
 		</ArtRef>
 		<!-- ALTMER ANCIENT -->
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x1_01</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1095,7 +1270,7 @@
 			<Scale>0.30</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x1_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1104,7 +1279,7 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x1_03</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1113,7 +1288,7 @@
 			<Scale>0.30</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x1_04</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1122,7 +1297,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x1_05</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1130,156 +1305,55 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
 			<Scale>0.30</Scale>
 		</ArtRef>
-		<!-- ALTMER MEDIEVAL -->
+		<!--  ALTMER MODERN -->
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x1_01</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.17</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x1_02</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.17</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x1_03</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.17</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x1_04</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.17</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x1_05</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.17</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x1_06</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.17</Scale>
-		</ArtRef>
-		<!--  DUNMER ANCIENT -->
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_dun.nif::1x1x1_01</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ALTMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/Altmer_city_modern.nif::1x1_01</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
-			<Scale>0.25</Scale>
+			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_dun.nif::1x1x1_02</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ALTMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/Altmer_city_modern.nif::1x1_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
-			<Scale>0.25</Scale>
+			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_dun.nif::1x1x2_01</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ALTMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/Altmer_city_modern.nif::1x1_03</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
-			<Scale>0.25</Scale>
+			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_dun.nif::1x1x2_02</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ALTMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/Altmer_city_modern.nif::1x1_04</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
-			<Scale>0.25</Scale>
+			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_dun.nif::1x1x2_03</Attribute>
+			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Artstyle">ARTSTYLE_ALTMER</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/Altmer_city_modern.nif::2x1_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
-			<Scale>0.25</Scale>
-		</ArtRef>
-		<!-- DUNMER MEDIEVAL -->
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_dun.nif::1x1x1_01</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.27</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_dun.nif::1x1x1_02</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.27</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_dun.nif::1x1x2_01</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.27</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_dun.nif::1x1x2_02</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.27</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_dun.nif::1x1x2_03</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.27</Scale>
+			<Scale>0.3</Scale>
 		</ArtRef>
 		<!-- KHAJIIT ANCIENT -->
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_khaj.nif::1x1_01</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1288,7 +1362,7 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_khaj.nif::1x1_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1297,7 +1371,7 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_khaj.nif::1x1_03</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1306,7 +1380,7 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_khaj.nif::1x1_04</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1316,7 +1390,7 @@
 		</ArtRef>
 		<!-- KHAJIIT MEDIEVAL  -->
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_khaj.nif::1x1x1_01</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1325,7 +1399,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_khaj.nif::1x1x1_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1334,7 +1408,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_khaj.nif::1x1x2_01</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1343,7 +1417,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_khaj.nif::1x1x2_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1352,7 +1426,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_khaj.nif::1x1x2_03</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1517,7 +1591,7 @@
 		
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_eu.nif::1x2_01</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1527,7 +1601,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_eu.nif::1x2_02</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1537,7 +1611,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_eu.nif::2x1_01</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1547,7 +1621,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_eu.nif::2x1_02</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1557,7 +1631,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_eu.nif::2x1_03</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1567,7 +1641,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_EUROPEAN,ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_eu.nif::2x1_04</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1579,7 +1653,7 @@
 		<!-- medieval -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_eu.nif::1x2x2_01</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1589,7 +1663,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_eu.nif::1x2x2_02</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1599,7 +1673,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_eu.nif::1x2x2_03</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1609,7 +1683,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_eu.nif::1x2x2_04</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1619,7 +1693,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_eu.nif::1x2x2_05</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1630,7 +1704,7 @@
 
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_eu.nif::2x1x2_01</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1640,7 +1714,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_eu.nif::2x1x2_02</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1650,7 +1724,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_eu.nif::2x1x2_03</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1660,7 +1734,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_eu.nif::2x1x2_04</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1672,7 +1746,7 @@
 		<!-- renaissance -->
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ren_eu.nif::park_2x1</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1683,7 +1757,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ren_eu.nif::1x2_01</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1693,7 +1767,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ren_eu.nif::1x2_02</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1703,7 +1777,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ren_eu.nif::1x2_03</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1713,7 +1787,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ren_eu.nif::1x2_04</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1723,7 +1797,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ren_eu.nif::1x2_05</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1734,7 +1808,7 @@
 
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ren_eu.nif::park_2x1</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1744,7 +1818,7 @@
 		</ArtRef>		
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ren_eu.nif::park_2x1_05</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1754,7 +1828,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ren_eu.nif::2x1_01</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1764,7 +1838,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ren_eu.nif::2x1_02</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1774,7 +1848,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ren_eu.nif::2x1_03</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -1784,7 +1858,7 @@
 		</ArtRef>
 		<ArtRef Name="art:building">
 			<Attribute Class="Era">ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER,ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_BARBARIAN,ARTSTYLE_BOSMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ren_eu.nif::2x1_04</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -2031,7 +2105,7 @@
 		</ArtRef>
 		<!--  NORD ANCIENT -->
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_nord.nif::1x2x2_01</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
@@ -2041,7 +2115,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_nord.nif::1x2x2_02</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
@@ -2051,7 +2125,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_nord.nif::1x2x2_03</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
@@ -2061,7 +2135,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_nord.nif::1x2x2_04</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
@@ -2071,7 +2145,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_nord.nif::1x2x2_05</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
@@ -2081,7 +2155,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_nord.nif::2x1x2_01</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -2091,7 +2165,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_nord.nif::2x1x2_02</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -2101,7 +2175,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_nord.nif::2x1x2_03</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -2111,7 +2185,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_NORD</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_nord.nif::2x1x2_04</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -2211,56 +2285,96 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
 			<Scale>0.3</Scale>
 		</ArtRef>
-		<!-- NORD CLASSICAL  -->
+		<!--  ARGONIAN ANCIENT -->
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/clas_nord.nif::2x1_01</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.35</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/clas_nord.nif::2x1_02</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.35</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/clas_nord.nif::2x1_03</Attribute>
-			<Attribute Class="Rotation">0,180</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.35</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/clas_nord.nif::1x2_01</Attribute>
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ARGONIAN.nif::1x2x2_01</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.35</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_CLASSICAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_NORD</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/clas_nord.nif::1x2_02</Attribute>
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ARGONIAN.nif::1x2x2_02</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
 			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.35</Scale>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ARGONIAN.nif::1x2x2_03</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ARGONIAN.nif::1x2x2_04</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ARGONIAN.nif::1x2x2_05</Attribute>
+			<Attribute Class="Rotation">90,270</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ARGONIAN.nif::2x1x2_01</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ARGONIAN.nif::2x1x2_02</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ARGONIAN.nif::2x1x2_03</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
+		</ArtRef>
+		<ArtRef Name="art:building">
+			<Attribute Class="Era">ERA_ALL</Attribute>
+			<Attribute Class="ArtStyle">ARTSTYLE_ARGONIAN</Attribute>
+			<Attribute Class="Scalar">NIF:Art/Structures/Cities/ARGONIAN.nif::2x1x2_04</Attribute>
+			<Attribute Class="Rotation">0,180</Attribute>
+			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
+			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
+			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
+			<Scale>0.3</Scale>
 		</ArtRef>
 		<!-- NORD MEDIEVAL  -->
 		<ArtRef Name="art:building">
@@ -2590,7 +2704,7 @@
 		</ArtRef>
 		<!-- ALTMER ANCIENT -->
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::2x1_01</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -2600,7 +2714,7 @@
 			<Scale>0.30</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::2x1_02</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -2610,7 +2724,7 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::2x1_03</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -2620,7 +2734,7 @@
 			<Scale>0.30</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::2x1_04</Attribute>
 			<Attribute Class="Rotation">0,180</Attribute>
@@ -2630,7 +2744,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x2_01</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
@@ -2640,7 +2754,7 @@
 			<Scale>0.30</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x2_02</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
@@ -2650,7 +2764,7 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x2_03</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
@@ -2660,7 +2774,7 @@
 			<Scale>0.30</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL,ERA_MEDIEVAL</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x2_04</Attribute>
 			<Attribute Class="Rotation">90,270</Attribute>
@@ -2669,228 +2783,9 @@
 			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
 			<Scale>0.3</Scale>
 		</ArtRef>
-		<!-- ALTMER MEDIEVAL -->
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x2_01</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.17</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x2_02</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.17</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::1x2_03</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.17</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::2x1_01</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.17</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::2x1_02</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.17</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_ALTMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/altmer_City.nif::2x1_03</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.17</Scale>
-		</ArtRef>
-		<!--  DUNMER ANCIENT -->
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_dun.nif::1x2x2_01</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
-			<Scale>0.25</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_dun.nif::1x2x2_02</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
-			<Scale>0.25</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_dun.nif::1x2x2_03</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
-			<Scale>0.25</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_dun.nif::1x2x2_04</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
-			<Scale>0.25</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_dun.nif::1x2x2_05</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
-			<Scale>0.25</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_dun.nif::2x1x2_01</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
-			<Scale>0.25</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_dun.nif::2x1x2_02</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
-			<Scale>0.25</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_dun.nif::2x1x2_03</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
-			<Scale>0.25</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
-			<Attribute Class="ArtStyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_dun.nif::2x1x2_04</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_med_eu</Attribute>
-			<Scale>0.25</Scale>
-		</ArtRef>
-		<!-- DUNMER MEDIEVAL -->
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_dun.nif::2x1x2_01</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.27</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_dun.nif::2x1x2_02</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.27</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_dun.nif::2x1x2_03</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.27</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_dun.nif::2x1x2_04</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.27</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_dun.nif::1x2x2_01</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.27</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_dun.nif::1x2x2_02</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.27</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_dun.nif::1x2x2_03</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.27</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_dun.nif::1x2x2_04</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.27</Scale>
-		</ArtRef>
-		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
-			<Attribute Class="Artstyle">ARTSTYLE_DUNMER</Attribute>
-			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_dun.nif::1x2x2_05</Attribute>
-			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
-			<Attribute Class="Scalar">szForceContourNode:BUILDING</Attribute>
-			<Attribute Class="Scalar">szBatchGroup:buildings_an_eu</Attribute>
-			<Scale>0.27</Scale>
-		</ArtRef>
 		<!-- KHAJIIT ANCIENT -->
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_khaj.nif::1x2_01</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -2899,7 +2794,7 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_khaj.nif::1x2_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -2908,7 +2803,7 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_khaj.nif::1x2_03</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -2917,7 +2812,7 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_khaj.nif::1x2_04</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -2926,7 +2821,7 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_khaj.nif::2x1_01</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -2935,7 +2830,7 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_khaj.nif::2x1_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -2944,7 +2839,7 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_khaj.nif::2x1_03</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -2953,7 +2848,7 @@
 			<Scale>0.35</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_ANCIENT,ERA_CLASSICAL</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/an_khaj.nif::2x1_04</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -2963,7 +2858,7 @@
 		</ArtRef>
 		<!-- KHAJIIT MEDIEVAL  -->
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_khaj.nif::1x2x2_01</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -2972,7 +2867,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_khaj.nif::1x2x2_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -2981,7 +2876,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_khaj.nif::1x2x2_03</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -2990,7 +2885,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_khaj.nif::1x2x2_04</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -2999,7 +2894,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_khaj.nif::1x2x2_05</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -3008,7 +2903,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_khaj.nif::2x1x2_01</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -3017,7 +2912,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_khaj.nif::2x1x2_02</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -3026,7 +2921,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_khaj.nif::2x1x2_03</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
@@ -3035,7 +2930,7 @@
 			<Scale>0.3</Scale>
 		</ArtRef>
 		<ArtRef Name="art:building">
-			<Attribute Class="Era">ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
+			<Attribute Class="Era">ERA_CLASSICAL,ERA_MEDIEVAL,ERA_RENAISSANCE,ERA_INDUSTRIAL</Attribute>
 			<Attribute Class="Artstyle">ARTSTYLE_KHAJIIT</Attribute>
 			<Attribute Class="Scalar">NIF:Art/Structures/Cities/med_khaj.nif::2x1x2_04</Attribute>
 			<Attribute Class="Improvement">IMPROVEMENT_COTTAGE,IMPROVEMENT_HAMLET,IMPROVEMENT_VILLAGE,IMPROVEMENT_TOWN</Attribute>
