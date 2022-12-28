@@ -318,11 +318,11 @@
 		</BuildingArtInfo>
 		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_VIVEC</Type>
-			<LSystem>LSYSTEM_WATER</LSystem>
+			<LSystem>LSYSTEM_WHITE_GOLD</LSystem>
 			<bAnimated>0</bAnimated>
-			<fScale>0.035</fScale>
-			<fInterfaceScale>0.4</fInterfaceScale>
-			<NIF>Art/wonders/vivec/palace3.nif</NIF>
+			<fScale>0.4</fScale>
+			<fInterfaceScale>0.2</fInterfaceScale>
+			<NIF>Art/wonders/vivec/vivec3.nif</NIF>
 			<KFM/>
 			<Button>Art/wonders/vivec.dds</Button>
 		</BuildingArtInfo>

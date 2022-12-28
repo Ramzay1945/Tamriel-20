@@ -1198,7 +1198,7 @@
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>0</bAIPlayable>
 			<Cities>
-				<City>Choroll</City>
+				<City>Chorrol</City>
 				<City>Skingrad</City>
 				<City>Bruma</City>
 				<City>Weyon</City>
@@ -1515,7 +1515,7 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_ANVIL</LeaderName>
+					<LeaderName>LEADER_BENDU_OLO</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
@@ -2222,6 +2222,10 @@
 					<UnitType>UNIT_NOBLEMAN_BRETON</UnitType>
 				</Unit>
 				<Unit>
+					<UnitClassType>UNITCLASS_LIGHT_CAVALRY</UnitClassType>
+					<UnitType>UNIT_CENTAUR_BRETON</UnitType>
+				</Unit>
+				<Unit>
 					<UnitClassType>UNITCLASS_SPRIGGAN</UnitClassType>
 					<UnitType>NONE</UnitType>
 				</Unit>
@@ -2413,6 +2417,10 @@
 				<Unit>
 					<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
 					<UnitType>UNIT_NOBLEMAN_BRETON</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_LIGHT_CAVALRY</UnitClassType>
+					<UnitType>UNIT_CENTAUR_BRETON</UnitType>
 				</Unit>
 				<Unit>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
