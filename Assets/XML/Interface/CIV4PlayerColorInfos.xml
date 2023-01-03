@@ -16,6 +16,13 @@
 		<PlayerColorInfo>
 			<Type>PLAYERCOLOR_WHEAT</Type>
 			<!-- ####### Argonian Colour ####### -->
+			<ColorTypePrimary>COLOR_PLAYER_CIV5_ARABIA_2</ColorTypePrimary>
+			<ColorTypeSecondary>COLOR_PLAYER_CIV5_ARABIA_1</ColorTypeSecondary>
+			<TextColorType>COLOR_PLAYER_CIV5_ARABIA_2</TextColorType>
+		</PlayerColorInfo>
+		<PlayerColorInfo>
+			<Type>PLAYERCOLOR_WHEAT2</Type>
+			<!-- ####### Black Wood Colour ####### -->
 			<ColorTypePrimary>COLOR_EDITOR_OBLIVION_LEYAWIIN_PRIMARY</ColorTypePrimary>
 			<ColorTypeSecondary>COLOR_EDITOR_OBLIVION_LEYAWIIN_SECONDARY</ColorTypeSecondary>
 			<TextColorType>COLOR_EDITOR_OBLIVION_LEYAWIIN_TEXT</TextColorType>

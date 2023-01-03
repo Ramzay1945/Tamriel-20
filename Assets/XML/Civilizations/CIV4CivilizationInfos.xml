@@ -615,48 +615,41 @@
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>1</bAIPlayable>
 			<Cities>
-				<City>Corinth</City>
 				<City>Torval</City>
 				<City>Senchal</City>
+				<City>Corinth</City>
+				<City>Alabaster</City>
+				<City>Mistral</City>
+				<City>Tenmar</City>
+				<City>River Keep</City>
+				<City>Darvulk Haven</City>
+				<City>South Guard</City>
+				<City>Darkarn Place</City>
+				<City>Duncori Walk</City>
+				<City>Black Heights</City>
+				<City>Amir'va</City>
+				<City>Helkarn</City>
+				<City>Heimthor Mount</City>
+				<City>Portneu View</City>
+				<City>Markgran</City>
+				<City>Hejta Oasis</City>
+				<City>Neumar Walk</City>
+				<City>Greenvale</City>
+				<City>Brukreich Bridge</City>
 				<City>Dune</City>
 				<City>Orcrest</City>
 				<City>Rimmen</City>
 				<City>Riverhold</City>
-				<City>Alabaster</City>
-				<City>Tenmar</City>
-				<City>Seaplace</City>
-				<City>Greenwale</City>
-				<City>River Keap</City>
-				<City>Dankori Walk</City>
-				<City>Pormeu</City>
-				<City>Cheesemoor</City>
-				<City>Kori Darglade</City>
-				<City>Zelinin</City>
-				<City>Saimisil</City>
-				<City>Ne Quin-al</City>
-				<City>Pa'alatiin</City>
-				<City>Fasiiri'khaj</City>
-				<City>Qanar</City>
-				<City>Marashka</City>
-				<City>Quin'rawl</City>
-				<City>Lynmount</City>
-				<City>Ein Meirvale</City>
-				<City>Fasiiri'a'jijri</City>
-				<City>Pal Kesh</City>
-				<City>Fusoz</City>
-				<City>Krin</City>
-				<City>Fasiiri'Da'khe</City>
-				<City>Barid</City>
-				<City>J'herash</City>
-				<City>Naba-vabazeri</City>
-				<City>Srasumen</City>
-				<City>Udrar</City>
-				<City>Pa'ralas</City>
-				<City>Iq'bakha</City>
-				<City>Ahja</City>
-				<City>Kisis</City>
-				<City>Sarid</City>
-				<City>Mahsa</City>
+				<City>Fort Sphinxmoth</City>
+				<City>Tardron Wood</City>
+				<City>Valley Guard</City>
+				<City>Verkaht Hills</City>
+				<City>Siira</City>
+				<City>Delga</City>
+				<City>Kinrashi</City>
+				<City>Zelinin Border</City>
+				<City>Miir'lay</City>
+				<City>Khazmor</City>
 			</Cities>
 			<Buildings>
 				<Building>
@@ -1029,20 +1022,19 @@
 			<bAIPlayable>0</bAIPlayable>
 			<Cities>
 				<City>Cheydinhal</City>
-				<City>Bravil</City>
-				<City>Leyawin</City>
 				<City>Farragut</City>
 				<City>Cropsford</City>
 				<City>Harm's Folly</City>
 				<City>Drakelowe</City>
 				<City>Fort Grief</City>
-				<City>Border Watch</City>
-				<City>Water's Edge</City>
-				<City>Blankenmarch</City>
-				<City>Greyland</City>
+				<City>Fort Scinia</City>
+				<City>Thorn Lodge</City>
 				<City>Arkved's Tower</City>
-				<City>Fort Blueblood</City>
-				<City>Fort Teleman</City>
+				<City>Cadlew</City>
+				<City>Fort Facian</City>
+				<City>Fort Felecia</City>
+				<City>Fort Cedrian</City>
+				<City>Rugrumph's Estate</City>
 				<City>Dive Rock</City>
 				<City>Artemon</City>
 				<City>Mir Corrup</City>
@@ -1178,6 +1170,175 @@
 			<Leaders>
 				<Leader>
 					<LeaderName>LEADER_NIBEN</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
+			</Leaders>
+			<DerivativeCiv>NONE</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_ROME_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_ROME_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+		<CivilizationInfo>
+			<Type>CIVILIZATION_LEYAWIN</Type>
+			<Description>Black Wood</Description>
+			<ShortDescription>Black Wood</ShortDescription>
+			<Adjective>TXT_KEY_CIV_IMPERIAL_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_IMPERIAL_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_WHEAT2</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_BLACK_WOOD</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_IMPERIAL</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>0</bAIPlayable>
+			<Cities>
+				<City>Leyawin</City>
+				<City>Bravil</City>
+				<City>Gideon</City>
+				<City>Fort Teleman</City>
+				<City>Border Watch</City>
+				<City>Water's Edge</City>
+				<City>Glenbridge</City>
+				<City>Rockguard</City>
+				<City>Greyland</City>
+				<City>Blankenmarch</City>
+				<City>White Stallion</City>
+				<City>Fort Blueblood</City>
+				<City>Fort Redman</City>
+				<City>Drunken Dragon</City>
+				<City>Fort Redwater</City>
+				<City>Artemon</City>
+				<City>Mir Corrup</City>
+				<City>Arrius</City>
+				<City>Irony</City>
+				<City>Scinia</City>
+				<City>Sarchal</City>
+				<City>Hal Verovar</City>
+				<City>Double Cross</City>
+				<City>Ionith</City>
+				<City>Hal Vincherik</City>
+				<City>Delodiil</City>
+				<City>Quenti Turrai</City>
+				<City>Cephoriad</City>
+				<City>Tiberiad</City>
+				<City>Ato</City>
+				<City>Caer Ancra</City>
+				<City>Balasarti</City>
+				<City>Mhorlagrad</City>
+				<City>Stirk</City>
+				<City>Dethagrad</City>
+				<City>Hal Uriel</City>
+				<City>Fax Aleshut</City>
+			</Cities>
+			<Buildings/>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_PIKEMAN</UnitClassType>
+					<UnitType>UNIT_NIBEN</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_AUTOMATON</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<UnitType>UNIT_MINOR_SETTLER</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_SPRIGGAN</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_WEREWOLF</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_MINOTAUR</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_DRAUGR</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_DREMORA</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_DRAGON</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_CLANFEAR</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_ASHLANDER</UnitClassType>
+					<UnitType>NONE</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDING_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs>
+				<FreeTech>
+					<TechType>TECH_THE_WHEEL</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+				<FreeTech>
+					<TechType>TECH_MEDITATION</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+			</FreeTechs>
+			<DisableTechs>
+				<DisableTech>
+					<TechType>TECH_MOONS</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_GREEN_PACT</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_JUNGLE_LIFE</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_GREAT_HOUSES</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_ATMORA</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_YOKUDA</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+			</DisableTechs>
+			<InitialCivics>
+				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BARBARISM</CivicType>
+				<CivicType>CIVIC_TRIBALISM</CivicType>
+				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
+				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_8_DIVINES_NONE</CivicType>
+				<CivicType>CIVIC_DAEDRA_NONE</CivicType>
+				<CivicType>CIVIC_NORDIC_NONE</CivicType>
+				<CivicType>CIVIC_ALTMER_NONE</CivicType>
+				<CivicType>CIVIC_TRIBUNAL_NONE</CivicType>
+				<CivicType>CIVIC_HOUSES_BAN</CivicType>
+			</InitialCivics>
+			<Leaders>
+				<Leader>
+					<LeaderName>LEADER_LEYAWIIN</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
@@ -2012,17 +2173,96 @@
 				<City>Orcrest</City>
 				<City>Rimmen</City>
 				<City>Riverhold</City>
+				<City>Fort Sphinxmoth</City>
+				<City>Tardron Wood</City>
+				<City>Valley Guard</City>
+				<City>Verkaht Hills</City>
+				<City>Siira</City>
+				<City>Delga</City>
+				<City>Kinrashi</City>
+				<City>Zelinin Border</City>
+				<City>Miir'lay</City>
+				<City>Khazmor</City>
+				<City>Torval</City>
+				<City>Senchal</City>
+				<City>Corinth</City>
 				<City>Alabaster</City>
+				<City>Mistral</City>
+				<City>Tenmar</City>
+				<City>River Keep</City>
+				<City>Darvulk Haven</City>
+				<City>South Guard</City>
+				<City>Darkarn Place</City>
+				<City>Duncori Walk</City>
+				<City>Black Heights</City>
+				<City>Amir'va</City>
+				<City>Helkarn</City>
+				<City>Heimthor Mount</City>
+				<City>Portneu View</City>
+				<City>Markgran</City>
+				<City>Hejta Oasis</City>
+				<City>Neumar Walk</City>
+				<City>Greenvale</City>
+				<City>Brukreich Bridge</City>
 			</Cities>
-			<Buildings/>
+			<Buildings>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+					<BuildingType>BUILDING_KHAJIIT_GRANARY</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+					<BuildingType>BUILDING_KHAJIIT_MARKET</BuildingType>
+				</Building>
+				<Building>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<BuildingType>BUILDING_KHAJIIT_PALACE</BuildingType>
+				</Building>
+			</Buildings>
 			<Units>
 				<Unit>
 					<UnitClassType>UNITCLASS_AUTOMATON</UnitClassType>
 					<UnitType>NONE</UnitType>
 				</Unit>
 				<Unit>
-					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<UnitClassType>UNITCLASS_CASTER</UnitClassType>
+					<UnitType>UNIT_DAGI_CASTER</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_MACEMAN</UnitClassType>
+					<UnitType>UNIT_CATHAY</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_CHARIOT</UnitClassType>
+					<UnitType>UNIT_PAHMAR</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_HORSE_ARCHER</UnitClassType>
+					<UnitType>UNIT_SENCHE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
+					<UnitType>UNIT_SENCHE_RIDER</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_HEAVY_CAVALRY</UnitClassType>
+					<UnitType>UNIT_ELEPHANT</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_MAGE</UnitClassType>
+					<UnitType>UNIT_SHAMAN</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_SCOUT</UnitClassType>
+					<UnitType>UNIT_DAGI_SCOUT</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_WARMAGE</UnitClassType>
 					<UnitType>NONE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<UnitType>UNIT_MINOR_SETTLER</UnitType>
 				</Unit>
 				<Unit>
 					<UnitClassType>UNITCLASS_SPRIGGAN</UnitClassType>

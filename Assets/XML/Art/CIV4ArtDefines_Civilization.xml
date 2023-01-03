@@ -145,6 +145,12 @@
 			<bWhiteFlag>1</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_BLACK_WOOD</Type>
+			<Button>Art/Interface/Buttons/Civilizations/new/BLACK_WOOD.dds</Button>
+			<Path>Art/Interface/TeamColor/new/BLACK_WOOD.dds</Path>
+			<bWhiteFlag>1</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
 			<Type>ART_DEF_CIVILIZATION_SOLITUDE</Type>
 			<Button>Art/Interface/Buttons/Civilizations/new/SOLITUDE.dds</Button>
 			<Path>Art/Interface/TeamColor/new/SOLITUDE.dds</Path>

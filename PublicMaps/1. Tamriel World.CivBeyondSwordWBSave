@@ -187,6 +187,8 @@ BeginTeam
 EndTeam
 BeginTeam
 	TeamID=24
+	Tech=TECH_FISHING
+	Tech=TECH_HUNTING
 	ContactWithTeam=24
 	RevealMap=0
 EndTeam
@@ -607,8 +609,8 @@ BeginPlayer
 	Team=9
 	LeaderType=LEADER_MANE
 	LeaderName=Rid-Thar-ri'Datta
-	CivDesc=Elsweyr
-	CivShortDesc=TXT_KEY_CIV_KHAJIIT_SHORT_DESC
+	CivDesc=Pelletine
+	CivShortDesc=Pelletine
 	CivAdjective=TXT_KEY_CIV_KHAJIIT_ADJECTIVE
 	FlagDecal=Art/Interface/TeamColor/new/elsweyr.dds
 	WhiteFlag=1
@@ -1085,10 +1087,33 @@ BeginPlayer
 EndPlayer
 BeginPlayer
 	Team=24
-	LeaderType=NONE
-	CivType=NONE
-	Color=NONE
-	ArtStyle=NONE
+	LeaderType=LEADER_LEYAWIIN
+	LeaderName=Marius Caro
+	CivDesc=Black Wood
+	CivShortDesc=Black Wood
+	CivAdjective=TXT_KEY_CIV_IMPERIAL_ADJECTIVE
+	FlagDecal=Art/Interface/TeamColor/new/black_wood.dds
+	WhiteFlag=1
+	CivType=CIVILIZATION_LEYAWIN
+	Color=PLAYERCOLOR_WHEAT2
+	ArtStyle=ARTSTYLE_GRECO_ROMAN
+	PlayableCiv=1
+	MinorNationStatus=0
+	StartingGold=39
+	StateReligion=RELIGION_EIGHT_DIVINES
+	StartingEra=ERA_ANCIENT
+	RandomStartLocation=false
+	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DESPOTISM
+	CivicOption=CIVICOPTION_LEGAL, Civic=CIVIC_BARBARISM
+	CivicOption=CIVICOPTION_LABOR, Civic=CIVIC_TRIBALISM
+	CivicOption=CIVICOPTION_ECONOMY, Civic=CIVIC_DECENTRALIZATION
+	CivicOption=CIVICOPTION_RELIGION, Civic=CIVIC_PAGANISM
+	CivicOption=CIVICOPTION_8_DIVINES, Civic=CIVIC_8_DIVINES_NONE
+	CivicOption=CIVICOPTION_DAEDRA, Civic=CIVIC_DAEDRA_NONE
+	CivicOption=CIVICOPTION_NORDIC, Civic=CIVIC_NORDIC_NONE
+	CivicOption=CIVICOPTION_ALTMER, Civic=CIVIC_ALTMER_NONE
+	CivicOption=CIVICOPTION_TRIBUNAL, Civic=CIVIC_TRIBUNAL_NONE
+	CivicOption=CIVICOPTION_HOUSES_BAN, Civic=CIVIC_HOUSES_BAN
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
@@ -29111,23 +29136,24 @@ BeginPlot
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_LIGHT_SWORDSMAN, UnitOwner=50
+		UnitType=UNIT_LIGHT_SWORDSMAN, UnitOwner=24
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
 		UnitAIType=UNITAI_ATTACK
 	EndUnit
 	BeginUnit
-		UnitType=UNIT_WORKER, UnitOwner=50
+		UnitType=UNIT_WORKER, UnitOwner=24
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
 		UnitAIType=UNITAI_WORKER
 	EndUnit
 	BeginCity
-		CityOwner=50
+		CityOwner=24
 		CityName=Leyawin
 		CityPopulation=2
+		BuildingType=BUILDING_PALACE
 		ReligionType=RELIGION_EIGHT_DIVINES
 	EndCity
 EndPlot
@@ -32858,34 +32884,6 @@ BeginPlot
 	RouteType=ROUTE_ROAD
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=50
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_ATTACK
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=50
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_WORKER, UnitOwner=50
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_WORKER
-	EndUnit
-	BeginCity
-		CityOwner=50
-		CityName=Gideon
-		CityPopulation=2
-		ReligionType=RELIGION_ISLAM
-		ReligionType=RELIGION_EIGHT_DIVINES
-	EndCity
 EndPlot
 BeginPlot
 	x=70,y=13

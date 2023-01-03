@@ -81,10 +81,21 @@ class CvPediaTrait:
 		screen.addPanel(self.top.getNextWidgetName(), CyTranslator().getText("TXT_KEY_CIVILOPEDIA_HISTORY", ()), "", true, false, self.X_CONCEPT, self.Y_CONCEPT, self.W_EFFECTS, self.H_CONCEPT, PanelStyles.PANEL_STYLE_BLUE50 )
 		szText = CyTranslator().getText("TXT_KEY_CONCEPT_LEADERS_PEDIA", ())
 		sPedia = "TXT_KEY_" + gc.getTraitInfo(self.iTrait).getType() + "_PEDIA"
+# LPlate commentary.  Intention is that there will be a bGraphical = 0, iLevel = -1 pseudo promotion created for each trait, with the type being the same as the trait type, except for the addition of "PROMOTION_" at the start of it.  It is the button for the pseudo promo that will be used as the button for the trait.
+# LPlate Addition - Buttons for TraitInfo
+		sPseudoPromo = "PROMOTION_" + gc.getTraitInfo(self.iTrait).getType()
+		iPseudoPromo = gc.getInfoTypeForString(sPseudoPromo)
+		szButton = gc.getPromotionInfo(iPseudoPromo).getButton()
+# End LPlate Addition - Buttons for TraitInfo
 		sPedia = CyTranslator().getText(sPedia, ())
 		if sPedia.find("TXT_KEY_") == -1:
 			szText = sPedia
-		screen.addMultilineText(self.top.getNextWidgetName(), szText, self.X_CONCEPT+10, self.Y_CONCEPT+30, self.W_EFFECTS -20, self.H_CONCEPT- 30, WidgetTypes.WIDGET_GENERAL, -1, -1, CvUtil.FONT_LEFT_JUSTIFY)
+# LPlate Addition - Buttons for TraitInfo - Original Unmodified Platy Code
+#		screen.addMultilineText(self.top.getNextWidgetName(), szText, self.X_CONCEPT+10, self.Y_CONCEPT+30, self.W_EFFECTS -20, self.H_CONCEPT- 30, WidgetTypes.WIDGET_GENERAL, -1, -1, CvUtil.FONT_LEFT_JUSTIFY)
+# LPlate Addition - Buttons for TraitInfo - Original Unmodified Platy Code
+# LPlate Addition - Buttons for TraitInfo
+		screen.appendMultiListButton(rowListName, szButton, self.X_CONCEPT+10, self.Y_CONCEPT+30, self.W_EFFECTS -20, self.H_CONCEPT- 30, WidgetTypes.WIDGET_GENERAL, -1, -1, CvUtil.FONT_LEFT_JUSTIFY)
+# End LPlate Addition - Buttons for TraitInfo
 
 	def placeLinks(self, bRedraw):
 		screen = self.top.getScreen()
