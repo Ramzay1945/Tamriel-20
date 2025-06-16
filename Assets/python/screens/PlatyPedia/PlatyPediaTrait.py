@@ -24,10 +24,29 @@ class CvPediaTrait:
 		self.Y_CONCEPT = self.top.Y_ITEMS_PANE - 20
 		self.H_CONCEPT = self.Y_LEADER - self.Y_CONCEPT - 10
 
+# LPlate Addition - Buttons for TraitInfo
+		self.H_ICON = 150
+		self.W_MAIN_PANE = screen.getXResolution()/4
+		self.H_MAIN_PANE = 210
+		self.X_ICON = self.top.X_ITEMS_PANE +(self.W_EFFECTS - self.H_ICON)/2
+		self.Y_ICON = (self.H_MAIN_PANE - self.H_ICON)/2 + self.top.Y_ITEMS_PANE
+# End LPlate Addition - Buttons for TraitInfo
+
 		szHeader = gc.getTraitInfo(self.iTrait).getDescription().upper()
 		szHeader = u"<font=4b>" + self.top.color4 + CyTranslator().getText(self.top.sTraitIcon, ()) + szHeader + " " + CyTranslator().getText(self.top.sTraitIcon, ()) + "</color></font>"
+
 		screen.setLabel(self.top.getNextWidgetName(), "Background", szHeader, CvUtil.FONT_CENTER_JUSTIFY, screen.getXResolution()/2, self.top.Y_TITLE, 0, FontTypes.TITLE_FONT, WidgetTypes.WIDGET_GENERAL, -1, -1)
 		screen.setText(self.top.getNextWidgetName(), "Background", self.top.MENU_TEXT, CvUtil.FONT_CENTER_JUSTIFY, screen.getXResolution()/2, screen.getYResolution() - 42, 0, FontTypes.TITLE_FONT, WidgetTypes.WIDGET_PEDIA_MAIN, self.top.PLATYPEDIA_TRAIT, -1)
+
+# LPlate Addition - Buttons for TraitInfo
+		sPseudoPromo = "PROMOTION_" + gc.getTraitInfo(self.iTrait).getType()
+		iPseudoPromo = gc.getInfoTypeForString(sPseudoPromo)
+		sButton = gc.getPromotionInfo(iPseudoPromo).getButton()
+
+		screen.addPanel(self.top.getNextWidgetName(), "", "", False, False, self.X_ICON, self.Y_CONCEPT, self.H_ICON, self.H_ICON, PanelStyles.PANEL_STYLE_MAIN)
+		screen.addDDSGFC(self.top.getNextWidgetName(), sButton, self.X_ICON + self.H_ICON/2 - 64/2, self.Y_CONCEPT + self.H_ICON/2 - 64/2, 64, 64, WidgetTypes.WIDGET_GENERAL, -1, -1 )
+# End LPlate Addition - Buttons for TraitInfo
+
 		self.placeLeaders()
 		self.placeSpecial()
 		self.placeText()
@@ -48,7 +67,14 @@ class CvPediaTrait:
 				
 	def placeSpecial(self):
 		screen = self.top.getScreen()
-		screen.addPanel(self.top.getNextWidgetName(), CyTranslator().getText("TXT_KEY_PEDIA_EFFECTS", ()), "", true, false, self.top.X_ITEMS_PANE, self.Y_CONCEPT, self.W_EFFECTS, self.H_CONCEPT, PanelStyles.PANEL_STYLE_BLUE50 )	
+# LPlate Addition - Buttons for TraitInfo 
+		iYEffects = self.Y_CONCEPT + self.Y_ICON * 3/2
+		iHEffects = self.H_CONCEPT - self.Y_ICON * 3/2
+		screen.addPanel(self.top.getNextWidgetName(), CyTranslator().getText("TXT_KEY_PEDIA_EFFECTS", ()), "", true, false, self.top.X_ITEMS_PANE, iYEffects, self.W_EFFECTS, iHEffects, PanelStyles.PANEL_STYLE_BLUE50 )	
+# End LPlate Addition - Buttons for TraitInfo 
+# LPlate Addition - Buttons for TraitInfo - Original Unmodified Platy Code
+#		screen.addPanel(self.top.getNextWidgetName(), CyTranslator().getText("TXT_KEY_PEDIA_EFFECTS", ()), "", true, false, self.top.X_ITEMS_PANE, self.Y_CONCEPT, self.W_EFFECTS, self.H_CONCEPT, PanelStyles.PANEL_STYLE_BLUE50 )	
+# End LPlate Addition - Buttons for TraitInfo - Original Unmodified Platy Code
 		TraitInfo = gc.getTraitInfo(self.iTrait)
 		if self.iLeader > -1:
 			szText = CyGameTextMgr().parseLeaderTraits(self.iLeader, -1, False, True)
@@ -74,28 +100,23 @@ class CvPediaTrait:
 							szSpecialText += "\n"
 						szSpecialText += line[2:]
 			if bFound:
-				screen.addMultilineText(self.top.getNextWidgetName(), szSpecialText, self.top.X_ITEMS_PANE+5, self.Y_CONCEPT+30, self.W_EFFECTS-10, self.H_CONCEPT-10, WidgetTypes.WIDGET_GENERAL, -1, -1, CvUtil.FONT_LEFT_JUSTIFY)
+# LPlate Addition - Buttons for TraitInfo 
+				screen.addMultilineText(self.top.getNextWidgetName(), szSpecialText, self.top.X_ITEMS_PANE+5, iYEffects+30, self.W_EFFECTS-10, self.H_CONCEPT-10, WidgetTypes.WIDGET_GENERAL, -1, -1, CvUtil.FONT_LEFT_JUSTIFY)
+# End LPlate Addition - Buttons for TraitInfo 
+# LPlate Addition - Buttons for TraitInfo - Original Unmodified Platy Code
+#				screen.addMultilineText(self.top.getNextWidgetName(), szSpecialText, self.top.X_ITEMS_PANE+5, self.Y_CONCEPT+30, self.W_EFFECTS-10, self.H_CONCEPT-10, WidgetTypes.WIDGET_GENERAL, -1, -1, CvUtil.FONT_LEFT_JUSTIFY)
+# End LPlate Addition - Buttons for TraitInfo - Original Unmodified Platy Code
+
 
 	def placeText(self):
 		screen = self.top.getScreen()
 		screen.addPanel(self.top.getNextWidgetName(), CyTranslator().getText("TXT_KEY_CIVILOPEDIA_HISTORY", ()), "", true, false, self.X_CONCEPT, self.Y_CONCEPT, self.W_EFFECTS, self.H_CONCEPT, PanelStyles.PANEL_STYLE_BLUE50 )
 		szText = CyTranslator().getText("TXT_KEY_CONCEPT_LEADERS_PEDIA", ())
 		sPedia = "TXT_KEY_" + gc.getTraitInfo(self.iTrait).getType() + "_PEDIA"
-# LPlate commentary.  Intention is that there will be a bGraphical = 0, iLevel = -1 pseudo promotion created for each trait, with the type being the same as the trait type, except for the addition of "PROMOTION_" at the start of it.  It is the button for the pseudo promo that will be used as the button for the trait.
-# LPlate Addition - Buttons for TraitInfo
-		sPseudoPromo = "PROMOTION_" + gc.getTraitInfo(self.iTrait).getType()
-		iPseudoPromo = gc.getInfoTypeForString(sPseudoPromo)
-		szButton = gc.getPromotionInfo(iPseudoPromo).getButton()
-# End LPlate Addition - Buttons for TraitInfo
 		sPedia = CyTranslator().getText(sPedia, ())
 		if sPedia.find("TXT_KEY_") == -1:
 			szText = sPedia
-# LPlate Addition - Buttons for TraitInfo - Original Unmodified Platy Code
-#		screen.addMultilineText(self.top.getNextWidgetName(), szText, self.X_CONCEPT+10, self.Y_CONCEPT+30, self.W_EFFECTS -20, self.H_CONCEPT- 30, WidgetTypes.WIDGET_GENERAL, -1, -1, CvUtil.FONT_LEFT_JUSTIFY)
-# LPlate Addition - Buttons for TraitInfo - Original Unmodified Platy Code
-# LPlate Addition - Buttons for TraitInfo
-		screen.appendMultiListButton(rowListName, szButton, self.X_CONCEPT+10, self.Y_CONCEPT+30, self.W_EFFECTS -20, self.H_CONCEPT- 30, WidgetTypes.WIDGET_GENERAL, -1, -1, CvUtil.FONT_LEFT_JUSTIFY)
-# End LPlate Addition - Buttons for TraitInfo
+		screen.addMultilineText(self.top.getNextWidgetName(), szText, self.X_CONCEPT+10, self.Y_CONCEPT+30, self.W_EFFECTS -20, self.H_CONCEPT- 30, WidgetTypes.WIDGET_GENERAL, -1, -1, CvUtil.FONT_LEFT_JUSTIFY)
 
 	def placeLinks(self, bRedraw):
 		screen = self.top.getScreen()

@@ -7333,7 +7333,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/argonian.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_ORC</Type>
@@ -7395,7 +7395,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/orc.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_KHAJIIT</Type>
@@ -7457,7 +7457,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/khajit.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_DUNMER</Type>
@@ -7519,7 +7519,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/dunmer.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_BRETON</Type>
@@ -7581,7 +7581,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/breton.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_NORD</Type>
@@ -7643,7 +7643,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/nord.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_ALTMER</Type>
@@ -7705,7 +7705,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/altmer.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_IMPERIAL</Type>
@@ -7767,7 +7767,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/imperial.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_REDGUARD</Type>
@@ -7829,7 +7829,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/redguard.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_BOSMER</Type>
@@ -7891,7 +7891,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/bosmer.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_DWEMER</Type>
@@ -7953,7 +7953,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/dwemer.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_FOCUSED</Type>
@@ -8015,7 +8015,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/the_tower.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_MILITARISTIC</Type>
@@ -8077,7 +8077,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/the_lord.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_AGGRESSIVE</Type>
@@ -8139,7 +8139,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/the_warrior.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_CREATIVE</Type>
@@ -8201,7 +8201,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/the_lady.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_CHARISMATIC</Type>
@@ -8263,7 +8263,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/the_lover.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_MAGICIAN</Type>
@@ -8325,7 +8325,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/the_mage.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_TRADER</Type>
@@ -8387,7 +8387,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/the_steed.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_RESOURCEFUL</Type>
@@ -8449,11 +8449,11 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/the_atronach.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_MERCANTILE</Type>
-			<Description>The Tief</Description>
+			<Description>The Thief</Description>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<LayerAnimationPath>NONE</LayerAnimationPath>
 			<PromotionPrereq>NONE</PromotionPrereq>
@@ -8511,7 +8511,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/the_tief.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_EXPANSIVE</Type>
@@ -8573,7 +8573,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/the_apprentice.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_PHILOSOPHICAL</Type>
@@ -8635,7 +8635,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/the_ritual.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_SHADOW</Type>
@@ -8697,7 +8697,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/the_shadow.dds</Button>
 		</PromotionInfo>
 		<PromotionInfo>
 			<Type>PROMOTION_TRAIT_SERPENT</Type>
@@ -8759,7 +8759,7 @@
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
-			<Button>Art/Interface/Buttons/leaders/argonian.dds</Button>
+			<Button>Art/Interface/Buttons/leaders/trait/the_serpent.dds</Button>
 		</PromotionInfo>
 
 

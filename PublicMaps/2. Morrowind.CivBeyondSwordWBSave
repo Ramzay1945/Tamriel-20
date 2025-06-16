@@ -581,6 +581,7 @@ BeginPlayer
 	CivicOption=CIVICOPTION_NORDIC, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_ALTMER, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_TRIBUNAL, Civic=CIVIC_DESPOTISM
+	CivicOption=CIVICOPTION_HOUSES_BAN, Civic=CIVIC_HOUSES_UNBAN
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
@@ -611,6 +612,7 @@ BeginPlayer
 	CivicOption=CIVICOPTION_NORDIC, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_ALTMER, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_TRIBUNAL, Civic=CIVIC_DESPOTISM
+	CivicOption=CIVICOPTION_HOUSES_BAN, Civic=CIVIC_HOUSES_UNBAN
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
@@ -641,6 +643,7 @@ BeginPlayer
 	CivicOption=CIVICOPTION_NORDIC, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_ALTMER, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_TRIBUNAL, Civic=CIVIC_DESPOTISM
+	CivicOption=CIVICOPTION_HOUSES_BAN, Civic=CIVIC_HOUSES_UNBAN
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
@@ -671,6 +674,7 @@ BeginPlayer
 	CivicOption=CIVICOPTION_NORDIC, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_ALTMER, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_TRIBUNAL, Civic=CIVIC_DESPOTISM
+	CivicOption=CIVICOPTION_HOUSES_BAN, Civic=CIVIC_HOUSES_UNBAN
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
@@ -702,6 +706,7 @@ BeginPlayer
 	CivicOption=CIVICOPTION_NORDIC, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_ALTMER, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_TRIBUNAL, Civic=CIVIC_DESPOTISM
+	CivicOption=CIVICOPTION_HOUSES_BAN, Civic=CIVIC_HOUSES_UNBAN
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
@@ -732,6 +737,7 @@ BeginPlayer
 	CivicOption=CIVICOPTION_NORDIC, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_ALTMER, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_TRIBUNAL, Civic=CIVIC_DESPOTISM
+	CivicOption=CIVICOPTION_HOUSES_BAN, Civic=CIVIC_HOUSES_UNBAN
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
@@ -762,6 +768,7 @@ BeginPlayer
 	CivicOption=CIVICOPTION_NORDIC, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_ALTMER, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_TRIBUNAL, Civic=CIVIC_DESPOTISM
+	CivicOption=CIVICOPTION_HOUSES_BAN, Civic=CIVIC_HOUSES_UNBAN
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
@@ -792,6 +799,7 @@ BeginPlayer
 	CivicOption=CIVICOPTION_NORDIC, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_ALTMER, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_TRIBUNAL, Civic=CIVIC_DESPOTISM
+	CivicOption=CIVICOPTION_HOUSES_BAN, Civic=CIVIC_HOUSES_BAN
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
@@ -822,6 +830,7 @@ BeginPlayer
 	CivicOption=CIVICOPTION_NORDIC, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_ALTMER, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_TRIBUNAL, Civic=CIVIC_DESPOTISM
+	CivicOption=CIVICOPTION_HOUSES_BAN, Civic=CIVIC_HOUSES_BAN
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
@@ -852,6 +861,7 @@ BeginPlayer
 	CivicOption=CIVICOPTION_NORDIC, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_ALTMER, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_TRIBUNAL, Civic=CIVIC_DESPOTISM
+	CivicOption=CIVICOPTION_HOUSES_BAN, Civic=CIVIC_HOUSES_BAN
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
@@ -882,6 +892,7 @@ BeginPlayer
 	CivicOption=CIVICOPTION_NORDIC, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_ALTMER, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_TRIBUNAL, Civic=CIVIC_DESPOTISM
+	CivicOption=CIVICOPTION_HOUSES_BAN, Civic=CIVIC_HOUSES_BAN
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
@@ -912,6 +923,7 @@ BeginPlayer
 	CivicOption=CIVICOPTION_NORDIC, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_ALTMER, Civic=CIVIC_DESPOTISM
 	CivicOption=CIVICOPTION_TRIBUNAL, Civic=CIVIC_DESPOTISM
+	CivicOption=CIVICOPTION_HOUSES_BAN, Civic=CIVIC_HOUSES_BAN
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
@@ -1876,7 +1888,6 @@ BeginPlot
 		BuildingType=BUILDING_RIDDLETHAR_SHRINE
 		BuildingType=BUILDING_YOKUDA_SHRINE
 		BuildingType=BUILDING_HIST_SHRINE
-		BuildingType=BUILDING_MALAKAT_SHRINE
 		BuildingType=BUILDING_DAEDRA_SHRINE
 		ReligionType=RELIGION_JUDAISM
 		HolyCityReligionType=RELIGION_JUDAISM
@@ -1890,8 +1901,6 @@ BeginPlot
 		HolyCityReligionType=RELIGION_HIST
 		ReligionType=RELIGION_RIDDLETHAR
 		HolyCityReligionType=RELIGION_RIDDLETHAR
-		ReligionType=RELIGION_MALAKAT
-		HolyCityReligionType=RELIGION_MALAKAT
 		ReligionType=RELIGION_YOKUDA
 		HolyCityReligionType=RELIGION_YOKUDA
 	EndCity
@@ -3347,7 +3356,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=6,y=37
-	TerrainType=TERRAIN_LOW_COAST
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=0,4,11,
 EndPlot
@@ -4126,6 +4136,7 @@ BeginPlot
 		Damage=0
 		Level=1, Experience=0
 		PromotionType=PROMOTION_NORSEMAN
+		PromotionType=PROMOTION_ILLUSION1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -6968,7 +6979,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=16,y=17
-	TerrainType=TERRAIN_LOW_COAST
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=0,1,3,6,7,11,
 EndPlot
@@ -8266,7 +8278,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=19,y=22
-	TerrainType=TERRAIN_LOW_COAST
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=0,1,2,3,7,11,
 EndPlot
@@ -8644,7 +8657,7 @@ BeginPlot
 	RouteType=ROUTE_ROAD
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
-	TeamReveal=0,1,2,3,4,9,
+	TeamReveal=0,1,2,3,4,9,11,
 EndPlot
 BeginPlot
 	x=20,y=27
@@ -9006,7 +9019,7 @@ BeginPlot
 	RouteType=ROUTE_ROAD
 	TerrainType=TERRAIN_ASHLANDS
 	PlotType=1
-	TeamReveal=0,1,2,4,9,
+	TeamReveal=0,1,2,4,9,11,
 EndPlot
 BeginPlot
 	x=21,y=27
@@ -10271,7 +10284,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=24,y=32
-	TerrainType=TERRAIN_LOW_COAST
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=0,2,7,9,11,
 EndPlot
@@ -12692,6 +12706,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=30,y=38
+	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=2,11,

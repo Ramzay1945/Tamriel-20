@@ -684,6 +684,7 @@ class CvPediaMain( CvPediaScreen.CvPediaScreen ):
 		screen = self.getScreen()									
 		listSorted = self.sortTraits()
 		self.setNewTable(0, listSorted)
+
 		self.placePedia(listSorted, CyTranslator().getText(self.sTraitIcon, ()), WidgetTypes.WIDGET_PYTHON, 6789, True)
 
 	def placeSpecialists(self):
@@ -2257,7 +2258,16 @@ class CvPediaMain( CvPediaScreen.CvPediaScreen ):
 		for iItem in xrange(gc.getNumTraitInfos()):
 			ItemInfo = gc.getTraitInfo(iItem)
 			if ItemInfo.isGraphicalOnly() and not CyGame().isDebugMode(): continue
-			lItems.append([ItemInfo.getDescription(), iItem, ""])
+# LPlate Addition - Buttons for TraitInfo
+			sPseudoPromo = "PROMOTION_" + ItemInfo.getType()
+			iPseudoPromo = gc.getInfoTypeForString(sPseudoPromo)
+			sButton = gc.getPromotionInfo(iPseudoPromo).getButton()
+			lItems.append([ItemInfo.getDescription(), iItem, sButton])
+# End LPlate Addition - Buttons for TraitInfo
+# LPlate Addition - Buttons for TraitInfo - Original Unmodified Platy Code
+#			lItems.append([ItemInfo.getDescription(), iItem, ""])
+# End LPlate Addition - Buttons for TraitInfo - Original Unmodified Platy Code
+
 		if not lItems: return lSorted
 		lItems.sort()
 		lSorted.append(["", "", lItems])

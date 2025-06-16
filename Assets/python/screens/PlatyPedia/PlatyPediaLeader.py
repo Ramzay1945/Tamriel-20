@@ -91,7 +91,7 @@ class CvPediaLeader:
 		screen.addPanel( panelName, CyTranslator().getText("TXT_KEY_PEDIA_TRAITS", ()), "", true, false, self.X_CIV, self.Y_TRAITS, self.W_HISTORY, self.H_TRAITS, PanelStyles.PANEL_STYLE_BLUE50 )
 		szSpecialText = CyGameTextMgr().parseLeaderTraits(self.iLeader, -1, False, True)[1:]
 		screen.addMultilineText(self.top.getNextWidgetName(), szSpecialText, self.X_CIV+5, self.Y_TRAITS+30, self.W_HISTORY-10, self.H_TRAITS-30, WidgetTypes.WIDGET_GENERAL, -1, -1, CvUtil.FONT_LEFT_JUSTIFY)	
-		
+
 	def placeFavourites(self):		
 		screen = self.top.getScreen()
 		panelName = self.top.getNextWidgetName()
